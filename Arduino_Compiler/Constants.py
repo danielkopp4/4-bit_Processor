@@ -2,7 +2,15 @@
 
 #Settings
 
-IS_HEXADECIMAL = True
+IS_HEXADECIMAL = False
+
+
+#Instructions
+
+assembly_instructions = {
+    "add": 0x1,
+    "mult": 0x2
+}
 
 
 #Pins
@@ -21,6 +29,7 @@ default_file_location = "assemblyCode"
 default_save_name = "example_code"
 
 default_save_file_location = default_save_name + "\\" + default_save_name + ".ino"
+
 
 #Strings
 

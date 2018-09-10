@@ -1,7 +1,7 @@
 /* Made by Daniel Kopp */
 int pcPin = 10;
 int pins[16] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15};
-unsigned short instructions[2] = {0x7321, 0x1234};
+unsigned short instructions[2] = {0x1f13, 0x2201};
 
 void setup() {
   pinSetup();
