@@ -1,0 +1,347 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:switches
+LIBS:relays
+LIBS:motors
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:4-bit_processor-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 6 6
+Title ""
+Date ""
+Rev "1"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 4000 1900 1    60   Input ~ 0
+S0
+Text HLabel 3000 3050 0    60   Input ~ 0
+D0
+Text HLabel 3000 3650 0    60   Input ~ 0
+D1
+Text HLabel 3000 4250 0    60   Input ~ 0
+D2
+Text HLabel 3550 1900 1    60   Input ~ 0
+S1
+$Comp
+L 74LS32 U?
+U 1 1 5B98E2FD
+P 6700 3500
+F 0 "U?" H 6700 3550 50  0000 C CNN
+F 1 "74LS32" H 6700 3450 50  0000 C CNN
+F 2 "" H 6700 3500 50  0001 C CNN
+F 3 "" H 6700 3500 50  0001 C CNN
+	1    6700 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS32 U?
+U 1 1 5B98E304
+P 6650 4750
+F 0 "U?" H 6650 4800 50  0000 C CNN
+F 1 "74LS32" H 6650 4700 50  0000 C CNN
+F 2 "" H 6650 4750 50  0001 C CNN
+F 3 "" H 6650 4750 50  0001 C CNN
+	1    6650 4750
+	1    0    0    -1  
+$EndComp
+Text HLabel 9500 4100 2    60   Output ~ 0
+Out
+Wire Wire Line
+	5650 3200 5900 3200
+Wire Wire Line
+	5900 3200 5900 3400
+Wire Wire Line
+	5900 3400 6100 3400
+Wire Wire Line
+	5650 3800 5900 3800
+Wire Wire Line
+	5900 3800 5900 3600
+Wire Wire Line
+	5900 3600 6100 3600
+$Comp
+L 74LS11 U?
+U 1 1 5B98E312
+P 5050 3200
+F 0 "U?" H 5050 3250 50  0000 C CNN
+F 1 "74LS11" H 5050 3150 50  0000 C CNN
+F 2 "" H 5050 3200 50  0001 C CNN
+F 3 "" H 5050 3200 50  0001 C CNN
+	1    5050 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS11 U?
+U 1 1 5B98E319
+P 5050 3800
+F 0 "U?" H 5050 3850 50  0000 C CNN
+F 1 "74LS11" H 5050 3750 50  0000 C CNN
+F 2 "" H 5050 3800 50  0001 C CNN
+F 3 "" H 5050 3800 50  0001 C CNN
+	1    5050 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS11 U?
+U 1 1 5B98E320
+P 5050 4400
+F 0 "U?" H 5050 4450 50  0000 C CNN
+F 1 "74LS11" H 5050 4350 50  0000 C CNN
+F 2 "" H 5050 4400 50  0001 C CNN
+F 3 "" H 5050 4400 50  0001 C CNN
+	1    5050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS04 U?
+U 1 1 5B98E327
+P 4250 2450
+F 0 "U?" H 4445 2565 50  0000 C CNN
+F 1 "74LS04" H 4440 2325 50  0000 C CNN
+F 2 "" H 4250 2450 50  0001 C CNN
+F 3 "" H 4250 2450 50  0001 C CNN
+	1    4250 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS04 U?
+U 1 1 5B98E32E
+P 3300 2450
+F 0 "U?" H 3495 2565 50  0000 C CNN
+F 1 "74LS04" H 3490 2325 50  0000 C CNN
+F 2 "" H 3300 2450 50  0001 C CNN
+F 3 "" H 3300 2450 50  0001 C CNN
+	1    3300 2450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3000 3050 4450 3050
+Wire Wire Line
+	3000 3650 4450 3650
+Wire Wire Line
+	3000 4250 4450 4250
+Wire Wire Line
+	4250 2900 4250 4400
+Wire Wire Line
+	4250 3200 4450 3200
+Wire Wire Line
+	4000 1900 4250 1900
+Wire Wire Line
+	4250 1900 4250 2000
+Wire Wire Line
+	4250 4400 4450 4400
+Connection ~ 4250 3200
+Wire Wire Line
+	3550 1900 3300 1900
+Wire Wire Line
+	3300 1900 3300 2000
+Wire Wire Line
+	3300 2900 3300 3950
+Wire Wire Line
+	3300 3350 4450 3350
+Wire Wire Line
+	3300 3950 4450 3950
+Connection ~ 3300 3350
+Wire Wire Line
+	3550 1900 3550 5250
+Wire Wire Line
+	3550 4550 4450 4550
+Wire Wire Line
+	4000 1900 4000 5100
+Wire Wire Line
+	4000 3800 4450 3800
+Text HLabel 4000 1900 1    60   Input ~ 0
+S0
+Text HLabel 3000 3050 0    60   Input ~ 0
+D0
+Text HLabel 3000 3650 0    60   Input ~ 0
+D1
+Text HLabel 3000 4250 0    60   Input ~ 0
+D2
+Text HLabel 3550 1900 1    60   Input ~ 0
+S1
+$Comp
+L 74LS32 U?
+U 1 1 5B98E34D
+P 6700 3500
+F 0 "U?" H 6700 3550 50  0000 C CNN
+F 1 "74LS32" H 6700 3450 50  0000 C CNN
+F 2 "" H 6700 3500 50  0001 C CNN
+F 3 "" H 6700 3500 50  0001 C CNN
+	1    6700 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS32 U?
+U 1 1 5B98E354
+P 6650 4750
+F 0 "U?" H 6650 4800 50  0000 C CNN
+F 1 "74LS32" H 6650 4700 50  0000 C CNN
+F 2 "" H 6650 4750 50  0001 C CNN
+F 3 "" H 6650 4750 50  0001 C CNN
+	1    6650 4750
+	1    0    0    -1  
+$EndComp
+Text HLabel 9500 4100 2    60   Output ~ 0
+Out
+$Comp
+L 74LS11 U?
+U 1 1 5B98E35C
+P 5050 3200
+F 0 "U?" H 5050 3250 50  0000 C CNN
+F 1 "74LS11" H 5050 3150 50  0000 C CNN
+F 2 "" H 5050 3200 50  0001 C CNN
+F 3 "" H 5050 3200 50  0001 C CNN
+	1    5050 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS11 U?
+U 1 1 5B98E363
+P 5050 3800
+F 0 "U?" H 5050 3850 50  0000 C CNN
+F 1 "74LS11" H 5050 3750 50  0000 C CNN
+F 2 "" H 5050 3800 50  0001 C CNN
+F 3 "" H 5050 3800 50  0001 C CNN
+	1    5050 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS11 U?
+U 1 1 5B98E36A
+P 5050 4400
+F 0 "U?" H 5050 4450 50  0000 C CNN
+F 1 "74LS11" H 5050 4350 50  0000 C CNN
+F 2 "" H 5050 4400 50  0001 C CNN
+F 3 "" H 5050 4400 50  0001 C CNN
+	1    5050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS04 U?
+U 1 1 5B98E371
+P 4250 2450
+F 0 "U?" H 4445 2565 50  0000 C CNN
+F 1 "74LS04" H 4440 2325 50  0000 C CNN
+F 2 "" H 4250 2450 50  0001 C CNN
+F 3 "" H 4250 2450 50  0001 C CNN
+	1    4250 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS04 U?
+U 1 1 5B98E378
+P 3300 2450
+F 0 "U?" H 3495 2565 50  0000 C CNN
+F 1 "74LS04" H 3490 2325 50  0000 C CNN
+F 2 "" H 3300 2450 50  0001 C CNN
+F 3 "" H 3300 2450 50  0001 C CNN
+	1    3300 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS11 U?
+U 1 1 5B98E37F
+P 5050 5100
+F 0 "U?" H 5050 5150 50  0000 C CNN
+F 1 "74LS11" H 5050 5050 50  0000 C CNN
+F 2 "" H 5050 5100 50  0001 C CNN
+F 3 "" H 5050 5100 50  0001 C CNN
+	1    5050 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS11 U?
+U 1 1 5B98E386
+P 5050 5100
+F 0 "U?" H 5050 5150 50  0000 C CNN
+F 1 "74LS11" H 5050 5050 50  0000 C CNN
+F 2 "" H 5050 5100 50  0001 C CNN
+F 3 "" H 5050 5100 50  0001 C CNN
+	1    5050 5100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6050 5100 6050 4850
+Wire Wire Line
+	5650 5100 6050 5100
+Wire Wire Line
+	5650 4400 6050 4400
+Wire Wire Line
+	6050 4400 6050 4650
+Text HLabel 3000 4950 0    60   Input ~ 0
+D3
+Wire Wire Line
+	3000 4950 4450 4950
+Wire Wire Line
+	3550 5250 4450 5250
+Connection ~ 3550 4550
+Wire Wire Line
+	4000 5100 4450 5100
+Connection ~ 4000 3800
+$Comp
+L 74LS32 U?
+U 1 1 5B98E397
+P 8000 4100
+F 0 "U?" H 8000 4150 50  0000 C CNN
+F 1 "74LS32" H 8000 4050 50  0000 C CNN
+F 2 "" H 8000 4100 50  0001 C CNN
+F 3 "" H 8000 4100 50  0001 C CNN
+	1    8000 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS32 U?
+U 1 1 5B98E39E
+P 8000 4100
+F 0 "U?" H 8000 4150 50  0000 C CNN
+F 1 "74LS32" H 8000 4050 50  0000 C CNN
+F 2 "" H 8000 4100 50  0001 C CNN
+F 3 "" H 8000 4100 50  0001 C CNN
+	1    8000 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7250 4750 7400 4750
+Wire Wire Line
+	7400 4750 7400 4200
+Wire Wire Line
+	7400 4000 7400 3500
+Wire Wire Line
+	7400 3500 7300 3500
+Wire Wire Line
+	8600 4100 9500 4100
+$EndSCHEMATC
