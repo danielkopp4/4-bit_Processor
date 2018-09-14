@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>E:\GitHub\4-bit_Processor\Potential Schematics\4-bit_processor.sch</source>
+    <date>9/13/2018 4:15:09 PM</date>
+    <tool>Eeschema 4.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>4-bit_processor</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-11</date>
+        <source>4-bit_processor.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Full_ALU/" tstamps="/5B990C59/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>Full_ALU.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Full_ALU/Half_ALU1/" tstamps="/5B990C59/5B990C5E/">
+      <title_block>
+        <title>Half-ALU</title>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>half-alu.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Full_ALU/Half_ALU1/Full_adder/" tstamps="/5B990C59/5B990C5E/5B988F04/">
+      <title_block>
+        <title>Full-Adder</title>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>Full_adder.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Full_ALU/Half_ALU1/1:2_Multiplexer/" tstamps="/5B990C59/5B990C5E/5B98DA2C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>1-2_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Full_ALU/Half_ALU1/2:4_Multiplexer/" tstamps="/5B990C59/5B990C5E/5B98E051/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>2-4_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Full_ALU/Half_ALU0/" tstamps="/5B990C59/5B99BC00/">
+      <title_block>
+        <title>Half-ALU</title>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>half-alu.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Full_ALU/Half_ALU0/Full_adder/" tstamps="/5B990C59/5B99BC00/5B988F04/">
+      <title_block>
+        <title>Full-Adder</title>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>Full_adder.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Full_ALU/Half_ALU0/1:2_Multiplexer/" tstamps="/5B990C59/5B99BC00/5B98DA2C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>1-2_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/Full_ALU/Half_ALU0/2:4_Multiplexer/" tstamps="/5B990C59/5B99BC00/5B98E051/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>2-4_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/Full_ALU/Half-ALU3/" tstamps="/5B990C59/5B99C896/">
+      <title_block>
+        <title>Half-ALU</title>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>half-alu.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Full_ALU/Half-ALU3/Full_adder/" tstamps="/5B990C59/5B99C896/5B988F04/">
+      <title_block>
+        <title>Full-Adder</title>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>Full_adder.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Full_ALU/Half-ALU3/1:2_Multiplexer/" tstamps="/5B990C59/5B99C896/5B98DA2C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>1-2_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/Full_ALU/Half-ALU3/2:4_Multiplexer/" tstamps="/5B990C59/5B99C896/5B98E051/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>2-4_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/Full_ALU/Half_ALU2/" tstamps="/5B990C59/5B99C8B8/">
+      <title_block>
+        <title>Half-ALU</title>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>half-alu.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/Full_ALU/Half_ALU2/Full_adder/" tstamps="/5B990C59/5B99C8B8/5B988F04/">
+      <title_block>
+        <title>Full-Adder</title>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>Full_adder.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/Full_ALU/Half_ALU2/1:2_Multiplexer/" tstamps="/5B990C59/5B99C8B8/5B98DA2C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>1-2_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/Full_ALU/Half_ALU2/2:4_Multiplexer/" tstamps="/5B990C59/5B99C8B8/5B98E051/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>2-4_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="19" name="/Full_ALU/Selector/" tstamps="/5B990C59/5B9A8DEF/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>selector.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U2">
+      <value>74LS08</value>
+      <libsource lib="74xx" part="74LS08"/>
+      <sheetpath names="/Full_ALU/Half_ALU1/" tstamps="/5B990C59/5B990C5E/"/>
+      <tstamp>5B989249</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>74LS32</value>
+      <libsource lib="74xx" part="74LS32"/>
+      <sheetpath names="/Full_ALU/Half_ALU1/" tstamps="/5B990C59/5B990C5E/"/>
+      <tstamp>5B98940C</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>74LS86</value>
+      <libsource lib="74xx" part="74LS86"/>
+      <sheetpath names="/Full_ALU/Half_ALU1/" tstamps="/5B990C59/5B990C5E/"/>
+      <tstamp>5B98B405</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>74LS04</value>
+      <libsource lib="74xx" part="74LS04"/>
+      <sheetpath names="/Full_ALU/Half_ALU1/" tstamps="/5B990C59/5B990C5E/"/>
+      <tstamp>5B98D385</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>74LS08</value>
+      <libsource lib="74xx" part="74LS08"/>
+      <sheetpath names="/Full_ALU/Half_ALU1/1:2_Multiplexer/" tstamps="/5B990C59/5B990C5E/5B98DA2C/"/>
+      <tstamp>5B98DCE6</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>74LS32</value>
+      <libsource lib="74xx" part="74LS32"/>
+      <sheetpath names="/Full_ALU/Half_ALU1/2:4_Multiplexer/" tstamps="/5B990C59/5B990C5E/5B98E051/"/>
+      <tstamp>5B98E2FD</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half_ALU1/2:4_Multiplexer/" tstamps="/5B990C59/5B990C5E/5B98E051/"/>
+      <tstamp>5B98E312</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half_ALU1/2:4_Multiplexer/" tstamps="/5B990C59/5B990C5E/5B98E051/"/>
+      <tstamp>5B98E320</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half_ALU1/2:4_Multiplexer/" tstamps="/5B990C59/5B990C5E/5B98E051/"/>
+      <tstamp>5B98E37F</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>74LS32</value>
+      <libsource lib="74xx" part="74LS32"/>
+      <sheetpath names="/Full_ALU/Half_ALU0/" tstamps="/5B990C59/5B99BC00/"/>
+      <tstamp>5B98940C</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>74LS86</value>
+      <libsource lib="74xx" part="74LS86"/>
+      <sheetpath names="/Full_ALU/Half_ALU0/" tstamps="/5B990C59/5B99BC00/"/>
+      <tstamp>5B98B405</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>74LS04</value>
+      <libsource lib="74xx" part="74LS04"/>
+      <sheetpath names="/Full_ALU/Half_ALU0/" tstamps="/5B990C59/5B99BC00/"/>
+      <tstamp>5B98D385</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>74LS08</value>
+      <libsource lib="74xx" part="74LS08"/>
+      <sheetpath names="/Full_ALU/Half_ALU0/1:2_Multiplexer/" tstamps="/5B990C59/5B99BC00/5B98DA2C/"/>
+      <tstamp>5B98DCDF</tstamp>
+    </comp>
+    <comp ref="U17">
+      <value>74LS32</value>
+      <libsource lib="74xx" part="74LS32"/>
+      <sheetpath names="/Full_ALU/Half_ALU0/2:4_Multiplexer/" tstamps="/5B990C59/5B99BC00/5B98E051/"/>
+      <tstamp>5B98E2FD</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half_ALU0/2:4_Multiplexer/" tstamps="/5B990C59/5B99BC00/5B98E051/"/>
+      <tstamp>5B98E319</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half_ALU0/2:4_Multiplexer/" tstamps="/5B990C59/5B99BC00/5B98E051/"/>
+      <tstamp>5B98E320</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half_ALU0/2:4_Multiplexer/" tstamps="/5B990C59/5B99BC00/5B98E051/"/>
+      <tstamp>5B98E386</tstamp>
+    </comp>
+    <comp ref="U19">
+      <value>74LS32</value>
+      <libsource lib="74xx" part="74LS32"/>
+      <sheetpath names="/Full_ALU/Half-ALU3/" tstamps="/5B990C59/5B99C896/"/>
+      <tstamp>5B98940C</tstamp>
+    </comp>
+    <comp ref="U20">
+      <value>74LS86</value>
+      <libsource lib="74xx" part="74LS86"/>
+      <sheetpath names="/Full_ALU/Half-ALU3/" tstamps="/5B990C59/5B99C896/"/>
+      <tstamp>5B98B405</tstamp>
+    </comp>
+    <comp ref="U18">
+      <value>74LS04</value>
+      <libsource lib="74xx" part="74LS04"/>
+      <sheetpath names="/Full_ALU/Half-ALU3/" tstamps="/5B990C59/5B99C896/"/>
+      <tstamp>5B98D385</tstamp>
+    </comp>
+    <comp ref="U21">
+      <value>74LS08</value>
+      <libsource lib="74xx" part="74LS08"/>
+      <sheetpath names="/Full_ALU/Half-ALU3/Full_adder/" tstamps="/5B990C59/5B99C896/5B988F04/"/>
+      <tstamp>5B98F473</tstamp>
+    </comp>
+    <comp ref="U24">
+      <value>74LS32</value>
+      <libsource lib="74xx" part="74LS32"/>
+      <sheetpath names="/Full_ALU/Half-ALU3/2:4_Multiplexer/" tstamps="/5B990C59/5B99C896/5B98E051/"/>
+      <tstamp>5B98E2FD</tstamp>
+    </comp>
+    <comp ref="U22">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half-ALU3/2:4_Multiplexer/" tstamps="/5B990C59/5B99C896/5B98E051/"/>
+      <tstamp>5B98E319</tstamp>
+    </comp>
+    <comp ref="U23">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half-ALU3/2:4_Multiplexer/" tstamps="/5B990C59/5B99C896/5B98E051/"/>
+      <tstamp>5B98E36A</tstamp>
+    </comp>
+    <comp ref="U26">
+      <value>74LS32</value>
+      <libsource lib="74xx" part="74LS32"/>
+      <sheetpath names="/Full_ALU/Half_ALU2/" tstamps="/5B990C59/5B99C8B8/"/>
+      <tstamp>5B98940C</tstamp>
+    </comp>
+    <comp ref="U27">
+      <value>74LS86</value>
+      <libsource lib="74xx" part="74LS86"/>
+      <sheetpath names="/Full_ALU/Half_ALU2/" tstamps="/5B990C59/5B99C8B8/"/>
+      <tstamp>5B98B405</tstamp>
+    </comp>
+    <comp ref="U25">
+      <value>74LS04</value>
+      <libsource lib="74xx" part="74LS04"/>
+      <sheetpath names="/Full_ALU/Half_ALU2/" tstamps="/5B990C59/5B99C8B8/"/>
+      <tstamp>5B98D385</tstamp>
+    </comp>
+    <comp ref="U28">
+      <value>74LS08</value>
+      <libsource lib="74xx" part="74LS08"/>
+      <sheetpath names="/Full_ALU/Half_ALU2/Full_adder/" tstamps="/5B990C59/5B99C8B8/5B988F04/"/>
+      <tstamp>5B98F241</tstamp>
+    </comp>
+    <comp ref="U32">
+      <value>74LS32</value>
+      <libsource lib="74xx" part="74LS32"/>
+      <sheetpath names="/Full_ALU/Half_ALU2/2:4_Multiplexer/" tstamps="/5B990C59/5B99C8B8/5B98E051/"/>
+      <tstamp>5B98E2FD</tstamp>
+    </comp>
+    <comp ref="U29">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half_ALU2/2:4_Multiplexer/" tstamps="/5B990C59/5B99C8B8/5B98E051/"/>
+      <tstamp>5B98E312</tstamp>
+    </comp>
+    <comp ref="U30">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half_ALU2/2:4_Multiplexer/" tstamps="/5B990C59/5B99C8B8/5B98E051/"/>
+      <tstamp>5B98E320</tstamp>
+    </comp>
+    <comp ref="U31">
+      <value>74LS11</value>
+      <libsource lib="74xx" part="74LS11"/>
+      <sheetpath names="/Full_ALU/Half_ALU2/2:4_Multiplexer/" tstamps="/5B990C59/5B99C8B8/5B98E051/"/>
+      <tstamp>5B98E37F</tstamp>
+    </comp>
+    <comp ref="U35">
+      <value>74LS08</value>
+      <libsource lib="74xx" part="74LS08"/>
+      <sheetpath names="/Full_ALU/Selector/" tstamps="/5B990C59/5B9A8DEF/"/>
+      <tstamp>5B9AC09A</tstamp>
+    </comp>
+    <comp ref="U33">
+      <value>74LS04</value>
+      <libsource lib="74xx" part="74LS04"/>
+      <sheetpath names="/Full_ALU/Selector/" tstamps="/5B990C59/5B9A8DEF/"/>
+      <tstamp>5B9AC30F</tstamp>
+    </comp>
+    <comp ref="U34">
+      <value>74LS08</value>
+      <libsource lib="74xx" part="74LS08"/>
+      <sheetpath names="/Full_ALU/Selector/" tstamps="/5B990C59/5B9A8DEF/"/>
+      <tstamp>5B9ACE5C</tstamp>
+    </comp>
+    <comp ref="U36">
+      <value>74LS32</value>
+      <libsource lib="74xx" part="74LS32"/>
+      <sheetpath names="/Full_ALU/Selector/" tstamps="/5B990C59/5B9A8DEF/"/>
+      <tstamp>5B9AD025</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74LS04">
+      <description>Hex Inverseur</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="output"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="output"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="output"/>
+        <pin num="11" name="~" type="input"/>
+        <pin num="12" name="~" type="output"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS08">
+      <aliases>
+        <alias>74LS09</alias>
+      </aliases>
+      <description>Quad And2</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="output"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="input"/>
+        <pin num="11" name="~" type="output"/>
+        <pin num="12" name="~" type="input"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS11">
+      <description>Triple And3</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS11</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="input"/>
+        <pin num="11" name="~" type="input"/>
+        <pin num="12" name="~" type="output"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS32">
+      <description>Quad Or 2 inputs</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="output"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="input"/>
+        <pin num="11" name="~" type="output"/>
+        <pin num="12" name="~" type="input"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS86">
+      <aliases>
+        <alias>74HC86</alias>
+      </aliases>
+      <description>Quad XOR 2 inputs</description>
+      <docs>74xx/74ls86.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS86</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN1" type="input"/>
+        <pin num="2" name="IN2" type="input"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="IN1" type="input"/>
+        <pin num="5" name="IN2" type="input"/>
+        <pin num="6" name="OUT" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="OUT" type="output"/>
+        <pin num="9" name="IN1" type="input"/>
+        <pin num="10" name="IN2" type="input"/>
+        <pin num="11" name="OUT" type="output"/>
+        <pin num="12" name="IN1" type="input"/>
+        <pin num="13" name="IN2" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>E:\KiCad\share\kicad\library\74xx.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Full_ALU/Q1">
+      <node ref="U9" pin="11"/>
+      <node ref="U9" pin="8"/>
+    </net>
+    <net code="2" name="/Full_ALU/Q0">
+      <node ref="U17" pin="8"/>
+      <node ref="U17" pin="11"/>
+    </net>
+    <net code="3" name="/Full_ALU/CoutINTo">
+      <node ref="U20" pin="11"/>
+    </net>
+    <net code="4" name="/Full_ALU/OP3">
+      <node ref="U33" pin="3"/>
+    </net>
+    <net code="5" name="/Full_ALU/OP2">
+      <node ref="U34" pin="5"/>
+    </net>
+    <net code="6" name="/Full_ALU/OP1">
+      <node ref="U34" pin="12"/>
+    </net>
+    <net code="7" name="/Full_ALU/OP0">
+      <node ref="U34" pin="9"/>
+    </net>
+    <net code="8" name="/Full_ALU/b3">
+      <node ref="U13" pin="13"/>
+      <node ref="U20" pin="5"/>
+      <node ref="U13" pin="9"/>
+      <node ref="U20" pin="1"/>
+      <node ref="U19" pin="1"/>
+    </net>
+    <net code="9" name="/Full_ALU/b2">
+      <node ref="U21" pin="12"/>
+      <node ref="U27" pin="5"/>
+      <node ref="U28" pin="2"/>
+      <node ref="U27" pin="1"/>
+      <node ref="U26" pin="1"/>
+    </net>
+    <net code="10" name="/Full_ALU/b0">
+      <node ref="U5" pin="4"/>
+      <node ref="U12" pin="1"/>
+      <node ref="U11" pin="1"/>
+      <node ref="U5" pin="10"/>
+      <node ref="U12" pin="5"/>
+    </net>
+    <net code="11" name="/Full_ALU/b1">
+      <node ref="U3" pin="1"/>
+      <node ref="U2" pin="1"/>
+      <node ref="U4" pin="1"/>
+      <node ref="U4" pin="5"/>
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="12" name="/Full_ALU/Q2">
+      <node ref="U32" pin="8"/>
+      <node ref="U32" pin="11"/>
+    </net>
+    <net code="13" name="/Full_ALU/Q3">
+      <node ref="U24" pin="11"/>
+      <node ref="U24" pin="8"/>
+    </net>
+    <net code="14" name="/Full_ALU/a0">
+      <node ref="U10" pin="1"/>
+      <node ref="U13" pin="1"/>
+    </net>
+    <net code="15" name="/Full_ALU/a1">
+      <node ref="U2" pin="12"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="16" name="/Full_ALU/a2">
+      <node ref="U28" pin="9"/>
+      <node ref="U25" pin="1"/>
+    </net>
+    <net code="17" name="/Full_ALU/a3">
+      <node ref="U18" pin="1"/>
+      <node ref="U21" pin="4"/>
+    </net>
+    <net code="18" name="/Full_ALU/Half-ALU3/S0">
+      <node ref="U6" pin="10"/>
+      <node ref="U8" pin="4"/>
+      <node ref="U8" pin="2"/>
+      <node ref="U10" pin="11"/>
+      <node ref="U36" pin="3"/>
+      <node ref="U14" pin="4"/>
+      <node ref="U1" pin="13"/>
+      <node ref="U1" pin="11"/>
+      <node ref="U7" pin="2"/>
+      <node ref="U25" pin="11"/>
+      <node ref="U29" pin="10"/>
+      <node ref="U22" pin="2"/>
+      <node ref="U18" pin="11"/>
+      <node ref="U22" pin="4"/>
+      <node ref="U30" pin="2"/>
+      <node ref="U18" pin="13"/>
+      <node ref="U23" pin="4"/>
+      <node ref="U23" pin="10"/>
+      <node ref="U31" pin="4"/>
+      <node ref="U31" pin="2"/>
+      <node ref="U25" pin="13"/>
+      <node ref="U14" pin="10"/>
+      <node ref="U15" pin="10"/>
+      <node ref="U16" pin="2"/>
+      <node ref="U10" pin="13"/>
+    </net>
+    <net code="19" name="/Full_ALU/Half-ALU3/Ainv">
+      <node ref="U36" pin="2"/>
+      <node ref="U10" pin="3"/>
+      <node ref="U5" pin="2"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U25" pin="3"/>
+      <node ref="U36" pin="5"/>
+      <node ref="U35" pin="3"/>
+      <node ref="U13" pin="5"/>
+      <node ref="U21" pin="10"/>
+      <node ref="U12" pin="10"/>
+      <node ref="U5" pin="13"/>
+      <node ref="U18" pin="3"/>
+      <node ref="U28" pin="13"/>
+    </net>
+    <net code="20" name="/Full_ALU/Half-ALU3/S1">
+      <node ref="U23" pin="11"/>
+      <node ref="U23" pin="5"/>
+      <node ref="U15" pin="13"/>
+      <node ref="U25" pin="9"/>
+      <node ref="U31" pin="13"/>
+      <node ref="U7" pin="5"/>
+      <node ref="U36" pin="6"/>
+      <node ref="U1" pin="5"/>
+      <node ref="U10" pin="5"/>
+      <node ref="U31" pin="5"/>
+      <node ref="U22" pin="11"/>
+      <node ref="U15" pin="5"/>
+      <node ref="U30" pin="11"/>
+      <node ref="U23" pin="13"/>
+      <node ref="U15" pin="11"/>
+      <node ref="U25" pin="5"/>
+      <node ref="U8" pin="5"/>
+      <node ref="U1" pin="9"/>
+      <node ref="U30" pin="5"/>
+      <node ref="U8" pin="13"/>
+      <node ref="U18" pin="5"/>
+      <node ref="U7" pin="11"/>
+      <node ref="U18" pin="9"/>
+      <node ref="U10" pin="9"/>
+      <node ref="U16" pin="13"/>
+    </net>
+    <net code="21" name="/Full_ALU/Half-ALU3/Cin">
+      <node ref="U21" pin="2"/>
+      <node ref="U27" pin="11"/>
+      <node ref="U20" pin="10"/>
+    </net>
+    <net code="22" name="/Full_ALU/Half_ALU2/Cin">
+      <node ref="U28" pin="5"/>
+      <node ref="U27" pin="10"/>
+      <node ref="U4" pin="11"/>
+    </net>
+    <net code="23" name="/Full_ALU/Half_ALU1/Cin">
+      <node ref="U2" pin="10"/>
+      <node ref="U4" pin="10"/>
+      <node ref="U12" pin="11"/>
+    </net>
+    <net code="24" name="/Full_ALU/Half_ALU1/2:4_Multiplexer/D0">
+      <node ref="U2" pin="3"/>
+      <node ref="U6" pin="3"/>
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="25" name="/Full_ALU/Half_ALU1/2:4_Multiplexer/D1">
+      <node ref="U7" pin="1"/>
+      <node ref="U6" pin="9"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="26" name="/Full_ALU/Half_ALU1/1:2_Multiplexer/D1">
+      <node ref="U5" pin="1"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="27" name="/Full_ALU/Half_ALU1/2:4_Multiplexer/D3">
+      <node ref="U4" pin="8"/>
+      <node ref="U8" pin="3"/>
+      <node ref="U8" pin="1"/>
+    </net>
+    <net code="28" name="/Full_ALU/Half_ALU1/1:2_Multiplexer/Out">
+      <node ref="U4" pin="4"/>
+      <node ref="U4" pin="2"/>
+      <node ref="U3" pin="6"/>
+      <node ref="U2" pin="4"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="29" name="GND">
+      <node ref="U6" pin="7"/>
+      <node ref="U13" pin="7"/>
+      <node ref="U8" pin="7"/>
+      <node ref="U28" pin="7"/>
+      <node ref="U20" pin="7"/>
+      <node ref="U4" pin="7"/>
+      <node ref="U23" pin="7"/>
+      <node ref="U12" pin="7"/>
+      <node ref="U3" pin="7"/>
+      <node ref="U9" pin="7"/>
+      <node ref="U7" pin="7"/>
+      <node ref="U2" pin="7"/>
+      <node ref="U15" pin="7"/>
+      <node ref="U24" pin="7"/>
+      <node ref="U22" pin="7"/>
+      <node ref="U14" pin="7"/>
+      <node ref="U32" pin="7"/>
+      <node ref="U10" pin="7"/>
+      <node ref="U17" pin="7"/>
+      <node ref="U18" pin="7"/>
+      <node ref="U29" pin="7"/>
+      <node ref="U33" pin="7"/>
+      <node ref="U34" pin="7"/>
+      <node ref="U21" pin="7"/>
+      <node ref="U36" pin="7"/>
+      <node ref="U35" pin="7"/>
+      <node ref="U11" pin="7"/>
+      <node ref="U5" pin="7"/>
+      <node ref="U16" pin="7"/>
+      <node ref="U1" pin="7"/>
+      <node ref="U26" pin="7"/>
+      <node ref="U19" pin="7"/>
+      <node ref="U27" pin="7"/>
+      <node ref="U25" pin="7"/>
+      <node ref="U30" pin="7"/>
+      <node ref="U31" pin="7"/>
+    </net>
+    <net code="30" name="VCC">
+      <node ref="U27" pin="14"/>
+      <node ref="U20" pin="14"/>
+      <node ref="U24" pin="14"/>
+      <node ref="U10" pin="14"/>
+      <node ref="U17" pin="14"/>
+      <node ref="U11" pin="14"/>
+      <node ref="U15" pin="14"/>
+      <node ref="U23" pin="14"/>
+      <node ref="U14" pin="14"/>
+      <node ref="U13" pin="14"/>
+      <node ref="U8" pin="14"/>
+      <node ref="U28" pin="14"/>
+      <node ref="U4" pin="14"/>
+      <node ref="U25" pin="14"/>
+      <node ref="U3" pin="14"/>
+      <node ref="U7" pin="14"/>
+      <node ref="U2" pin="14"/>
+      <node ref="U32" pin="14"/>
+      <node ref="U26" pin="14"/>
+      <node ref="U31" pin="14"/>
+      <node ref="U21" pin="14"/>
+      <node ref="U36" pin="14"/>
+      <node ref="U29" pin="14"/>
+      <node ref="U35" pin="14"/>
+      <node ref="U30" pin="14"/>
+      <node ref="U33" pin="14"/>
+      <node ref="U34" pin="14"/>
+      <node ref="U22" pin="14"/>
+      <node ref="U16" pin="14"/>
+      <node ref="U1" pin="14"/>
+      <node ref="U12" pin="14"/>
+      <node ref="U6" pin="14"/>
+      <node ref="U18" pin="14"/>
+      <node ref="U19" pin="14"/>
+      <node ref="U5" pin="14"/>
+      <node ref="U9" pin="14"/>
+    </net>
+    <net code="31" name="/Full_ALU/Half_ALU1/2:4_Multiplexer/D2">
+      <node ref="U7" pin="3"/>
+      <node ref="U4" pin="3"/>
+      <node ref="U7" pin="9"/>
+    </net>
+    <net code="32" name="/Full_ALU/Half_ALU0/2:4_Multiplexer/D0">
+      <node ref="U5" pin="6"/>
+      <node ref="U8" pin="9"/>
+      <node ref="U14" pin="1"/>
+    </net>
+    <net code="33" name="/Full_ALU/Half_ALU0/1:2_Multiplexer/D1">
+      <node ref="U10" pin="2"/>
+      <node ref="U13" pin="4"/>
+    </net>
+    <net code="34" name="/Full_ALU/Half_ALU0/2:4_Multiplexer/D1">
+      <node ref="U11" pin="3"/>
+      <node ref="U14" pin="3"/>
+      <node ref="U14" pin="9"/>
+    </net>
+    <net code="35" name="/Full_ALU/Half_ALU0/2:4_Multiplexer/D2">
+      <node ref="U15" pin="3"/>
+      <node ref="U15" pin="1"/>
+      <node ref="U12" pin="3"/>
+    </net>
+    <net code="36" name="/Full_ALU/Half_ALU0/2:4_Multiplexer/D3">
+      <node ref="U16" pin="1"/>
+      <node ref="U12" pin="8"/>
+      <node ref="U15" pin="9"/>
+    </net>
+    <net code="37" name="/Full_ALU/Half_ALU0/1:2_Multiplexer/Out">
+      <node ref="U12" pin="2"/>
+      <node ref="U11" pin="6"/>
+      <node ref="U5" pin="5"/>
+      <node ref="U5" pin="9"/>
+      <node ref="U12" pin="4"/>
+      <node ref="U11" pin="2"/>
+    </net>
+    <net code="38" name="/Full_ALU/Half-ALU3/1:2_Multiplexer/D1">
+      <node ref="U21" pin="9"/>
+      <node ref="U18" pin="2"/>
+    </net>
+    <net code="39" name="/Full_ALU/Half-ALU3/2:4_Multiplexer/D0">
+      <node ref="U16" pin="9"/>
+      <node ref="U16" pin="3"/>
+      <node ref="U13" pin="8"/>
+    </net>
+    <net code="40" name="/Full_ALU/Half-ALU3/2:4_Multiplexer/D1">
+      <node ref="U22" pin="1"/>
+      <node ref="U22" pin="3"/>
+      <node ref="U19" pin="3"/>
+    </net>
+    <net code="41" name="/Full_ALU/Half-ALU3/2:4_Multiplexer/D3">
+      <node ref="U23" pin="3"/>
+      <node ref="U23" pin="9"/>
+      <node ref="U20" pin="8"/>
+    </net>
+    <net code="42" name="/Full_ALU/Half-ALU3/1:2_Multiplexer/Out">
+      <node ref="U19" pin="6"/>
+      <node ref="U20" pin="2"/>
+      <node ref="U13" pin="10"/>
+      <node ref="U13" pin="12"/>
+      <node ref="U20" pin="4"/>
+      <node ref="U19" pin="2"/>
+    </net>
+    <net code="43" name="/Full_ALU/Half-ALU3/2:4_Multiplexer/D2">
+      <node ref="U20" pin="3"/>
+      <node ref="U23" pin="1"/>
+      <node ref="U22" pin="9"/>
+    </net>
+    <net code="44" name="/Full_ALU/Half_ALU2/2:4_Multiplexer/D2">
+      <node ref="U30" pin="9"/>
+      <node ref="U27" pin="3"/>
+      <node ref="U30" pin="3"/>
+    </net>
+    <net code="45" name="/Full_ALU/Half_ALU2/2:4_Multiplexer/D1">
+      <node ref="U30" pin="1"/>
+      <node ref="U26" pin="3"/>
+      <node ref="U29" pin="9"/>
+    </net>
+    <net code="46" name="/Full_ALU/Half_ALU2/2:4_Multiplexer/D0">
+      <node ref="U29" pin="3"/>
+      <node ref="U29" pin="1"/>
+      <node ref="U21" pin="11"/>
+    </net>
+    <net code="47" name="/Full_ALU/Half_ALU2/1:2_Multiplexer/Out">
+      <node ref="U27" pin="2"/>
+      <node ref="U28" pin="1"/>
+      <node ref="U21" pin="13"/>
+      <node ref="U26" pin="6"/>
+      <node ref="U27" pin="4"/>
+      <node ref="U26" pin="2"/>
+    </net>
+    <net code="48" name="/Full_ALU/Half_ALU2/1:2_Multiplexer/D1">
+      <node ref="U28" pin="12"/>
+      <node ref="U25" pin="2"/>
+    </net>
+    <net code="49" name="/Full_ALU/Half_ALU2/2:4_Multiplexer/D3">
+      <node ref="U31" pin="3"/>
+      <node ref="U27" pin="8"/>
+      <node ref="U31" pin="1"/>
+    </net>
+    <net code="50" name="Net-(U33-Pad1)">
+      <node ref="U33" pin="1"/>
+    </net>
+    <net code="51" name="Net-(U33-Pad2)">
+      <node ref="U34" pin="2"/>
+      <node ref="U33" pin="2"/>
+    </net>
+    <net code="52" name="Net-(U33-Pad5)">
+      <node ref="U33" pin="5"/>
+    </net>
+    <net code="53" name="Net-(U34-Pad11)">
+      <node ref="U36" pin="4"/>
+      <node ref="U34" pin="11"/>
+    </net>
+    <net code="54" name="Net-(U34-Pad8)">
+      <node ref="U34" pin="8"/>
+      <node ref="U36" pin="1"/>
+    </net>
+    <net code="55" name="Net-(U34-Pad3)">
+      <node ref="U34" pin="3"/>
+      <node ref="U35" pin="1"/>
+    </net>
+    <net code="56" name="Net-(U34-Pad6)">
+      <node ref="U34" pin="6"/>
+      <node ref="U35" pin="2"/>
+    </net>
+    <net code="57" name="Net-(U33-Pad6)">
+      <node ref="U34" pin="1"/>
+      <node ref="U33" pin="6"/>
+    </net>
+    <net code="58" name="Net-(U33-Pad4)">
+      <node ref="U34" pin="10"/>
+      <node ref="U34" pin="13"/>
+      <node ref="U33" pin="4"/>
+      <node ref="U34" pin="4"/>
+    </net>
+    <net code="59" name="Net-(U2-Pad9)">
+      <node ref="U4" pin="9"/>
+      <node ref="U4" pin="6"/>
+      <node ref="U2" pin="9"/>
+    </net>
+    <net code="60" name="Net-(U2-Pad8)">
+      <node ref="U4" pin="12"/>
+      <node ref="U2" pin="8"/>
+    </net>
+    <net code="61" name="Net-(U2-Pad6)">
+      <node ref="U4" pin="13"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="62" name="Net-(U2-Pad11)">
+      <node ref="U2" pin="11"/>
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="63" name="Net-(U3-Pad5)">
+      <node ref="U5" pin="3"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="64" name="Net-(U1-Pad4)">
+      <node ref="U2" pin="13"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="65" name="Net-(U6-Pad8)">
+      <node ref="U6" pin="8"/>
+      <node ref="U9" pin="2"/>
+      <node ref="U9" pin="5"/>
+      <node ref="U7" pin="12"/>
+    </net>
+    <net code="66" name="Net-(U3-Pad12)">
+      <node ref="U7" pin="8"/>
+      <node ref="U7" pin="6"/>
+      <node ref="U3" pin="9"/>
+      <node ref="U3" pin="12"/>
+    </net>
+    <net code="67" name="Net-(U3-Pad11)">
+      <node ref="U3" pin="8"/>
+      <node ref="U9" pin="13"/>
+      <node ref="U9" pin="10"/>
+      <node ref="U3" pin="11"/>
+    </net>
+    <net code="68" name="Net-(U3-Pad10)">
+      <node ref="U8" pin="6"/>
+      <node ref="U3" pin="13"/>
+      <node ref="U3" pin="10"/>
+      <node ref="U8" pin="12"/>
+    </net>
+    <net code="69" name="Net-(U1-Pad6)">
+      <node ref="U6" pin="11"/>
+      <node ref="U1" pin="6"/>
+      <node ref="U7" pin="13"/>
+      <node ref="U6" pin="13"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="70" name="Net-(U6-Pad12)">
+      <node ref="U9" pin="4"/>
+      <node ref="U6" pin="12"/>
+      <node ref="U9" pin="1"/>
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="71" name="Net-(U9-Pad12)">
+      <node ref="U9" pin="3"/>
+      <node ref="U9" pin="12"/>
+      <node ref="U9" pin="9"/>
+      <node ref="U9" pin="6"/>
+    </net>
+    <net code="72" name="Net-(U1-Pad10)">
+      <node ref="U6" pin="2"/>
+      <node ref="U6" pin="4"/>
+      <node ref="U1" pin="12"/>
+      <node ref="U7" pin="10"/>
+      <node ref="U1" pin="10"/>
+      <node ref="U7" pin="4"/>
+    </net>
+    <net code="73" name="Net-(U12-Pad13)">
+      <node ref="U5" pin="8"/>
+      <node ref="U12" pin="13"/>
+    </net>
+    <net code="74" name="Net-(U12-Pad12)">
+      <node ref="U12" pin="12"/>
+      <node ref="U5" pin="11"/>
+    </net>
+    <net code="75" name="Net-(U12-Pad6)">
+      <node ref="U5" pin="12"/>
+      <node ref="U12" pin="6"/>
+      <node ref="U12" pin="9"/>
+    </net>
+    <net code="76" name="Net-(U11-Pad4)">
+      <node ref="U13" pin="3"/>
+      <node ref="U11" pin="4"/>
+    </net>
+    <net code="77" name="Net-(U10-Pad4)">
+      <node ref="U10" pin="4"/>
+      <node ref="U13" pin="2"/>
+    </net>
+    <net code="78" name="Net-(U11-Pad5)">
+      <node ref="U11" pin="5"/>
+      <node ref="U13" pin="6"/>
+    </net>
+    <net code="79" name="Net-(U10-Pad10)">
+      <node ref="U8" pin="10"/>
+      <node ref="U10" pin="12"/>
+      <node ref="U14" pin="2"/>
+      <node ref="U15" pin="2"/>
+      <node ref="U15" pin="4"/>
+      <node ref="U10" pin="10"/>
+    </net>
+    <net code="80" name="Net-(U10-Pad6)">
+      <node ref="U14" pin="5"/>
+      <node ref="U10" pin="8"/>
+      <node ref="U14" pin="13"/>
+      <node ref="U10" pin="6"/>
+      <node ref="U14" pin="11"/>
+      <node ref="U8" pin="11"/>
+    </net>
+    <net code="81" name="Net-(U14-Pad6)">
+      <node ref="U17" pin="5"/>
+      <node ref="U14" pin="8"/>
+      <node ref="U17" pin="2"/>
+      <node ref="U14" pin="6"/>
+    </net>
+    <net code="82" name="Net-(U11-Pad10)">
+      <node ref="U11" pin="10"/>
+      <node ref="U11" pin="13"/>
+      <node ref="U16" pin="12"/>
+      <node ref="U15" pin="8"/>
+    </net>
+    <net code="83" name="Net-(U14-Pad12)">
+      <node ref="U14" pin="12"/>
+      <node ref="U17" pin="4"/>
+      <node ref="U8" pin="8"/>
+      <node ref="U17" pin="1"/>
+    </net>
+    <net code="84" name="Net-(U11-Pad12)">
+      <node ref="U11" pin="12"/>
+      <node ref="U11" pin="9"/>
+      <node ref="U15" pin="6"/>
+      <node ref="U15" pin="12"/>
+    </net>
+    <net code="85" name="Net-(U17-Pad12)">
+      <node ref="U17" pin="9"/>
+      <node ref="U17" pin="6"/>
+      <node ref="U17" pin="12"/>
+      <node ref="U17" pin="3"/>
+    </net>
+    <net code="86" name="Net-(U11-Pad11)">
+      <node ref="U11" pin="11"/>
+      <node ref="U17" pin="10"/>
+      <node ref="U17" pin="13"/>
+      <node ref="U11" pin="8"/>
+    </net>
+    <net code="87" name="Net-(U20-Pad6)">
+      <node ref="U20" pin="6"/>
+      <node ref="U21" pin="1"/>
+      <node ref="U20" pin="9"/>
+    </net>
+    <net code="88" name="Net-(U20-Pad12)">
+      <node ref="U21" pin="3"/>
+      <node ref="U20" pin="12"/>
+    </net>
+    <net code="89" name="Net-(U13-Pad11)">
+      <node ref="U20" pin="13"/>
+      <node ref="U13" pin="11"/>
+    </net>
+    <net code="90" name="Net-(U19-Pad4)">
+      <node ref="U19" pin="4"/>
+      <node ref="U21" pin="6"/>
+    </net>
+    <net code="91" name="Net-(U19-Pad5)">
+      <node ref="U21" pin="8"/>
+      <node ref="U19" pin="5"/>
+    </net>
+    <net code="92" name="Net-(U18-Pad4)">
+      <node ref="U21" pin="5"/>
+      <node ref="U18" pin="4"/>
+    </net>
+    <net code="93" name="Net-(U24-Pad12)">
+      <node ref="U24" pin="12"/>
+      <node ref="U24" pin="6"/>
+      <node ref="U24" pin="9"/>
+      <node ref="U24" pin="3"/>
+    </net>
+    <net code="94" name="Net-(U19-Pad12)">
+      <node ref="U19" pin="12"/>
+      <node ref="U22" pin="8"/>
+      <node ref="U23" pin="12"/>
+      <node ref="U19" pin="9"/>
+    </net>
+    <net code="95" name="Net-(U16-Pad6)">
+      <node ref="U24" pin="4"/>
+      <node ref="U16" pin="8"/>
+      <node ref="U16" pin="6"/>
+      <node ref="U24" pin="1"/>
+    </net>
+    <net code="96" name="Net-(U19-Pad10)">
+      <node ref="U19" pin="10"/>
+      <node ref="U23" pin="6"/>
+      <node ref="U19" pin="13"/>
+      <node ref="U23" pin="8"/>
+    </net>
+    <net code="97" name="Net-(U19-Pad11)">
+      <node ref="U24" pin="13"/>
+      <node ref="U24" pin="10"/>
+      <node ref="U19" pin="11"/>
+      <node ref="U19" pin="8"/>
+    </net>
+    <net code="98" name="Net-(U16-Pad11)">
+      <node ref="U22" pin="5"/>
+      <node ref="U22" pin="13"/>
+      <node ref="U16" pin="5"/>
+      <node ref="U16" pin="11"/>
+      <node ref="U18" pin="8"/>
+      <node ref="U18" pin="6"/>
+    </net>
+    <net code="99" name="Net-(U22-Pad12)">
+      <node ref="U22" pin="12"/>
+      <node ref="U24" pin="5"/>
+      <node ref="U22" pin="6"/>
+      <node ref="U24" pin="2"/>
+    </net>
+    <net code="100" name="Net-(U16-Pad10)">
+      <node ref="U18" pin="10"/>
+      <node ref="U18" pin="12"/>
+      <node ref="U16" pin="4"/>
+      <node ref="U23" pin="2"/>
+      <node ref="U16" pin="10"/>
+      <node ref="U22" pin="10"/>
+    </net>
+    <net code="101" name="Net-(U27-Pad6)">
+      <node ref="U27" pin="9"/>
+      <node ref="U27" pin="6"/>
+      <node ref="U28" pin="4"/>
+    </net>
+    <net code="102" name="Net-(U27-Pad12)">
+      <node ref="U27" pin="12"/>
+      <node ref="U28" pin="6"/>
+    </net>
+    <net code="103" name="Net-(U27-Pad13)">
+      <node ref="U27" pin="13"/>
+      <node ref="U28" pin="3"/>
+    </net>
+    <net code="104" name="Net-(U25-Pad4)">
+      <node ref="U28" pin="10"/>
+      <node ref="U25" pin="4"/>
+    </net>
+    <net code="105" name="Net-(U26-Pad5)">
+      <node ref="U28" pin="11"/>
+      <node ref="U26" pin="5"/>
+    </net>
+    <net code="106" name="Net-(U26-Pad4)">
+      <node ref="U28" pin="8"/>
+      <node ref="U26" pin="4"/>
+    </net>
+    <net code="107" name="Net-(U25-Pad10)">
+      <node ref="U29" pin="4"/>
+      <node ref="U25" pin="10"/>
+      <node ref="U29" pin="2"/>
+      <node ref="U30" pin="4"/>
+      <node ref="U30" pin="10"/>
+      <node ref="U25" pin="12"/>
+    </net>
+    <net code="108" name="Net-(U26-Pad11)">
+      <node ref="U26" pin="8"/>
+      <node ref="U32" pin="10"/>
+      <node ref="U32" pin="13"/>
+      <node ref="U26" pin="11"/>
+    </net>
+    <net code="109" name="Net-(U29-Pad8)">
+      <node ref="U29" pin="8"/>
+      <node ref="U32" pin="2"/>
+      <node ref="U32" pin="5"/>
+      <node ref="U30" pin="12"/>
+    </net>
+    <net code="110" name="Net-(U29-Pad12)">
+      <node ref="U32" pin="1"/>
+      <node ref="U32" pin="4"/>
+      <node ref="U29" pin="12"/>
+      <node ref="U29" pin="6"/>
+    </net>
+    <net code="111" name="Net-(U26-Pad12)">
+      <node ref="U30" pin="6"/>
+      <node ref="U30" pin="8"/>
+      <node ref="U26" pin="12"/>
+      <node ref="U26" pin="9"/>
+    </net>
+    <net code="112" name="Net-(U25-Pad6)">
+      <node ref="U25" pin="6"/>
+      <node ref="U29" pin="11"/>
+      <node ref="U30" pin="13"/>
+      <node ref="U29" pin="5"/>
+      <node ref="U29" pin="13"/>
+      <node ref="U25" pin="8"/>
+    </net>
+    <net code="113" name="Net-(U26-Pad10)">
+      <node ref="U26" pin="10"/>
+      <node ref="U26" pin="13"/>
+      <node ref="U31" pin="12"/>
+      <node ref="U31" pin="6"/>
+    </net>
+    <net code="114" name="Net-(U32-Pad12)">
+      <node ref="U32" pin="3"/>
+      <node ref="U32" pin="9"/>
+      <node ref="U32" pin="12"/>
+      <node ref="U32" pin="6"/>
+    </net>
+  </nets>
+</export>
