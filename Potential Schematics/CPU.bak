@@ -36,7 +36,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 22
+Sheet 2 449
 Title "CPU"
 Date ""
 Rev "1"
@@ -93,13 +93,13 @@ Text HLabel 900  2300 0    60   Input ~ 0
 P22
 Text HLabel 900  2400 0    60   Input ~ 0
 P23
-Text HLabel 900  3700 0    60   Input ~ 0
+Text HLabel 900  4700 0    60   Input ~ 0
 P30
-Text HLabel 900  3800 0    60   Input ~ 0
+Text HLabel 900  4800 0    60   Input ~ 0
 P31
-Text HLabel 900  3900 0    60   Input ~ 0
+Text HLabel 900  4900 0    60   Input ~ 0
 P32
-Text HLabel 900  4000 0    60   Input ~ 0
+Text HLabel 900  5000 0    60   Input ~ 0
 P33
 Wire Wire Line
 	900  850  1750 850 
@@ -172,9 +172,46 @@ Wire Wire Line
 Wire Wire Line
 	1950 1850 900  1850
 $Sheet
-S 2800 3650 1100 550 
+S 2800 3650 1100 400 
 U 5B9D5FC6
 F0 "Integer_Overflow_Handler" 60
 F1 "Integer_Overflow_Handler.sch" 60
+F2 "OP0" I L 2800 3700 60 
+F3 "OP1" I L 2800 3800 60 
+F4 "OP2" I L 2800 3900 60 
+F5 "OP3" I L 2800 4000 60 
+F6 "CoutALU" I R 3900 3700 60 
+$EndSheet
+Wire Wire Line
+	3900 3700 4400 3700
+Wire Wire Line
+	4400 3700 4400 3400
+Wire Wire Line
+	4400 3400 3900 3400
+Wire Wire Line
+	2400 3100 2400 3700
+Wire Wire Line
+	2400 3700 2800 3700
+Connection ~ 2400 3100
+Wire Wire Line
+	2300 3200 2300 3800
+Wire Wire Line
+	2300 3800 2800 3800
+Connection ~ 2300 3200
+Wire Wire Line
+	2200 3300 2200 3900
+Wire Wire Line
+	2200 3900 2800 3900
+Connection ~ 2200 3300
+Wire Wire Line
+	2100 3400 2100 4000
+Wire Wire Line
+	2100 4000 2800 4000
+Connection ~ 2100 3400
+$Sheet
+S 6450 2150 1350 1300
+U 5B9C0EA0
+F0 "Registers" 60
+F1 "Registers.sch" 60
 $EndSheet
 $EndSCHEMATC

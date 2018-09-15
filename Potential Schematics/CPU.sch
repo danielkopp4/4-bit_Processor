@@ -36,9 +36,9 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 22
+Sheet 2 449
 Title "CPU"
-Date ""
+Date "2018-09-14"
 Rev "1"
 Comp ""
 Comment1 ""
@@ -208,4 +208,10 @@ Wire Wire Line
 Wire Wire Line
 	2100 4000 2800 4000
 Connection ~ 2100 3400
+$Sheet
+S 6450 2150 1350 1300
+U 5B9C0EA0
+F0 "Registers" 60
+F1 "Registers.sch" 60
+$EndSheet
 $EndSCHEMATC

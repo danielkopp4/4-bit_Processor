@@ -36,9 +36,9 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 22
+Sheet 2 449
 Title "Full_ALU"
-Date ""
+Date "2018-09-14"
 Rev "1"
 Comp ""
 Comment1 ""
