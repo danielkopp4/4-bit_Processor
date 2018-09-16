@@ -37,8 +37,8 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 360 449
-Title ""
-Date ""
+Title "4:16 Decoder"
+Date "2018-09-14"
 Rev "1"
 Comp ""
 Comment1 ""
@@ -629,4 +629,36 @@ Connection ~ 3750 4850
 Wire Wire Line
 	3750 4050 5150 4050
 Connection ~ 3750 4450
+Text Notes 5500 750  2    60   ~ 0
+AND
+Text Notes 5500 1150 2    60   ~ 0
+AND
+Text Notes 5500 1550 2    60   ~ 0
+AND
+Text Notes 5500 1950 2    60   ~ 0
+AND
+Text Notes 5500 2350 2    60   ~ 0
+AND
+Text Notes 5500 2750 2    60   ~ 0
+AND
+Text Notes 5500 3150 2    60   ~ 0
+AND
+Text Notes 5500 3550 2    60   ~ 0
+AND
+Text Notes 5500 3950 2    60   ~ 0
+AND
+Text Notes 5500 4350 2    60   ~ 0
+AND
+Text Notes 5500 4750 2    60   ~ 0
+AND
+Text Notes 5500 5150 2    60   ~ 0
+AND
+Text Notes 5500 5550 2    60   ~ 0
+AND
+Text Notes 5500 5950 2    60   ~ 0
+AND
+Text Notes 5500 6350 2    60   ~ 0
+AND
+Text Notes 5500 6750 2    60   ~ 0
+AND
 $EndSCHEMATC

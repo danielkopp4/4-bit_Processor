@@ -77,21 +77,21 @@ Text HLabel 900  1050 0    60   Input ~ 0
 OP2
 Text HLabel 900  1150 0    60   Input ~ 0
 OP3
-Text HLabel 900  1550 0    60   Input ~ 0
+Text HLabel 6200 2100 0    60   Input ~ 0
 P10
-Text HLabel 900  1650 0    60   Input ~ 0
+Text HLabel 6200 2200 0    60   Input ~ 0
 P11
-Text HLabel 900  1750 0    60   Input ~ 0
+Text HLabel 6200 2300 0    60   Input ~ 0
 P12
-Text HLabel 900  1850 0    60   Input ~ 0
+Text HLabel 6200 2400 0    60   Input ~ 0
 P13
-Text HLabel 900  2100 0    60   Input ~ 0
+Text HLabel 6200 2500 0    60   Input ~ 0
 P20
-Text HLabel 900  2200 0    60   Input ~ 0
+Text HLabel 6200 2600 0    60   Input ~ 0
 P21
-Text HLabel 900  2300 0    60   Input ~ 0
+Text HLabel 6200 2700 0    60   Input ~ 0
 P22
-Text HLabel 900  2400 0    60   Input ~ 0
+Text HLabel 6200 2800 0    60   Input ~ 0
 P23
 Text HLabel 900  4700 0    60   Input ~ 0
 P30
@@ -125,52 +125,6 @@ Wire Wire Line
 	1300 1150 1300 3400
 Wire Wire Line
 	1300 3400 2800 3400
-Wire Wire Line
-	900  1550 2250 1550
-Wire Wire Line
-	2250 1550 2250 2200
-Wire Wire Line
-	2250 2200 2800 2200
-Wire Wire Line
-	900  1650 2150 1650
-Wire Wire Line
-	2150 1650 2150 2300
-Wire Wire Line
-	2150 2300 2800 2300
-Wire Wire Line
-	2800 2400 2050 2400
-Wire Wire Line
-	2050 2400 2050 1750
-Wire Wire Line
-	2050 1750 900  1750
-Wire Wire Line
-	1950 2500 2800 2500
-Wire Wire Line
-	2800 2650 1200 2650
-Wire Wire Line
-	1200 2650 1200 2100
-Wire Wire Line
-	1200 2100 900  2100
-Wire Wire Line
-	900  2200 1100 2200
-Wire Wire Line
-	1100 2200 1100 2750
-Wire Wire Line
-	1100 2750 2800 2750
-Wire Wire Line
-	900  2300 1000 2300
-Wire Wire Line
-	1000 2300 1000 2850
-Wire Wire Line
-	1000 2850 2800 2850
-Wire Wire Line
-	900  2950 2800 2950
-Wire Wire Line
-	900  2400 900  2950
-Wire Wire Line
-	1950 2500 1950 1850
-Wire Wire Line
-	1950 1850 900  1850
 $Sheet
 S 2800 3650 1100 400 
 U 5B9D5FC6
@@ -209,9 +163,51 @@ Wire Wire Line
 	2100 4000 2800 4000
 Connection ~ 2100 3400
 $Sheet
-S 6450 2150 1350 1300
+S 6450 2050 1150 1650
 U 5B9C0EA0
 F0 "Registers" 60
 F1 "Registers.sch" 60
+F2 "RAddr00" I L 6450 2100 60 
+F3 "RAddr01" I L 6450 2200 60 
+F4 "RAddr02" I L 6450 2300 60 
+F5 "RAddr03" I L 6450 2400 60 
+F6 "RAddr10" I L 6450 2500 60 
+F7 "RAddr11" I L 6450 2600 60 
+F8 "RAddr12" I L 6450 2700 60 
+F9 "RAddr13" I L 6450 2800 60 
+F10 "Clock" I R 7600 2100 60 
+F11 "WD0" I L 6450 2950 60 
+F12 "WD1" I L 6450 3050 60 
+F13 "WD2" I L 6450 3150 60 
+F14 "WD3" I L 6450 3250 60 
+F15 "WAddr0" I L 6450 3350 60 
+F16 "WAddr1" I L 6450 3450 60 
+F17 "WAddr2" I L 6450 3550 60 
+F18 "WAddr3" I L 6450 3650 60 
+F19 "Q00" O R 7600 2400 60 
+F20 "Q01" O R 7600 2500 60 
+F21 "Q02" O R 7600 2600 60 
+F22 "Q03" O R 7600 2700 60 
+F23 "Q10" O R 7600 2900 60 
+F24 "Q11" O R 7600 3000 60 
+F25 "Q12" O R 7600 3100 60 
+F26 "Q13" O R 7600 3200 60 
+F27 "Off" I R 7600 2200 60 
 $EndSheet
+Wire Wire Line
+	6200 2100 6450 2100
+Wire Wire Line
+	6200 2200 6450 2200
+Wire Wire Line
+	6200 2300 6450 2300
+Wire Wire Line
+	6200 2400 6450 2400
+Wire Wire Line
+	6200 2500 6450 2500
+Wire Wire Line
+	6200 2600 6450 2600
+Wire Wire Line
+	6200 2700 6450 2700
+Wire Wire Line
+	6450 2800 6200 2800
 $EndSCHEMATC

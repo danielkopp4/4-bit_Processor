@@ -37,8 +37,8 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 23 449
-Title "Registers"
-Date ""
+Title "Registers / Cache"
+Date "2018-09-14"
 Rev "1"
 Comp ""
 Comment1 ""
@@ -1461,4 +1461,40 @@ Wire Notes Line
 	10900 1650 9850 1650
 Wire Notes Line
 	9850 1650 9850 650 
+Text Notes 2050 3850 2    60   ~ 0
+Reg 0\n
+Text Notes 2600 3850 2    60   ~ 0
+Reg 1\n
+Text Notes 3050 3850 2    60   ~ 0
+Reg 2\n
+Text Notes 3600 3850 2    60   ~ 0
+Reg 3\n
+Text Notes 4100 3850 2    60   ~ 0
+Reg 4\n
+Text Notes 4600 3850 2    60   ~ 0
+Reg 5\n
+Text Notes 5050 3850 2    60   ~ 0
+Reg 6\n
+Text Notes 5550 3850 2    60   ~ 0
+Reg 7\n
+Text Notes 6050 3850 2    60   ~ 0
+Reg 8\n
+Text Notes 6550 3850 2    60   ~ 0
+Reg 9\n
+Text Notes 7050 3850 2    60   ~ 0
+Reg a\n
+Text Notes 7600 3850 2    60   ~ 0
+Reg b\n
+Text Notes 8050 3850 2    60   ~ 0
+Reg c\n
+Text Notes 8550 3850 2    60   ~ 0
+Reg d
+Text Notes 9050 3850 2    60   ~ 0
+Reg e\n
+Text Notes 9600 3850 2    60   ~ 0
+Reg f\n
+Text Notes 7000 1250 2    60   ~ 0
+64:4 MUX\n
+Text Notes 4100 6900 2    60   ~ 0
+4:16 Decoder
 $EndSCHEMATC

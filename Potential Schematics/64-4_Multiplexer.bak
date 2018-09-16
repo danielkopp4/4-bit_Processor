@@ -38,7 +38,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 377 449
 Title "64:4 Multiplexer"
-Date ""
+Date "2018-09-14"
 Rev "1"
 Comp ""
 Comment1 ""
@@ -726,4 +726,12 @@ Wire Wire Line
 	4900 1850 4900 7500
 Wire Wire Line
 	4900 7500 6400 7500
+Text Notes 6850 5900 2    60   ~ 0
+16:1 MUX\n
+Text Notes 6850 3700 2    60   ~ 0
+16:1 MUX\n
+Text Notes 10450 3600 2    60   ~ 0
+16:1 MUX\n
+Text Notes 10450 1400 2    60   ~ 0
+16:1 MUX\n
 $EndSCHEMATC

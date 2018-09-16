@@ -36,7 +36,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 129 449
+Sheet 24 449
 Title "4-bit Register"
 Date "2018-09-14"
 Rev "1"
