@@ -77,21 +77,21 @@ Text HLabel 900  1050 0    60   Input ~ 0
 OP2
 Text HLabel 900  1150 0    60   Input ~ 0
 OP3
-Text HLabel 5650 2000 0    60   Input ~ 0
+Text HLabel 6200 2100 0    60   Input ~ 0
 P10
-Text HLabel 5650 2100 0    60   Input ~ 0
+Text HLabel 6200 2200 0    60   Input ~ 0
 P11
-Text HLabel 5650 2200 0    60   Input ~ 0
+Text HLabel 6200 2300 0    60   Input ~ 0
 P12
-Text HLabel 5650 2300 0    60   Input ~ 0
+Text HLabel 6200 2400 0    60   Input ~ 0
 P13
-Text HLabel 5650 2550 0    60   Input ~ 0
+Text HLabel 6200 2500 0    60   Input ~ 0
 P20
-Text HLabel 5650 2650 0    60   Input ~ 0
+Text HLabel 6200 2600 0    60   Input ~ 0
 P21
-Text HLabel 5650 2750 0    60   Input ~ 0
+Text HLabel 6200 2700 0    60   Input ~ 0
 P22
-Text HLabel 5650 2850 0    60   Input ~ 0
+Text HLabel 6200 2800 0    60   Input ~ 0
 P23
 Text HLabel 900  4700 0    60   Input ~ 0
 P30
@@ -194,4 +194,20 @@ F25 "Q12" O R 7600 3100 60
 F26 "Q13" O R 7600 3200 60 
 F27 "Off" I R 7600 2200 60 
 $EndSheet
+Wire Wire Line
+	6200 2100 6450 2100
+Wire Wire Line
+	6200 2200 6450 2200
+Wire Wire Line
+	6200 2300 6450 2300
+Wire Wire Line
+	6200 2400 6450 2400
+Wire Wire Line
+	6200 2500 6450 2500
+Wire Wire Line
+	6200 2600 6450 2600
+Wire Wire Line
+	6200 2700 6450 2700
+Wire Wire Line
+	6450 2800 6200 2800
 $EndSCHEMATC

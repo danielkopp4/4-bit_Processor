@@ -93,13 +93,13 @@ Text HLabel 6200 2700 0    60   Input ~ 0
 P22
 Text HLabel 6200 2800 0    60   Input ~ 0
 P23
-Text HLabel 900  4700 0    60   Input ~ 0
+Text HLabel 6200 3350 0    60   Input ~ 0
 P30
-Text HLabel 900  4800 0    60   Input ~ 0
+Text HLabel 6200 3450 0    60   Input ~ 0
 P31
-Text HLabel 900  4900 0    60   Input ~ 0
+Text HLabel 6200 3550 0    60   Input ~ 0
 P32
-Text HLabel 900  5000 0    60   Input ~ 0
+Text HLabel 6200 3650 0    60   Input ~ 0
 P33
 Wire Wire Line
 	900  850  1750 850 
@@ -210,4 +210,76 @@ Wire Wire Line
 	6200 2700 6450 2700
 Wire Wire Line
 	6450 2800 6200 2800
+Wire Wire Line
+	6200 3350 6450 3350
+Wire Wire Line
+	6450 3450 6200 3450
+Wire Wire Line
+	6200 3550 6450 3550
+Wire Wire Line
+	6200 3650 6450 3650
+Wire Wire Line
+	3900 2250 4850 2250
+Wire Wire Line
+	4850 2250 4850 2950
+Wire Wire Line
+	4850 2950 6450 2950
+Wire Wire Line
+	3900 2350 4750 2350
+Wire Wire Line
+	4750 2350 4750 3050
+Wire Wire Line
+	4750 3050 6450 3050
+Wire Wire Line
+	6450 3150 4650 3150
+Wire Wire Line
+	4650 3150 4650 2450
+Wire Wire Line
+	4650 2450 3900 2450
+Wire Wire Line
+	3900 2550 4550 2550
+Wire Wire Line
+	4550 2550 4550 3250
+Wire Wire Line
+	4550 3250 6450 3250
+Wire Wire Line
+	7600 2400 8500 2400
+Wire Wire Line
+	8500 2400 8500 1650
+Wire Wire Line
+	8500 1650 2700 1650
+Wire Wire Line
+	2700 1650 2700 2200
+Wire Wire Line
+	2700 2200 2800 2200
+Wire Wire Line
+	7600 2500 8600 2500
+Wire Wire Line
+	8600 2500 8600 1550
+Wire Wire Line
+	8600 1550 2600 1550
+Wire Wire Line
+	2600 1550 2600 2300
+Wire Wire Line
+	2600 2300 2800 2300
+Wire Wire Line
+	2800 2400 2500 2400
+Wire Wire Line
+	2500 2400 2500 1450
+Wire Wire Line
+	2500 1450 8700 1450
+Wire Wire Line
+	8700 1450 8700 2600
+Wire Wire Line
+	8700 2600 7600 2600
+Wire Wire Line
+	7600 2700 8800 2700
+Wire Wire Line
+	8800 2700 8800 1350
+Wire Wire Line
+	8800 1350 2400 1350
+Wire Wire Line
+	2400 1350 2400 2500
+Wire Wire Line
+	2400 2500 2800 2500
 $EndSCHEMATC
