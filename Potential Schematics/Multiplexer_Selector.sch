@@ -1,0 +1,394 @@
+EESchema Schematic File Version 4
+LIBS:4-bit_processor-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 451 451
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 1850 5950 0    50   Input ~ 0
+S0
+Text HLabel 1850 6050 0    50   Input ~ 0
+S1
+Text HLabel 1850 6150 0    50   Input ~ 0
+S2
+Text HLabel 1850 6250 0    50   Input ~ 0
+S3
+Text HLabel 1850 1800 0    50   Input ~ 0
+M00
+Text HLabel 1850 1900 0    50   Input ~ 0
+M01
+Text HLabel 1850 2000 0    50   Input ~ 0
+M02
+Text HLabel 1850 2100 0    50   Input ~ 0
+M03
+Text HLabel 1850 3500 0    50   Input ~ 0
+D10
+Text HLabel 1850 3600 0    50   Input ~ 0
+D11
+Text HLabel 1850 3700 0    50   Input ~ 0
+D12
+Text HLabel 1850 3800 0    50   Input ~ 0
+D13
+Text HLabel 9400 3300 2    50   Output ~ 0
+Q0
+Text HLabel 9400 3400 2    50   Output ~ 0
+Q1
+Text HLabel 9400 3500 2    50   Output ~ 0
+Q2
+Text HLabel 9400 3600 2    50   Output ~ 0
+Q3
+$Comp
+L 74xx:74LS08 U?
+U 1 1 5BAA6555
+P 3000 3350
+F 0 "U?" H 3000 3675 50  0000 C CNN
+F 1 "74LS08" H 3000 3584 50  0000 C CNN
+F 2 "" H 3000 3350 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3000 3350 50  0001 C CNN
+	1    3000 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS08 U?
+U 1 1 5BAA6595
+P 4100 3600
+F 0 "U?" H 4100 3925 50  0000 C CNN
+F 1 "74LS08" H 4100 3834 50  0000 C CNN
+F 2 "" H 4100 3600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 4100 3600 50  0001 C CNN
+	1    4100 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS08 U?
+U 1 1 5BAA6601
+P 4750 4050
+F 0 "U?" H 4750 4375 50  0000 C CNN
+F 1 "74LS08" H 4750 4284 50  0000 C CNN
+F 2 "" H 4750 4050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 4750 4050 50  0001 C CNN
+	1    4750 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS08 U?
+U 1 1 5BAA6607
+P 5850 4300
+F 0 "U?" H 5850 4625 50  0000 C CNN
+F 1 "74LS08" H 5850 4534 50  0000 C CNN
+F 2 "" H 5850 4300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5850 4300 50  0001 C CNN
+	1    5850 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS08 U?
+U 1 1 5BAA6759
+P 3000 1450
+F 0 "U?" H 3000 1775 50  0000 C CNN
+F 1 "74LS08" H 3000 1684 50  0000 C CNN
+F 2 "" H 3000 1450 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3000 1450 50  0001 C CNN
+	1    3000 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS08 U?
+U 1 1 5BAA675F
+P 4100 1700
+F 0 "U?" H 4100 2025 50  0000 C CNN
+F 1 "74LS08" H 4100 1934 50  0000 C CNN
+F 2 "" H 4100 1700 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 4100 1700 50  0001 C CNN
+	1    4100 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS08 U?
+U 1 1 5BAA6765
+P 4750 2150
+F 0 "U?" H 4750 2475 50  0000 C CNN
+F 1 "74LS08" H 4750 2384 50  0000 C CNN
+F 2 "" H 4750 2150 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 4750 2150 50  0001 C CNN
+	1    4750 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS08 U?
+U 1 1 5BAA676B
+P 5850 2400
+F 0 "U?" H 5850 2725 50  0000 C CNN
+F 1 "74LS08" H 5850 2634 50  0000 C CNN
+F 2 "" H 5850 2400 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5850 2400 50  0001 C CNN
+	1    5850 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS32 U?
+U 1 1 5BAA6A78
+P 8550 3000
+F 0 "U?" H 8550 3366 50  0000 C CNN
+F 1 "74LS32" H 8550 3275 50  0000 C CNN
+F 2 "" H 8550 3000 50  0001 C CNN
+F 3 "" H 8550 3000 50  0001 C CNN
+	1    8550 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS32 U?
+U 1 1 5BAA6B00
+P 8550 3450
+F 0 "U?" H 8550 3816 50  0000 C CNN
+F 1 "74LS32" H 8550 3725 50  0000 C CNN
+F 2 "" H 8550 3450 50  0001 C CNN
+F 3 "" H 8550 3450 50  0001 C CNN
+	1    8550 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS32 U?
+U 1 1 5BAA6B84
+P 8550 3900
+F 0 "U?" H 8550 4266 50  0000 C CNN
+F 1 "74LS32" H 8550 4175 50  0000 C CNN
+F 2 "" H 8550 3900 50  0001 C CNN
+F 3 "" H 8550 3900 50  0001 C CNN
+	1    8550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS32 U?
+U 1 1 5BAA6B8A
+P 8550 4350
+F 0 "U?" H 8550 4716 50  0000 C CNN
+F 1 "74LS32" H 8550 4625 50  0000 C CNN
+F 2 "" H 8550 4350 50  0001 C CNN
+F 3 "" H 8550 4350 50  0001 C CNN
+	1    8550 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6150 2400 7000 2400
+Wire Wire Line
+	7000 2400 7000 4250
+Wire Wire Line
+	7000 4250 7950 4250
+Wire Wire Line
+	6150 4300 6400 4300
+Wire Wire Line
+	6400 4300 6400 4450
+Wire Wire Line
+	6400 4450 7950 4450
+Wire Wire Line
+	5050 2150 5050 3300
+Wire Wire Line
+	5050 3300 6300 3300
+Wire Wire Line
+	6300 3300 6300 3800
+Wire Wire Line
+	6300 3800 7950 3800
+Wire Wire Line
+	5050 4050 5200 4050
+Wire Wire Line
+	5200 4000 7950 4000
+Wire Wire Line
+	4400 3600 4400 3550
+Wire Wire Line
+	4400 3550 7950 3550
+Wire Wire Line
+	7950 3350 4400 3350
+Wire Wire Line
+	4400 3350 4400 1700
+Wire Wire Line
+	3300 1450 3450 1450
+Wire Wire Line
+	3450 1450 3450 2900
+Wire Wire Line
+	3450 2900 7950 2900
+Wire Wire Line
+	3300 3350 3450 3350
+Wire Wire Line
+	3450 3350 3450 3100
+Wire Wire Line
+	3450 3100 7950 3100
+Wire Wire Line
+	9150 3000 9400 3000
+Wire Wire Line
+	9400 3000 9400 3300
+Wire Wire Line
+	9150 4350 9400 4350
+Wire Wire Line
+	9400 4350 9400 3600
+Wire Wire Line
+	9150 3900 9250 3900
+Wire Wire Line
+	9250 3900 9250 3500
+Wire Wire Line
+	9250 3500 9400 3500
+Wire Wire Line
+	9150 3450 9150 3400
+Wire Wire Line
+	9150 3400 9400 3400
+$Comp
+L 4-bit_processor-rescue:74LS04 U?
+U 1 1 5BAA86EE
+P 4400 6200
+F 0 "U?" H 4400 6515 50  0000 C CNN
+F 1 "74LS04" H 4400 6424 50  0000 C CNN
+F 2 "" H 4400 6200 50  0001 C CNN
+F 3 "" H 4400 6200 50  0001 C CNN
+	1    4400 6200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4850 6200 5450 6200
+Wire Wire Line
+	5550 6200 5550 4400
+Wire Wire Line
+	5450 6200 5450 2500
+Wire Wire Line
+	5450 2500 5550 2500
+Connection ~ 5450 6200
+Wire Wire Line
+	5450 6200 5550 6200
+Wire Wire Line
+	1850 6250 3950 6250
+Wire Wire Line
+	3950 6250 3950 6200
+Wire Wire Line
+	1850 4300 5200 4300
+Wire Wire Line
+	5200 4200 5550 4200
+Wire Wire Line
+	1850 3800 1850 4300
+Wire Wire Line
+	1850 3700 2350 3700
+Wire Wire Line
+	2350 3700 2350 3950
+Wire Wire Line
+	2350 3950 4450 3950
+Wire Wire Line
+	1850 3600 3500 3600
+Wire Wire Line
+	3500 3600 3500 3500
+Wire Wire Line
+	3500 3500 3800 3500
+Wire Wire Line
+	1850 3500 2000 3500
+Wire Wire Line
+	2000 3500 2000 3250
+Wire Wire Line
+	2000 3250 2700 3250
+Wire Wire Line
+	1850 1800 2050 1800
+Wire Wire Line
+	2050 1800 2050 1350
+Wire Wire Line
+	2050 1350 2700 1350
+Wire Wire Line
+	1850 1900 3600 1900
+Wire Wire Line
+	3600 1900 3600 1600
+Wire Wire Line
+	3600 1600 3800 1600
+Wire Wire Line
+	1850 2000 3900 2000
+Wire Wire Line
+	3900 2000 3900 2050
+Wire Wire Line
+	3900 2050 4450 2050
+Wire Wire Line
+	1850 2100 2000 2100
+Wire Wire Line
+	2000 2100 2000 2400
+Wire Wire Line
+	2000 2400 5550 2400
+Wire Wire Line
+	5550 2400 5550 2300
+Wire Wire Line
+	1850 6150 3800 6150
+Wire Wire Line
+	3800 6150 3800 4800
+Wire Wire Line
+	3800 4800 4450 4800
+Wire Wire Line
+	4450 4800 4450 4550
+Wire Wire Line
+	5200 4300 5200 4200
+Wire Wire Line
+	5200 4050 5200 4000
+Wire Wire Line
+	4450 4550 5250 4550
+Wire Wire Line
+	5250 4550 5250 2700
+Wire Wire Line
+	5250 2700 4450 2700
+Wire Wire Line
+	4450 2700 4450 2250
+Connection ~ 4450 4550
+Wire Wire Line
+	4450 4550 4450 4150
+Wire Wire Line
+	1850 5950 2250 5950
+Wire Wire Line
+	2250 5950 2250 1550
+Wire Wire Line
+	2250 1550 2700 1550
+$Comp
+L 4-bit_processor-rescue:74LS04 U?
+U 1 1 5BABAE89
+P 2700 5400
+F 0 "U?" H 2700 5715 50  0000 C CNN
+F 1 "74LS04" H 2700 5624 50  0000 C CNN
+F 2 "" H 2700 5400 50  0001 C CNN
+F 3 "" H 2700 5400 50  0001 C CNN
+	1    2700 5400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2250 5950 2700 5950
+Wire Wire Line
+	2700 5950 2700 5850
+Connection ~ 2250 5950
+Wire Wire Line
+	2700 4950 2700 3450
+Wire Wire Line
+	1850 6050 3300 6050
+Wire Wire Line
+	3650 6050 3650 3700
+Wire Wire Line
+	3650 3700 3800 3700
+$Comp
+L 4-bit_processor-rescue:74LS04 U?
+U 1 1 5BAC8A13
+P 3300 5600
+F 0 "U?" H 3300 5915 50  0000 C CNN
+F 1 "74LS04" H 3300 5824 50  0000 C CNN
+F 2 "" H 3300 5600 50  0001 C CNN
+F 3 "" H 3300 5600 50  0001 C CNN
+	1    3300 5600
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3300 6050
+Wire Wire Line
+	3300 6050 3650 6050
+Wire Wire Line
+	3300 5150 3300 4750
+Wire Wire Line
+	3300 4750 3550 4750
+Wire Wire Line
+	3550 4750 3550 1800
+Wire Wire Line
+	3550 1800 3800 1800
+$EndSCHEMATC

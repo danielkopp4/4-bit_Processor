@@ -1,42 +1,10 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 378 449
+Sheet 378 451
 Title "16:1 Multiplexer"
 Date "2018-09-14"
 Rev "1"
@@ -304,7 +272,7 @@ F6 "e" I L 4050 6950 60
 F7 "Q" O R 4600 6750 60 
 $EndSheet
 $Comp
-L 74LS04 U194
+L 4-bit_processor-rescue:74LS04 U194
 U 1 1 5BB53D19
 P 1700 5450
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB53D19" Ref="U194"  Part="1" 
@@ -319,7 +287,7 @@ F 3 "" H 1700 5450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS04 U181
+L 4-bit_processor-rescue:74LS04 U181
 U 6 1 5BB54417
 P 1400 5450
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB54417" Ref="U181"  Part="6" 
@@ -334,7 +302,7 @@ F 3 "" H 1400 5450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS04 U181
+L 4-bit_processor-rescue:74LS04 U181
 U 5 1 5BB55464
 P 1100 5450
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB55464" Ref="U181"  Part="5" 
@@ -349,7 +317,7 @@ F 3 "" H 1100 5450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS04 U181
+L 4-bit_processor-rescue:74LS04 U181
 U 4 1 5BB5546A
 P 800 5450
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB5546A" Ref="U181"  Part="4" 

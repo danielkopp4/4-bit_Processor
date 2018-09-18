@@ -1,38 +1,6 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -47,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L 74LS08 U?
+L 4-bit_processor-rescue:74LS08 U?
 U 3 1 5B98F241
 P 3800 4700
 AR Path="/5B987476/5B988F04/5B98F241" Ref="U?"  Part="1" 
@@ -67,7 +35,7 @@ F 3 "" H 3800 4700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS86 U?
+L 4-bit_processor-rescue:74LS86 U?
 U 2 1 5B98F2D0
 P 3800 2950
 AR Path="/5B987476/5B988F04/5B98F2D0" Ref="U?"  Part="1" 
@@ -87,7 +55,7 @@ F 3 "" H 3800 2950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS08 U?
+L 4-bit_processor-rescue:74LS08 U?
 U 4 1 5B98F473
 P 6150 3850
 AR Path="/5B987476/5B988F04/5B98F473" Ref="U?"  Part="1" 
@@ -107,7 +75,7 @@ F 3 "" H 6150 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS86 U?
+L 4-bit_processor-rescue:74LS86 U?
 U 3 1 5B98F47A
 P 8900 2800
 AR Path="/5B987476/5B988F04/5B98F47A" Ref="U?"  Part="1" 
@@ -187,7 +155,7 @@ Wire Wire Line
 	4950 3750 5550 3750
 Connection ~ 4950 2950
 $Comp
-L 74LS86 U?
+L 4-bit_processor-rescue:74LS86 U?
 U 4 1 5B98FB4D
 P 8900 4200
 AR Path="/5B987476/5B988F04/5B98FB4D" Ref="U?"  Part="1" 

@@ -1,42 +1,10 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 423 449
+Sheet 423 451
 Title "16:1 OR"
 Date "2018-09-14"
 Rev "1"
@@ -81,7 +49,7 @@ Df
 Text HLabel 5300 7350 3    60   Output ~ 0
 Q
 $Comp
-L 74LS32 U11
+L 4-bit_processor-rescue:74LS32 U11
 U 2 1 5BB0EE01
 P 3600 2150
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE01" Ref="U11"  Part="2" 
@@ -96,7 +64,7 @@ F 3 "" H 3600 2150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U11
+L 4-bit_processor-rescue:74LS32 U11
 U 3 1 5BB0EE08
 P 4100 2150
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE08" Ref="U11"  Part="3" 
@@ -111,7 +79,7 @@ F 3 "" H 4100 2150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U19
+L 4-bit_processor-rescue:74LS32 U19
 U 4 1 5BB0EE0F
 P 4550 2150
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE0F" Ref="U19"  Part="1" 
@@ -126,7 +94,7 @@ F 3 "" H 4550 2150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U19
+L 4-bit_processor-rescue:74LS32 U19
 U 2 1 5BB0EE16
 P 5050 2150
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE16" Ref="U19"  Part="4" 
@@ -141,7 +109,7 @@ F 3 "" H 5050 2150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U36
+L 4-bit_processor-rescue:74LS32 U36
 U 2 1 5BB0EE1D
 P 5500 2150
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE1D" Ref="U36"  Part="4" 
@@ -156,7 +124,7 @@ F 3 "" H 5500 2150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U203
+L 4-bit_processor-rescue:74LS32 U203
 U 1 1 5BB0EE24
 P 6000 2150
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE24" Ref="U203"  Part="3" 
@@ -171,7 +139,7 @@ F 3 "" H 6000 2150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U204
+L 4-bit_processor-rescue:74LS32 U204
 U 3 1 5BB0EE2B
 P 6450 2150
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE2B" Ref="U204"  Part="1" 
@@ -186,7 +154,7 @@ F 3 "" H 6450 2150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U204
+L 4-bit_processor-rescue:74LS32 U204
 U 4 1 5BB0EE32
 P 6950 2150
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE32" Ref="U204"  Part="2" 
@@ -201,7 +169,7 @@ F 3 "" H 6950 2150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U19
+L 4-bit_processor-rescue:74LS32 U19
 U 1 1 5BB0EE39
 P 4550 3750
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE39" Ref="U19"  Part="3" 
@@ -216,7 +184,7 @@ F 3 "" H 4550 3750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U17
+L 4-bit_processor-rescue:74LS32 U17
 U 3 1 5BB0EE40
 P 5050 3750
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE40" Ref="U17"  Part="2" 
@@ -231,7 +199,7 @@ F 3 "" H 5050 3750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U203
+L 4-bit_processor-rescue:74LS32 U203
 U 3 1 5BB0EE47
 P 5500 3750
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE47" Ref="U203"  Part="1" 
@@ -246,7 +214,7 @@ F 3 "" H 5500 3750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U203
+L 4-bit_processor-rescue:74LS32 U203
 U 2 1 5BB0EE4E
 P 6000 3750
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE4E" Ref="U203"  Part="4" 
@@ -261,7 +229,7 @@ F 3 "" H 6000 3750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U17
+L 4-bit_processor-rescue:74LS32 U17
 U 4 1 5BB0EE55
 P 5050 5100
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE55" Ref="U17"  Part="4" 
@@ -276,7 +244,7 @@ F 3 "" H 5050 5100 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U203
+L 4-bit_processor-rescue:74LS32 U203
 U 4 1 5BB0EE5C
 P 5550 5100
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE5C" Ref="U203"  Part="2" 
@@ -291,7 +259,7 @@ F 3 "" H 5550 5100 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS32 U36
+L 4-bit_processor-rescue:74LS32 U36
 U 1 1 5BB0EE63
 P 5300 6750
 AR Path="/5B9D167A/5B9C0EA0/5BAE2F4B/5BAE3D50/5BB0E1EF/5BB0EE63" Ref="U36"  Part="3" 

@@ -1,42 +1,10 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 13 449
+Sheet 6 451
 Title "1:2 Multiplexer"
 Date "2018-09-14"
 Rev "1"
@@ -55,7 +23,7 @@ D1
 Text HLabel 7700 3750 2    60   Output ~ 0
 Out
 $Comp
-L 74LS32 U3
+L 4-bit_processor-rescue:74LS32 U3
 U 2 1 5B98DCD8
 P 7100 3750
 AR Path="/5B990C59/5B990C5E/5B98DA2C/5B98DCD8" Ref="U3"  Part="2" 
@@ -74,7 +42,7 @@ F 3 "" H 7100 3750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS08 U2
+L 4-bit_processor-rescue:74LS08 U2
 U 2 1 5B98DCDF
 P 5750 3350
 AR Path="/5B990C59/5B990C5E/5B98DA2C/5B98DCDF" Ref="U2"  Part="4" 
@@ -93,7 +61,7 @@ F 3 "" H 5750 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS08 U5
+L 4-bit_processor-rescue:74LS08 U5
 U 3 1 5B98DCE6
 P 5750 4150
 AR Path="/5B990C59/5B990C5E/5B98DA2C/5B98DCE6" Ref="U5"  Part="1" 
@@ -120,7 +88,7 @@ Wire Wire Line
 Wire Wire Line
 	6500 3350 6350 3350
 $Comp
-L 74LS04 U1
+L 4-bit_processor-rescue:74LS04 U1
 U 2 1 5B98DCF1
 P 4750 2700
 AR Path="/5B990C59/5B990C5E/5B98DA2C/5B98DCF1" Ref="U1"  Part="2" 
@@ -149,10 +117,12 @@ Wire Wire Line
 Wire Wire Line
 	3250 4050 5150 4050
 Wire Wire Line
-	4400 2250 4750 2250
+	4400 2250 4550 2250
 Wire Wire Line
 	4550 2250 4550 2100
 Wire Wire Line
 	4400 4250 4400 2250
 Connection ~ 4550 2250
+Wire Wire Line
+	4550 2250 4750 2250
 $EndSCHEMATC

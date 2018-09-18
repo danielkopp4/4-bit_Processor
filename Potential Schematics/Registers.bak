@@ -1,38 +1,6 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -114,7 +82,7 @@ $EndSheet
 Text HLabel 2000 7400 3    60   Input ~ 0
 Off
 $Comp
-L 74LS09 U2
+L 4-bit_processor-rescue:74LS09 U2
 U 4 1 5B9C957B
 P 3350 7300
 F 0 "U2" H 3350 7350 50  0000 C CNN
@@ -125,7 +93,7 @@ F 3 "" H 3350 7300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS04 U18
+L 4-bit_processor-rescue:74LS04 U18
 U 1 1 5B9CA481
 P 2450 6900
 F 0 "U18" H 2645 7015 50  0000 C CNN
@@ -361,7 +329,7 @@ F9 "D3" I B 9550 4250 60
 F10 "C" I B 9650 4250 60 
 $EndSheet
 $Comp
-L 74LS09 U2
+L 4-bit_processor-rescue:74LS09 U2
 U 1 1 5BAB5A82
 P 2150 5300
 F 0 "U2" H 2150 5350 50  0000 C CNN
@@ -372,7 +340,7 @@ F 3 "" H 2150 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U2
+L 4-bit_processor-rescue:74LS09 U2
 U 2 1 5BAB5B67
 P 2650 5300
 F 0 "U2" H 2650 5350 50  0000 C CNN
@@ -383,7 +351,7 @@ F 3 "" H 2650 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U2
+L 4-bit_processor-rescue:74LS09 U2
 U 3 1 5BAB5C8C
 P 3150 5300
 F 0 "U2" H 3150 5350 50  0000 C CNN
@@ -394,7 +362,7 @@ F 3 "" H 3150 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U3
+L 4-bit_processor-rescue:74LS09 U3
 U 1 1 5BAB5C92
 P 3650 5300
 F 0 "U3" H 3650 5350 50  0000 C CNN
@@ -405,7 +373,7 @@ F 3 "" H 3650 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U3
+L 4-bit_processor-rescue:74LS09 U3
 U 2 1 5BAB5D71
 P 4150 5300
 F 0 "U3" H 4150 5350 50  0000 C CNN
@@ -416,7 +384,7 @@ F 3 "" H 4150 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U3
+L 4-bit_processor-rescue:74LS09 U3
 U 3 1 5BAB5D77
 P 4650 5300
 F 0 "U3" H 4650 5350 50  0000 C CNN
@@ -427,7 +395,7 @@ F 3 "" H 4650 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U3
+L 4-bit_processor-rescue:74LS09 U3
 U 4 1 5BAB5D7D
 P 5150 5300
 F 0 "U3" H 5150 5350 50  0000 C CNN
@@ -438,7 +406,7 @@ F 3 "" H 5150 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U4
+L 4-bit_processor-rescue:74LS09 U4
 U 1 1 5BAB5D83
 P 5650 5300
 F 0 "U4" H 5650 5350 50  0000 C CNN
@@ -449,7 +417,7 @@ F 3 "" H 5650 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U4
+L 4-bit_processor-rescue:74LS09 U4
 U 2 1 5BAB5EB6
 P 6150 5300
 F 0 "U4" H 6150 5350 50  0000 C CNN
@@ -460,7 +428,7 @@ F 3 "" H 6150 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U4
+L 4-bit_processor-rescue:74LS09 U4
 U 3 1 5BAB5EBC
 P 6650 5300
 F 0 "U4" H 6650 5350 50  0000 C CNN
@@ -471,7 +439,7 @@ F 3 "" H 6650 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U4
+L 4-bit_processor-rescue:74LS09 U4
 U 4 1 5BAB5EC2
 P 7150 5300
 F 0 "U4" H 7150 5350 50  0000 C CNN
@@ -482,7 +450,7 @@ F 3 "" H 7150 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U6
+L 4-bit_processor-rescue:74LS09 U6
 U 1 1 5BAB5EC8
 P 7650 5300
 F 0 "U6" H 7650 5350 50  0000 C CNN
@@ -493,7 +461,7 @@ F 3 "" H 7650 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U6
+L 4-bit_processor-rescue:74LS09 U6
 U 2 1 5BAB5ECE
 P 8150 5300
 F 0 "U6" H 8150 5350 50  0000 C CNN
@@ -504,7 +472,7 @@ F 3 "" H 8150 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U6
+L 4-bit_processor-rescue:74LS09 U6
 U 3 1 5BAB5ED4
 P 8650 5300
 F 0 "U6" H 8650 5350 50  0000 C CNN
@@ -515,7 +483,7 @@ F 3 "" H 8650 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U6
+L 4-bit_processor-rescue:74LS09 U6
 U 4 1 5BAB5EDA
 P 9150 5300
 F 0 "U6" H 9150 5350 50  0000 C CNN
@@ -526,7 +494,7 @@ F 3 "" H 9150 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L 74LS09 U7
+L 4-bit_processor-rescue:74LS09 U7
 U 1 1 5BAB5EE0
 P 9650 5300
 F 0 "U7" H 9650 5350 50  0000 C CNN

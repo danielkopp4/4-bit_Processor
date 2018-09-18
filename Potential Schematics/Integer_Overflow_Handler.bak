@@ -1,38 +1,6 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -57,7 +25,7 @@ OP3
 Text HLabel 8050 2850 2    60   Input ~ 0
 CoutALU
 $Comp
-L 74LS08 U21
+L 4-bit_processor-rescue:74LS08 U21
 U 1 1 5B9D62F2
 P 3600 3400
 F 0 "U21" H 3600 3450 50  0000 C CNN
@@ -68,7 +36,7 @@ F 3 "" H 3600 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS08 U5
+L 4-bit_processor-rescue:74LS08 U5
 U 1 1 5B9D634D
 P 3600 2900
 F 0 "U5" H 3600 2950 50  0000 C CNN
@@ -79,7 +47,7 @@ F 3 "" H 3600 2900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS08 U35
+L 4-bit_processor-rescue:74LS08 U35
 U 2 1 5B9D6375
 P 6450 3900
 F 0 "U35" H 6450 3950 50  0000 C CNN
@@ -90,7 +58,7 @@ F 3 "" H 6450 3900 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS08 U21
+L 4-bit_processor-rescue:74LS08 U21
 U 4 1 5B9D643C
 P 5050 3150
 F 0 "U21" H 5050 3200 50  0000 C CNN
@@ -127,7 +95,7 @@ Wire Wire Line
 Wire Wire Line
 	2200 3300 3000 3300
 $Comp
-L 74LS04 U10
+L 4-bit_processor-rescue:74LS04 U10
 U 5 1 5B9D64D7
 P 2550 2450
 F 0 "U10" H 2745 2565 50  0000 C CNN
@@ -138,7 +106,7 @@ F 3 "" H 2550 2450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS04 U10
+L 4-bit_processor-rescue:74LS04 U10
 U 3 1 5B9D652D
 P 2400 2750
 F 0 "U10" H 2595 2865 50  0000 C CNN
@@ -149,7 +117,7 @@ F 3 "" H 2400 2750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS04 U10
+L 4-bit_processor-rescue:74LS04 U10
 U 2 1 5B9D6565
 P 1950 3400
 F 0 "U10" H 2145 3515 50  0000 C CNN
@@ -174,7 +142,7 @@ Wire Wire Line
 Wire Wire Line
 	1950 2450 2100 2450
 $Comp
-L LED D1
+L Device:LED D1
 U 1 1 5B9D6685
 P 8100 4700
 F 0 "D1" H 8100 4800 50  0000 C CNN
@@ -185,7 +153,7 @@ F 3 "" H 8100 4700 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L R R1
+L Device:R R1
 U 1 1 5B9D6786
 P 8400 4700
 F 0 "R1" V 8480 4700 50  0000 C CNN
@@ -196,7 +164,7 @@ F 3 "" H 8400 4700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L GND #PWR1
+L power:GND #PWR1
 U 1 1 5B9D67B7
 P 8550 4700
 F 0 "#PWR1" H 8550 4450 50  0001 C CNN
@@ -217,7 +185,7 @@ F4 "Q" O R 7250 4500 60
 F5 "QN" O R 7250 4700 60 
 $EndSheet
 $Comp
-L SW_Push SW1
+L 4-bit_processor-rescue:SW_Push SW1
 U 1 1 5B9D789D
 P 5150 4700
 F 0 "SW1" H 5200 4800 50  0000 L CNN

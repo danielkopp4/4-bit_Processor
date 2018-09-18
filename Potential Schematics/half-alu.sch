@@ -1,42 +1,10 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 7 449
+Sheet 4 451
 Title "Half-ALU"
 Date "2018-09-14"
 Rev "1"
@@ -60,7 +28,7 @@ F5 "S" O R 6650 4150 60
 F6 "Cout" O R 6650 4600 60 
 $EndSheet
 $Comp
-L 74LS08 U?
+L 4-bit_processor-rescue:74LS08 U?
 U 2 1 5B989249
 P 6250 2300
 AR Path="/5B987476/5B989249" Ref="U?"  Part="1" 
@@ -80,7 +48,7 @@ F 3 "" H 6250 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS32 U?
+L 4-bit_processor-rescue:74LS32 U?
 U 1 1 5B98940C
 P 6250 2800
 AR Path="/5B987476/5B98940C" Ref="U?"  Part="1" 
@@ -100,7 +68,7 @@ F 3 "" H 6250 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS86 U?
+L 4-bit_processor-rescue:74LS86 U?
 U 1 1 5B98B405
 P 6250 3350
 AR Path="/5B987476/5B98B405" Ref="U?"  Part="1" 
@@ -130,7 +98,7 @@ b
 Text HLabel 1650 4000 0    60   Input ~ 0
 a
 $Comp
-L 74LS04 U?
+L 4-bit_processor-rescue:74LS04 U?
 U 1 1 5B98D385
 P 2350 4000
 AR Path="/5B987476/5B98D385" Ref="U?"  Part="1" 
@@ -219,7 +187,7 @@ Wire Wire Line
 Wire Wire Line
 	4600 4200 3950 4200
 Wire Wire Line
-	4600 2400 4600 4400
+	4600 2400 4600 2900
 Wire Wire Line
 	4600 3450 5650 3450
 Wire Wire Line
@@ -229,14 +197,14 @@ Wire Wire Line
 	4600 2400 5650 2400
 Connection ~ 4600 2900
 Wire Wire Line
-	1650 2700 5650 2700
+	1650 2700 2050 2700
 Wire Wire Line
-	2050 2200 2050 3250
+	2050 2200 2050 2700
 Wire Wire Line
 	2050 2200 5650 2200
 Connection ~ 2050 2700
 Wire Wire Line
-	2050 3250 5650 3250
+	2050 3250 5050 3250
 Text HLabel 6700 5500 3    60   Output ~ 0
 Cout
 Wire Wire Line
@@ -262,4 +230,16 @@ Wire Wire Line
 Wire Wire Line
 	5150 4000 5650 4000
 Connection ~ 1900 4000
+Wire Wire Line
+	4600 3450 4600 4200
+Wire Wire Line
+	4600 2900 4600 3450
+Wire Wire Line
+	2050 2700 5650 2700
+Wire Wire Line
+	2050 2700 2050 3250
+Wire Wire Line
+	5050 3250 5650 3250
+Wire Wire Line
+	4600 4200 4600 4400
 $EndSCHEMATC

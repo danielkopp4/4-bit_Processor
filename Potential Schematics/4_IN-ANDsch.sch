@@ -1,42 +1,10 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 361 449
+Sheet 361 451
 Title "Quad In AND"
 Date "2018-09-14"
 Rev "1"
@@ -57,7 +25,7 @@ d
 Text HLabel 7350 3400 2    60   Output ~ 0
 Q
 $Comp
-L 74LS09 U179
+L 4-bit_processor-rescue:74LS09 U179
 U 2 1 5B9E5866
 P 3050 2650
 AR Path="/5B9D167A/5B9C0EA0/5B9E4FB9/5B9E57DB/5B9E5866" Ref="U179"  Part="2" 
@@ -84,7 +52,7 @@ F 3 "" H 3050 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS09 U179
+L 4-bit_processor-rescue:74LS09 U179
 U 3 1 5B9E588B
 P 3100 4250
 AR Path="/5B9D167A/5B9C0EA0/5B9E4FB9/5B9E57DB/5B9E588B" Ref="U179"  Part="3" 
@@ -135,7 +103,7 @@ Wire Wire Line
 Wire Wire Line
 	2300 4350 2500 4350
 $Comp
-L 74LS09 U179
+L 4-bit_processor-rescue:74LS09 U179
 U 4 1 5B9E59D7
 P 5850 3400
 AR Path="/5B9D167A/5B9C0EA0/5B9E4FB9/5B9E57DB/5B9E59D7" Ref="U179"  Part="4" 

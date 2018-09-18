@@ -1,42 +1,10 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 360 449
+Sheet 360 451
 Title "4:16 Decoder"
 Date "2018-09-14"
 Rev "1"
@@ -87,7 +55,7 @@ Ne
 Text HLabel 8400 6450 2    60   Output ~ 0
 Nf
 $Comp
-L 74LS04 U176
+L 4-bit_processor-rescue:74LS04 U176
 U 6 1 5B9E5306
 P 2650 3250
 F 0 "U176" H 2845 3365 50  0000 C CNN
@@ -98,7 +66,7 @@ F 3 "" H 2650 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS04 U181
+L 4-bit_processor-rescue:74LS04 U181
 U 1 1 5B9E535F
 P 2650 4150
 F 0 "U181" H 2845 4265 50  0000 C CNN
@@ -109,7 +77,7 @@ F 3 "" H 2650 4150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS04 U181
+L 4-bit_processor-rescue:74LS04 U181
 U 2 1 5B9E53AB
 P 2650 5100
 F 0 "U181" H 2845 5215 50  0000 C CNN
@@ -120,7 +88,7 @@ F 3 "" H 2650 5100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS04 U181
+L 4-bit_processor-rescue:74LS04 U181
 U 3 1 5B9E53B1
 P 2650 6050
 F 0 "U181" H 2845 6165 50  0000 C CNN

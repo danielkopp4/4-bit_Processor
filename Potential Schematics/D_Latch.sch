@@ -1,42 +1,10 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 26 449
+Sheet 26 451
 Title "D Latch"
 Date "2018-09-14"
 Rev "1"
@@ -65,7 +33,7 @@ D
 Text HLabel 1500 3950 0    60   Input ~ 0
 E
 $Comp
-L 74LS04 U18
+L 4-bit_processor-rescue:74LS04 U18
 U 4 1 5B9C16FA
 P 4850 3400
 AR Path="/5B9D167A/5B9C0EA0/5B9C0F16/5B9C0F19/5B9C0F1C/5B9C16FA" Ref="U18"  Part="4" 
@@ -204,7 +172,7 @@ F 3 "" H 4850 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS09 U7
+L 4-bit_processor-rescue:74LS09 U7
 U 2 1 5B9C17F5
 P 5900 3500
 AR Path="/5B9D167A/5B9C0EA0/5B9C0F16/5B9C0F19/5B9C0F1C/5B9C17F5" Ref="U7"  Part="2" 
@@ -343,7 +311,7 @@ F 3 "" H 5900 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS09 U7
+L 4-bit_processor-rescue:74LS09 U7
 U 3 1 5B9C1BD4
 P 5900 4000
 AR Path="/5B9D167A/5B9C0EA0/5B9C0F16/5B9C0F19/5B9C0F1C/5B9C1BD4" Ref="U7"  Part="3" 

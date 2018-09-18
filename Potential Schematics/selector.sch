@@ -1,42 +1,10 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 19 449
+Sheet 19 451
 Title "Decoder/Multiplexer/Selector"
 Date "2018-09-14"
 Rev "1"
@@ -61,7 +29,7 @@ S1
 Text HLabel 9250 3000 2    60   Output ~ 0
 S2
 $Comp
-L 74LS08 U35
+L 4-bit_processor-rescue:74LS08 U35
 U 1 1 5B9AC09A
 P 7300 4050
 F 0 "U35" H 7300 4100 50  0000 C CNN
@@ -72,7 +40,7 @@ F 3 "" H 7300 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS04 U33
+L 4-bit_processor-rescue:74LS04 U33
 U 2 1 5B9AC30F
 P 3850 4400
 F 0 "U33" H 4045 4515 50  0000 C CNN
@@ -98,7 +66,7 @@ Wire Wire Line
 	2850 4400 3400 4400
 Connection ~ 4300 4400
 $Comp
-L 74LS08 U34
+L 4-bit_processor-rescue:74LS08 U34
 U 3 1 5B9ACE5C
 P 7200 2050
 F 0 "U34" H 7200 2100 50  0000 C CNN
@@ -109,7 +77,7 @@ F 3 "" H 7200 2050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS08 U34
+L 4-bit_processor-rescue:74LS08 U34
 U 4 1 5B9ACF0E
 P 7200 2550
 F 0 "U34" H 7200 2600 50  0000 C CNN
@@ -133,7 +101,7 @@ Wire Wire Line
 Wire Wire Line
 	4500 1950 6600 1950
 $Comp
-L 74LS32 U36
+L 4-bit_processor-rescue:74LS32 U36
 U 1 1 5B9AD025
 P 8650 2150
 F 0 "U36" H 8650 2200 50  0000 C CNN
@@ -144,7 +112,7 @@ F 3 "" H 8650 2150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS32 U36
+L 4-bit_processor-rescue:74LS32 U36
 U 2 1 5B9AD134
 P 8650 2650
 F 0 "U36" H 8650 2700 50  0000 C CNN
@@ -175,7 +143,7 @@ Wire Wire Line
 Wire Wire Line
 	9350 2250 10100 2250
 $Comp
-L 74LS04 U33
+L 4-bit_processor-rescue:74LS04 U33
 U 1 1 5B9B8AF0
 P 3600 3250
 F 0 "U33" H 3795 3365 50  0000 C CNN
@@ -186,7 +154,7 @@ F 3 "" H 3600 3250 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L 74LS04 U33
+L 4-bit_processor-rescue:74LS04 U33
 U 3 1 5B9B8C05
 P 4000 3350
 F 0 "U33" H 4195 3465 50  0000 C CNN
@@ -199,7 +167,7 @@ $EndComp
 Wire Wire Line
 	7900 3000 9250 3000
 $Comp
-L 74LS08 U34
+L 4-bit_processor-rescue:74LS08 U34
 U 1 1 5B9B90AC
 P 4950 3900
 F 0 "U34" H 4950 3950 50  0000 C CNN
@@ -210,7 +178,7 @@ F 3 "" H 4950 3900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74LS08 U34
+L 4-bit_processor-rescue:74LS08 U34
 U 2 1 5B9B9141
 P 5000 4950
 F 0 "U34" H 5000 5000 50  0000 C CNN

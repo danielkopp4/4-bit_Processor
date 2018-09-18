@@ -1,42 +1,10 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:4-bit_processor-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 449
+Sheet 3 451
 Title "Full_ALU"
 Date "2018-09-14"
 Rev "1"
@@ -239,9 +207,9 @@ OP3
 Wire Wire Line
 	3100 1050 3100 1300
 Wire Wire Line
-	3100 1300 4400 1300
+	3100 1300 4050 1300
 Wire Wire Line
-	4050 1300 4050 5750
+	4050 1300 4050 2800
 Wire Wire Line
 	4050 2800 4400 2800
 Connection ~ 4050 1300
@@ -254,14 +222,14 @@ Connection ~ 4050 4250
 Wire Wire Line
 	3950 5850 4400 5850
 Wire Wire Line
-	3950 1400 3950 5850
+	3950 1400 3950 2900
 Wire Wire Line
 	3950 4350 4400 4350
 Wire Wire Line
 	3950 2900 4400 2900
 Connection ~ 3950 4350
 Wire Wire Line
-	3000 1400 4400 1400
+	3000 1400 3950 1400
 Connection ~ 3950 2900
 Wire Wire Line
 	3000 1400 3000 1150
@@ -286,19 +254,19 @@ Wire Wire Line
 Wire Wire Line
 	1850 1300 2800 1300
 Wire Wire Line
-	2800 1300 2800 3100
+	2800 1300 2800 1600
 Wire Wire Line
-	2800 1600 4400 1600
+	2800 1600 4250 1600
 Wire Wire Line
 	4250 1600 4250 1850
 Wire Wire Line
 	4250 1850 4400 1850
 Connection ~ 4250 1600
 Wire Wire Line
-	2800 3100 4400 3100
+	2800 3100 3050 3100
 Connection ~ 2800 1600
 Wire Wire Line
-	3050 3100 3050 6050
+	3050 3100 3050 4550
 Wire Wire Line
 	3050 4550 4400 4550
 Connection ~ 3050 3100
@@ -307,4 +275,24 @@ Wire Wire Line
 Connection ~ 3050 4550
 Text HLabel 5150 6550 2    60   Output ~ 0
 CoutINTo
+Wire Wire Line
+	4050 1300 4400 1300
+Wire Wire Line
+	4050 2800 4050 4250
+Wire Wire Line
+	4050 4250 4050 5750
+Wire Wire Line
+	3950 4350 3950 5850
+Wire Wire Line
+	3950 2900 3950 4350
+Wire Wire Line
+	3950 1400 4400 1400
+Wire Wire Line
+	4250 1600 4400 1600
+Wire Wire Line
+	2800 1600 2800 3100
+Wire Wire Line
+	3050 3100 4400 3100
+Wire Wire Line
+	3050 4550 3050 6050
 $EndSCHEMATC
