@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 451
+Sheet 2 456
 Title "CPU"
 Date "2018-09-14"
 Rev "1"
@@ -258,17 +258,6 @@ Wire Wire Line
 	2200 3300 1450 3300
 Wire Wire Line
 	2100 3400 2800 3400
-$Comp
-L 74xx:74LS08 U?
-U 1 1 5BA7B2CE
-P 2450 650
-F 0 "U?" H 2550 450 50  0000 C CNN
-F 1 "74LS08" H 2300 450 50  0000 C CNN
-F 2 "" H 2450 650 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 2450 650 50  0001 C CNN
-	1    2450 650 
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	7700 2200 7600 2200
 Text HLabel 10100 2100 2    50   Input ~ 0
@@ -286,19 +275,17 @@ Wire Wire Line
 Wire Wire Line
 	2300 2650 2800 2650
 Wire Wire Line
-	1750 850  1750 550 
+	1750 850  1750 600 
 Wire Wire Line
-	1750 550  2150 550 
+	1750 600  2150 600 
 Connection ~ 1750 850 
 Wire Wire Line
 	1300 1150 1800 1150
 Wire Wire Line
-	1800 1150 1800 750 
+	1800 1150 1800 800 
 Wire Wire Line
-	1800 750  2150 750 
+	1800 800  2150 800 
 Connection ~ 1300 1150
-Wire Wire Line
-	2750 650  7700 650 
 Wire Wire Line
 	7700 650  7700 2200
 Wire Wire Line
@@ -337,4 +324,19 @@ U 5BAA33A0
 F0 "Multiply_Devide_ALU" 50
 F1 "Mult_Devide.sch" 50
 $EndSheet
+$Comp
+L 4-bit_processor-rescue:74LS08 U1
+U 1 1 5BA57CCF
+P 2750 700
+F 0 "U1" H 3150 500 50  0000 C CNN
+F 1 "74LS08" H 3300 600 50  0000 C CNN
+F 2 "Daniel_Kopp:DIP-14_300_ELL" H 2750 700 50  0001 C CNN
+F 3 "" H 2750 700 50  0001 C CNN
+	1    2750 700 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3350 650  7700 650 
+Wire Wire Line
+	3350 650  3350 700 
 $EndSCHEMATC

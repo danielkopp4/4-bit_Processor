@@ -1,0 +1,125 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 5 21
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 6750 3600 500  400 
+U 5BACF3C4
+F0 "RS-Latch" 50
+F1 "RS-Latch_A.sch" 50
+F2 "R" I L 6750 3700 50 
+F3 "S" I L 6750 3900 50 
+F4 "QN" O R 7250 3900 50 
+F5 "Q" O R 7250 3700 50 
+$EndSheet
+Text HLabel 7250 3700 2    50   Output ~ 0
+Q
+Text HLabel 7250 3900 2    50   Output ~ 0
+QN
+Text HLabel 1250 3700 0    50   Input ~ 0
+D
+Text HLabel 1250 4000 0    50   Input ~ 0
+C
+$Comp
+L 74xx:74LS08 U3
+U 1 1 5BACFA74
+P 5050 3600
+AR Path="/5BACF075/5BACF3C1/5BACFA74" Ref="U3"  Part="1" 
+AR Path="/5BACF075/5BAD013C/5BACFA74" Ref="U8"  Part="1" 
+AR Path="/5BAD03B0/5BACF3C1/5BACFA74" Ref="U14"  Part="1" 
+AR Path="/5BAD03B0/5BAD013C/5BACFA74" Ref="U19"  Part="1" 
+AR Path="/5BAD03B9/5BACF3C1/5BACFA74" Ref="U25"  Part="1" 
+AR Path="/5BAD03B9/5BAD013C/5BACFA74" Ref="U30"  Part="1" 
+AR Path="/5BAD03C0/5BACF3C1/5BACFA74" Ref="U36"  Part="1" 
+AR Path="/5BAD03C0/5BAD013C/5BACFA74" Ref="U41"  Part="1" 
+F 0 "U8" H 5000 3800 50  0000 C CNN
+F 1 "74LS08" H 5050 3600 50  0000 C CNN
+F 2 "Daniel_Kopp:DIP-14_300_ELL" H 5050 3600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5050 3600 50  0001 C CNN
+	1    5050 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS08 U4
+U 1 1 5BACFAB6
+P 5050 4000
+AR Path="/5BACF075/5BACF3C1/5BACFAB6" Ref="U4"  Part="1" 
+AR Path="/5BACF075/5BAD013C/5BACFAB6" Ref="U9"  Part="1" 
+AR Path="/5BAD03B0/5BACF3C1/5BACFAB6" Ref="U15"  Part="1" 
+AR Path="/5BAD03B0/5BAD013C/5BACFAB6" Ref="U20"  Part="1" 
+AR Path="/5BAD03B9/5BACF3C1/5BACFAB6" Ref="U26"  Part="1" 
+AR Path="/5BAD03B9/5BAD013C/5BACFAB6" Ref="U31"  Part="1" 
+AR Path="/5BAD03C0/5BACF3C1/5BACFAB6" Ref="U37"  Part="1" 
+AR Path="/5BAD03C0/5BAD013C/5BACFAB6" Ref="U42"  Part="1" 
+F 0 "U9" H 5000 3750 50  0000 C CNN
+F 1 "74LS08" H 5050 4000 50  0000 C CNN
+F 2 "Daniel_Kopp:DIP-14_300_ELL" H 5050 4000 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5050 4000 50  0001 C CNN
+	1    5050 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 3600 5800 3600
+Wire Wire Line
+	5800 3600 5800 3700
+Wire Wire Line
+	5800 3700 6750 3700
+Wire Wire Line
+	6750 3900 5800 3900
+Wire Wire Line
+	5800 3900 5800 4000
+Wire Wire Line
+	5800 4000 5350 4000
+$Comp
+L 74xx:74LS04 U2
+U 1 1 5BACFCB6
+P 4450 3500
+AR Path="/5BACF075/5BACF3C1/5BACFCB6" Ref="U2"  Part="1" 
+AR Path="/5BACF075/5BAD013C/5BACFCB6" Ref="U7"  Part="1" 
+AR Path="/5BAD03B0/5BACF3C1/5BACFCB6" Ref="U13"  Part="1" 
+AR Path="/5BAD03B0/5BAD013C/5BACFCB6" Ref="U18"  Part="1" 
+AR Path="/5BAD03B9/5BACF3C1/5BACFCB6" Ref="U24"  Part="1" 
+AR Path="/5BAD03B9/5BAD013C/5BACFCB6" Ref="U29"  Part="1" 
+AR Path="/5BAD03C0/5BACF3C1/5BACFCB6" Ref="U35"  Part="1" 
+AR Path="/5BAD03C0/5BAD013C/5BACFCB6" Ref="U40"  Part="1" 
+F 0 "U7" H 4450 3817 50  0000 C CNN
+F 1 "74LS04" H 4450 3726 50  0000 C CNN
+F 2 "Daniel_Kopp:DIP-14_300_ELL" H 4450 3500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS04" H 4450 3500 50  0001 C CNN
+	1    4450 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1250 3700 4050 3700
+Wire Wire Line
+	4050 3700 4050 3500
+Wire Wire Line
+	4050 3500 4150 3500
+Wire Wire Line
+	4050 3700 4050 3900
+Wire Wire Line
+	4050 3900 4750 3900
+Connection ~ 4050 3700
+Wire Wire Line
+	1250 4000 4500 4000
+Wire Wire Line
+	4500 4000 4500 3700
+Wire Wire Line
+	4500 3700 4750 3700
+Wire Wire Line
+	4500 4000 4500 4100
+Wire Wire Line
+	4500 4100 4750 4100
+Connection ~ 4500 4000
+$EndSCHEMATC

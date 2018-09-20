@@ -1,0 +1,363 @@
+(pcb "E:\GitHub\4-bit_Processor\Potential Schematics\Registers for PCB\Register\Register.dsn"
+  (parser
+    (string_quote ")
+    (space_in_quoted_tokens on)
+    (host_cad "KiCad's Pcbnew")
+    (host_version "(5.0.0)")
+  )
+  (resolution um 10)
+  (unit um)
+  (structure
+    (layer F.Cu
+      (type signal)
+      (property
+        (index 0)
+      )
+    )
+    (layer B.Cu
+      (type signal)
+      (property
+        (index 1)
+      )
+    )
+    (boundary
+      (path pcb 0  175260 -113030  74930 -113030  74930 -67310  175260 -67310
+            175260 -113030)
+    )
+    (via "Via[0-1]_800:400_um")
+    (rule
+      (width 250)
+      (clearance 200.1)
+      (clearance 200.1 (type default_smd))
+      (clearance 50 (type smd_smd))
+    )
+  )
+  (placement
+    (component "Daniel_Kopp:Female_Header_4-pin"
+      (place J1 78740 -90170 front 90 (PN Conn_01x04_Female))
+    )
+    (component "Daniel_Kopp:Female_Header_8-pin"
+      (place J2 171450 -90170 front 90 (PN Conn_01x08_Female))
+    )
+    (component "Daniel_Kopp:DIP-14_300_ELL"
+      (place U1 114935 -75565 front 0 (PN 74LS02))
+      (place U3 93980 -90170 front 0 (PN 74LS02))
+      (place U5 135255 -75565 front 0 (PN 74LS04))
+      (place U7 93980 -75565 front 0 (PN 74LS08))
+      (place U9 93980 -105410 front 0 (PN 74LS08))
+    )
+    (component "Daniel_Kopp:DIP-14_300_ELL::1"
+      (place U2 114935 -105410 front 0 (PN 74LS02))
+      (place U4 156845 -75565 front 0 (PN 74LS02))
+      (place U6 156845 -105410 front 0 (PN 74LS04))
+      (place U8 135890 -105410 front 0 (PN 74LS08))
+      (place U10 156845 -90170 front 0 (PN 74LS08))
+    )
+  )
+  (library
+    (image "Daniel_Kopp:Female_Header_4-pin"
+      (outline (path signal 150  -5060 1250  5060 1250))
+      (outline (path signal 150  5060 1250  5060 -1250))
+      (outline (path signal 150  5060 -1250  -5060 -1250))
+      (outline (path signal 150  -5060 -1250  -5060 1250))
+      (outline (path signal 150  -2540 1250  -2540 -1250))
+      (outline (path signal 50  -5200 1400  5200 1400))
+      (outline (path signal 50  5200 1400  5200 -1400))
+      (outline (path signal 50  5200 -1400  -5200 -1400))
+      (outline (path signal 50  -5200 -1400  -5200 1400))
+      (pin Round[A]Pad_1500_um 1 -3810 0)
+      (pin Round[A]Pad_1500_um 2 -1270 0)
+      (pin Round[A]Pad_1500_um 3 1270 0)
+      (pin Round[A]Pad_1500_um 4 3810 0)
+    )
+    (image "Daniel_Kopp:Female_Header_8-pin"
+      (outline (path signal 150  -10140 1250  10140 1250))
+      (outline (path signal 150  10140 1250  10140 -1250))
+      (outline (path signal 150  10140 -1250  -10140 -1250))
+      (outline (path signal 150  -10140 -1250  -10140 1250))
+      (outline (path signal 150  -7620 1250  -7620 -1250))
+      (outline (path signal 50  -10300 1400  10300 1400))
+      (outline (path signal 50  10300 1400  10300 -1400))
+      (outline (path signal 50  10300 -1400  -10300 -1400))
+      (outline (path signal 50  -10300 -1400  -10300 1400))
+      (pin Round[A]Pad_1500_um 1 -8890 0)
+      (pin Round[A]Pad_1500_um 2 -6350 0)
+      (pin Round[A]Pad_1500_um 3 -3810 0)
+      (pin Round[A]Pad_1500_um 4 -1270 0)
+      (pin Round[A]Pad_1500_um 5 1270 0)
+      (pin Round[A]Pad_1500_um 6 3810 0)
+      (pin Round[A]Pad_1500_um 7 6350 0)
+      (pin Round[A]Pad_1500_um 8 8890 0)
+    )
+    (image "Daniel_Kopp:DIP-14_300_ELL"
+      (outline (path signal 150  -8720 -5310  8720 -5310))
+      (outline (path signal 150  8720 -5310  8720 5310))
+      (outline (path signal 150  8720 5310  -8720 5310))
+      (outline (path signal 150  -8720 5310  -8720 1770))
+      (outline (path signal 150  -8720 1770  -8270 1770))
+      (outline (path signal 150  -8270 1770  -8270 -1770))
+      (outline (path signal 150  -8270 -1770  -8720 -1770))
+      (outline (path signal 150  -8720 -1770  -8720 -5310))
+      (outline (path signal 50  -8850 5450  8850 5450))
+      (outline (path signal 50  8850 5450  8850 -5450))
+      (outline (path signal 50  8850 -5450  -8850 -5450))
+      (outline (path signal 50  -8850 -5450  -8850 5450))
+      (pin Oval[A]Pad_1200x2000_um 14 -7620 3810)
+      (pin Oval[A]Pad_1200x2000_um 1 -7620 -3810)
+      (pin Oval[A]Pad_1200x2000_um 13 -5080 3810)
+      (pin Oval[A]Pad_1200x2000_um 2 -5080 -3810)
+      (pin Oval[A]Pad_1200x2000_um 12 -2540 3810)
+      (pin Oval[A]Pad_1200x2000_um 3 -2540 -3810)
+      (pin Oval[A]Pad_1200x2000_um 11 0 3810)
+      (pin Oval[A]Pad_1200x2000_um 4 0 -3810)
+      (pin Oval[A]Pad_1200x2000_um 10 2540 3810)
+      (pin Oval[A]Pad_1200x2000_um 5 2540 -3810)
+      (pin Oval[A]Pad_1200x2000_um 9 5080 3810)
+      (pin Oval[A]Pad_1200x2000_um 6 5080 -3810)
+      (pin Oval[A]Pad_1200x2000_um 8 7620 3810)
+      (pin Oval[A]Pad_1200x2000_um 7 7620 -3810)
+    )
+    (image "Daniel_Kopp:DIP-14_300_ELL::1"
+      (outline (path signal 50  -8850 -5450  -8850 5450))
+      (outline (path signal 50  8850 -5450  -8850 -5450))
+      (outline (path signal 50  8850 5450  8850 -5450))
+      (outline (path signal 50  -8850 5450  8850 5450))
+      (outline (path signal 150  -8720 -1770  -8720 -5310))
+      (outline (path signal 150  -8270 -1770  -8720 -1770))
+      (outline (path signal 150  -8270 1770  -8270 -1770))
+      (outline (path signal 150  -8720 1770  -8270 1770))
+      (outline (path signal 150  -8720 5310  -8720 1770))
+      (outline (path signal 150  8720 5310  -8720 5310))
+      (outline (path signal 150  8720 -5310  8720 5310))
+      (outline (path signal 150  -8720 -5310  8720 -5310))
+      (pin Oval[A]Pad_1200x2000_um 7 7620 -3810)
+      (pin Oval[A]Pad_1200x2000_um 8 7620 3810)
+      (pin Oval[A]Pad_1200x2000_um 6 5080 -3810)
+      (pin Oval[A]Pad_1200x2000_um 9 5080 3810)
+      (pin Oval[A]Pad_1200x2000_um 5 2540 -3810)
+      (pin Oval[A]Pad_1200x2000_um 10 2540 3810)
+      (pin Oval[A]Pad_1200x2000_um 4 0 -3810)
+      (pin Oval[A]Pad_1200x2000_um 11 0 3810)
+      (pin Oval[A]Pad_1200x2000_um 3 -2540 -3810)
+      (pin Oval[A]Pad_1200x2000_um 12 -2540 3810)
+      (pin Oval[A]Pad_1200x2000_um 2 -5080 -3810)
+      (pin Oval[A]Pad_1200x2000_um 13 -5080 3810)
+      (pin Oval[A]Pad_1200x2000_um 1 -7620 -3810)
+      (pin Oval[A]Pad_1200x2000_um 14 -7620 3810)
+    )
+    (padstack Round[A]Pad_1500_um
+      (shape (circle F.Cu 1500))
+      (shape (circle B.Cu 1500))
+      (attach off)
+    )
+    (padstack Oval[A]Pad_1200x2000_um
+      (shape (path F.Cu 1200  0 -400  0 400))
+      (shape (path B.Cu 1200  0 -400  0 400))
+      (attach off)
+    )
+    (padstack "Via[0-1]_800:400_um"
+      (shape (circle F.Cu 800))
+      (shape (circle B.Cu 800))
+      (attach off)
+    )
+  )
+  (network
+    (net Q3
+      (pins J1-1 U4-10 U4-11)
+    )
+    (net Q2
+      (pins J1-2 U3-11 U3-10)
+    )
+    (net Q1
+      (pins J1-3 U2-10 U2-11)
+    )
+    (net Q0
+      (pins J1-4 U1-11 U1-10)
+    )
+    (net "Net-(J2-Pad1)"
+      (pins J2-1)
+    )
+    (net Clock
+      (pins J2-4 U5-1 U5-9 U6-9 U6-1 U7-2 U7-5 U8-5 U8-2 U9-2 U9-5 U10-5 U10-2)
+    )
+    (net D3
+      (pins J2-5 U6-11 U10-4)
+    )
+    (net D2
+      (pins J2-6 U6-3 U9-4)
+    )
+    (net D1
+      (pins J2-7 U5-11 U8-4)
+    )
+    (net D0
+      (pins J2-8 U5-3 U7-4)
+    )
+    (net /sheet5BAD03B0/sheet5BAD013C/D
+      (pins U2-5 U2-1 U5-13 U8-12)
+    )
+    (net "/D_Flip-Flop/sheet5BAD013C/C"
+      (pins U5-2 U7-13 U7-10)
+    )
+    (net "/D_Flip-Flop/sheet5BAD013C/D"
+      (pins U1-1 U1-5 U5-5 U7-12)
+    )
+    (net /sheet5BAD03B0/sheet5BAD013C/C
+      (pins U5-8 U8-10 U8-13)
+    )
+    (net "/D_Flip-Flop/sheet5BAD013C/RS-Latch/R"
+      (pins U1-8 U7-8)
+    )
+    (net "/D_Flip-Flop/D_Latch/RS-Latch/S"
+      (pins U1-6 U7-6)
+    )
+    (net "/D_Flip-Flop/sheet5BAD013C/RS-Latch/S"
+      (pins U1-12 U7-11)
+    )
+    (net "/D_Flip-Flop/D_Latch/RS-Latch/R"
+      (pins U1-2 U7-3)
+    )
+    (net "/D_Flip-Flop/QN"
+      (pins U1-13 U1-9)
+    )
+    (net "/D_Flip-Flop/D_Latch/QN"
+      (pins U1-3 U1-4)
+    )
+    (net "/sheet5BAD03B0/sheet5BAD013C/RS-Latch/R"
+      (pins U2-8 U8-8)
+    )
+    (net "/sheet5BAD03B0/D_Latch/RS-Latch/S"
+      (pins U2-6 U8-6)
+    )
+    (net "/sheet5BAD03B0/sheet5BAD013C/RS-Latch/S"
+      (pins U2-12 U8-11)
+    )
+    (net "/sheet5BAD03B0/D_Latch/RS-Latch/R"
+      (pins U2-2 U8-3)
+    )
+    (net /sheet5BAD03B0/QN
+      (pins U2-9 U2-13)
+    )
+    (net /sheet5BAD03B0/D_Latch/QN
+      (pins U2-4 U2-3)
+    )
+    (net /sheet5BAD03C0/sheet5BAD013C/C
+      (pins U6-8 U10-10 U10-13)
+    )
+    (net "Net-(U6-Pad6)"
+      (pins U6-6 U9-9)
+    )
+    (net /sheet5BAD03B9/sheet5BAD013C/D
+      (pins U3-1 U3-5 U6-5 U9-12)
+    )
+    (net "Net-(U6-Pad4)"
+      (pins U6-4 U9-1)
+    )
+    (net /sheet5BAD03B9/sheet5BAD013C/C
+      (pins U6-2 U9-13 U9-10)
+    )
+    (net /sheet5BAD03C0/sheet5BAD013C/D
+      (pins U4-5 U4-1 U6-13 U10-12)
+    )
+    (net "/sheet5BAD03B9/D_Latch/RS-Latch/R"
+      (pins U3-2 U9-3)
+    )
+    (net "/sheet5BAD03B9/sheet5BAD013C/RS-Latch/S"
+      (pins U3-12 U9-11)
+    )
+    (net "/sheet5BAD03B9/D_Latch/RS-Latch/S"
+      (pins U3-6 U9-6)
+    )
+    (net "/sheet5BAD03B9/sheet5BAD013C/RS-Latch/R"
+      (pins U3-8 U9-8)
+    )
+    (net /sheet5BAD03B9/QN
+      (pins U3-13 U3-9)
+    )
+    (net /sheet5BAD03B9/D_Latch/QN
+      (pins U3-3 U3-4)
+    )
+    (net "/sheet5BAD03C0/D_Latch/RS-Latch/R"
+      (pins U4-2 U10-3)
+    )
+    (net "/sheet5BAD03C0/sheet5BAD013C/RS-Latch/S"
+      (pins U4-12 U10-11)
+    )
+    (net "/sheet5BAD03C0/D_Latch/RS-Latch/S"
+      (pins U4-6 U10-6)
+    )
+    (net "/sheet5BAD03C0/sheet5BAD013C/RS-Latch/R"
+      (pins U4-8 U10-8)
+    )
+    (net /sheet5BAD03C0/QN
+      (pins U4-9 U4-13)
+    )
+    (net /sheet5BAD03C0/D_Latch/QN
+      (pins U4-4 U4-3)
+    )
+    (net GND
+      (pins J2-2 U1-7 U2-7 U3-7 U4-7 U5-7 U6-7 U7-7 U8-7 U9-7 U10-7)
+    )
+    (net VCC
+      (pins J2-3 U1-14 U2-14 U3-14 U4-14 U5-14 U6-14)
+    )
+    (net "Net-(U5-Pad12)"
+      (pins U5-12 U8-9)
+    )
+    (net "Net-(U5-Pad4)"
+      (pins U5-4 U7-1)
+    )
+    (net "Net-(U5-Pad10)"
+      (pins U5-10 U8-1)
+    )
+    (net "Net-(U5-Pad6)"
+      (pins U5-6 U7-9)
+    )
+    (net "Net-(U10-Pad1)"
+      (pins U6-10 U10-1)
+    )
+    (net "Net-(U10-Pad9)"
+      (pins U6-12 U10-9)
+    )
+    (net "Net-(U7-Pad14)"
+      (pins U7-14)
+    )
+    (net "Net-(U8-Pad14)"
+      (pins U8-14)
+    )
+    (net "Net-(U9-Pad14)"
+      (pins U9-14)
+    )
+    (net "Net-(U10-Pad14)"
+      (pins U10-14)
+    )
+    (class kicad_default "" "/D_Flip-Flop/D_Latch/QN" "/D_Flip-Flop/D_Latch/RS-Latch/R"
+      "/D_Flip-Flop/D_Latch/RS-Latch/S" "/D_Flip-Flop/QN" "/D_Flip-Flop/sheet5BAD013C/C"
+      "/D_Flip-Flop/sheet5BAD013C/D" "/D_Flip-Flop/sheet5BAD013C/RS-Latch/R"
+      "/D_Flip-Flop/sheet5BAD013C/RS-Latch/S" /sheet5BAD03B0/D_Latch/QN "/sheet5BAD03B0/D_Latch/RS-Latch/R"
+      "/sheet5BAD03B0/D_Latch/RS-Latch/S" /sheet5BAD03B0/QN /sheet5BAD03B0/sheet5BAD013C/C
+      /sheet5BAD03B0/sheet5BAD013C/D "/sheet5BAD03B0/sheet5BAD013C/RS-Latch/R"
+      "/sheet5BAD03B0/sheet5BAD013C/RS-Latch/S" /sheet5BAD03B9/D_Latch/QN
+      "/sheet5BAD03B9/D_Latch/RS-Latch/R" "/sheet5BAD03B9/D_Latch/RS-Latch/S"
+      /sheet5BAD03B9/QN /sheet5BAD03B9/sheet5BAD013C/C /sheet5BAD03B9/sheet5BAD013C/D
+      "/sheet5BAD03B9/sheet5BAD013C/RS-Latch/R" "/sheet5BAD03B9/sheet5BAD013C/RS-Latch/S"
+      /sheet5BAD03C0/D_Latch/QN "/sheet5BAD03C0/D_Latch/RS-Latch/R" "/sheet5BAD03C0/D_Latch/RS-Latch/S"
+      /sheet5BAD03C0/QN /sheet5BAD03C0/sheet5BAD013C/C /sheet5BAD03C0/sheet5BAD013C/D
+      "/sheet5BAD03C0/sheet5BAD013C/RS-Latch/R" "/sheet5BAD03C0/sheet5BAD013C/RS-Latch/S"
+      Clock D0 D1 D2 D3 GND "Net-(J2-Pad1)" "Net-(J2-Pad2)" "Net-(J2-Pad3)"
+      "Net-(U1-Pad10)" "Net-(U1-Pad12)" "Net-(U1-Pad4)" "Net-(U1-Pad6)" "Net-(U10-Pad1)"
+      "Net-(U10-Pad14)" "Net-(U10-Pad9)" "Net-(U5-Pad10)" "Net-(U5-Pad12)"
+      "Net-(U5-Pad4)" "Net-(U5-Pad6)" "Net-(U6-Pad10)" "Net-(U6-Pad12)" "Net-(U6-Pad4)"
+      "Net-(U6-Pad6)" "Net-(U7-Pad14)" "Net-(U8-Pad14)" "Net-(U9-Pad14)" Q0
+      Q1 Q2 Q3 VCC
+      (circuit
+        (use_via Via[0-1]_800:400_um)
+      )
+      (rule
+        (width 250)
+        (clearance 200.1)
+      )
+    )
+  )
+  (wiring
+  )
+)

@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 377 449
+Sheet 377 456
 Title "64:4 Multiplexer"
 Date "2018-09-14"
 Rev "1"
@@ -269,25 +269,25 @@ S0
 Wire Wire Line
 	850  3900 900  3900
 Wire Wire Line
-	900  3200 900  5400
+	900  3200 900  3900
 Wire Wire Line
-	900  3200 6400 3200
+	900  3200 6100 3200
 Wire Wire Line
-	6400 3300 950  3300
+	6400 3300 6150 3300
 Wire Wire Line
-	950  3300 950  5500
+	950  3300 950  4000
 Wire Wire Line
 	950  4000 850  4000
 Wire Wire Line
 	850  4100 1000 4100
 Wire Wire Line
-	1000 3400 1000 5600
+	1000 3400 1000 4100
 Wire Wire Line
-	1000 3400 6400 3400
+	1000 3400 6200 3400
 Wire Wire Line
-	6400 3500 1050 3500
+	6400 3500 6250 3500
 Wire Wire Line
-	1050 3500 1050 5700
+	1050 3500 1050 4200
 Wire Wire Line
 	1050 4200 850  4200
 Wire Wire Line
@@ -325,14 +325,10 @@ Wire Wire Line
 Wire Wire Line
 	6150 3000 7150 3000
 Wire Wire Line
-	7150 3000 7150 3200
-Wire Wire Line
 	7150 3200 10000 3200
 Connection ~ 6150 3300
 Wire Wire Line
 	10000 3100 7200 3100
-Wire Wire Line
-	7200 3100 7200 2950
 Wire Wire Line
 	7200 2950 6100 2950
 Wire Wire Line
@@ -493,15 +489,11 @@ Wire Wire Line
 Wire Wire Line
 	10000 3800 7200 3800
 Wire Wire Line
-	7200 3800 7200 2450
-Wire Wire Line
 	7200 2450 2850 2450
 Wire Wire Line
 	2850 2450 2850 800 
 Wire Wire Line
 	10000 3700 7150 3700
-Wire Wire Line
-	7150 3700 7150 2500
 Wire Wire Line
 	7150 2500 2350 2500
 Wire Wire Line
@@ -702,4 +694,24 @@ Text Notes 10450 3600 2    60   ~ 0
 16:1 MUX\n
 Text Notes 10450 1400 2    60   ~ 0
 16:1 MUX\n
+Wire Wire Line
+	900  3900 900  5400
+Wire Wire Line
+	950  4000 950  5500
+Wire Wire Line
+	1000 4100 1000 5600
+Wire Wire Line
+	1050 4200 1050 5700
+Wire Wire Line
+	6250 3500 1050 3500
+Wire Wire Line
+	6200 3400 6400 3400
+Wire Wire Line
+	6150 3300 950  3300
+Wire Wire Line
+	6100 3200 6400 3200
+Wire Wire Line
+	7150 2500 7150 3700
+Wire Wire Line
+	7200 2450 7200 3800
 $EndSCHEMATC
