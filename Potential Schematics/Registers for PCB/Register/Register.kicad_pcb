@@ -820,12 +820,12 @@
       (net 56 "Net-(U10-Pad14)"))
   )
 
-  (module Graphics:Real_Logo (layer F.Cu) (tedit 0) (tstamp 5BB03A2C)
+  (module Graphics:Real_Logo (layer F.Cu) (tedit 5BA539B1) (tstamp 5BB03A2C)
     (at 141.605 90.17 180)
-    (fp_text reference G*** (at 0 0 180) (layer F.SilkS) hide
+    (fp_text reference " " (at 4.445 -7.62 180) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
-    (fp_text value LOGO (at 0.75 0 180) (layer F.SilkS) hide
+    (fp_text value " " (at 0.75 -6.985 180) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
     (fp_poly (pts (xy 1.606243 -3.664566) (xy 1.608666 -3.645663) (xy 1.547122 -3.530996) (xy 1.524 -3.513666)
@@ -1790,7 +1790,7 @@
   (segment (start 155.6303 93.1517) (end 155.6303 98.9494) (width 0.25) (layer F.Cu) (net 52))
   (segment (start 155.6303 98.9494) (end 154.305 100.2747) (width 0.25) (layer F.Cu) (net 52))
 
-  (zone (net 45) (net_name GND) (layer F.Cu) (tstamp 5BB03A39) (hatch edge 0.508)
+  (zone (net 45) (net_name GND) (layer F.Cu) (tstamp 5BA53C3F) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -2127,7 +2127,7 @@
       )
     )
   )
-  (zone (net 45) (net_name GND) (layer B.Cu) (tstamp 5BB03A36) (hatch edge 0.508)
+  (zone (net 45) (net_name GND) (layer B.Cu) (tstamp 5BA53C3C) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
