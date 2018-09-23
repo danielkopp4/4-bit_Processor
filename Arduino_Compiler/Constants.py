@@ -14,7 +14,14 @@ assembly_instructions = {
     "add": 0x3,
     "subtract": 0x4,
     "sub": 0x4,
-    "subt": 0x4
+    "subt": 0x4,
+    "multiply": 0x5,
+    "mult": 0x5,
+    "divide": 0x6,
+    "div": 0x6,
+    "wreg": 0x7,
+    "lwd": 0xe,
+    "swd": 0xf
 }
 
 
