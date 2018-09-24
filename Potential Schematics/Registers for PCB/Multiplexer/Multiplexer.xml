@@ -1,0 +1,3978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>E:\GitHub\4-bit_Processor\Potential Schematics\Registers for PCB\Multiplexer\Multiplexer.sch</source>
+    <date>9/24/2018 4:51:52 PM</date>
+    <tool>Eeschema (5.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/64:4 Multiplexer/" tstamps="/5BA53B3F/">
+      <title_block>
+        <title>64:4 Multiplexer</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>64-4_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/64:4 Multiplexer/16;1_Multiplexer/" tstamps="/5BA53B3F/5BAE3D50/">
+      <title_block>
+        <title>16:1 Multiplexer</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>16-1_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF0182/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF0BF3/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF1036/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF103E/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF3801/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF3809/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF3811/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF3819/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BAE3D50/5BB0E1EF/">
+      <title_block>
+        <title>16:1 OR</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>16-1_OR_GATE.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23532/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB2353A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23542/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB2354A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23552/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB2355A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="19" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23562/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="20" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB2356A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="21" name="/64:4 Multiplexer/16;1_Multiplexer/" tstamps="/5BA53B3F/5BC8C0A9/">
+      <title_block>
+        <title>16:1 Multiplexer</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>16-1_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="22" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF0182/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="23" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF0BF3/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="24" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF1036/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="25" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF103E/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="26" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF3801/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="27" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF3809/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="28" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF3811/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="29" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF3819/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="30" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8C0A9/5BB0E1EF/">
+      <title_block>
+        <title>16:1 OR</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>16-1_OR_GATE.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="31" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB23532/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="32" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB2353A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="33" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB23542/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="34" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB2354A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="35" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB23552/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="36" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB2355A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="37" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB23562/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="38" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB2356A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="39" name="/64:4 Multiplexer/16;1_Multiplexer/" tstamps="/5BA53B3F/5BC8F4EC/">
+      <title_block>
+        <title>16:1 Multiplexer</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>16-1_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="40" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF0182/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="41" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF0BF3/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="42" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF1036/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="43" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF103E/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="44" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF3801/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="45" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF3809/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="46" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF3811/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="47" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF3819/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="48" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8F4EC/5BB0E1EF/">
+      <title_block>
+        <title>16:1 OR</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>16-1_OR_GATE.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="49" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB23532/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="50" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB2353A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="51" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB23542/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="52" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB2354A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="53" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB23552/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="54" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB2355A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="55" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB23562/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="56" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB2356A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="57" name="/64:4 Multiplexer/16;1_Multiplexer/" tstamps="/5BA53B3F/5BC8F503/">
+      <title_block>
+        <title>16:1 Multiplexer</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>16-1_Multiplexer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="58" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF0182/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="59" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF0BF3/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="60" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF1036/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="61" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF103E/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="62" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF3801/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="63" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF3809/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="64" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF3811/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="65" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF3819/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="66" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8F503/5BB0E1EF/">
+      <title_block>
+        <title>16:1 OR</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>16-1_OR_GATE.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="67" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB23532/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="68" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB2353A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="69" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB23542/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="70" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB2354A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="71" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB23552/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="72" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB2355A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="73" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB23562/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="74" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB2356A/">
+      <title_block>
+        <title>5:1 AND</title>
+        <company/>
+        <rev>1</rev>
+        <date>2018-09-14</date>
+        <source>5-1_AND.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="75" name="/PWM/" tstamps="/5BC2C594/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PowerManagement.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="76" name="/08s/" tstamps="/5BC2D2C8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PowerFor08s.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="77" name="/04s/" tstamps="/5BC2FB5F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>04s.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_01x40_Female</value>
+      <footprint>Daniel_Kopp:SIP-40</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x40_Female" description="Generic connector, single row, 01x40, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BA67366</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x08_Female</value>
+      <footprint>Daniel_Kopp:Female_Header_8-pin</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BA67458</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x08_Female</value>
+      <footprint>Daniel_Kopp:Female_Header_8-pin</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BA675DF</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x08_Female</value>
+      <footprint>Daniel_Kopp:Female_Header_8-pin</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BA6765C</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x08_Female</value>
+      <footprint>Daniel_Kopp:Female_Header_8-pin</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BA67662</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x04_Female</value>
+      <footprint>Daniel_Kopp:Female_Header_4-pin</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BA67DA9</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>74LS04</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS04</datasheet>
+      <libsource lib="74xx" part="74LS04" description="Hex Inverter"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/" tstamps="/5BA53B3F/5BAE3D50/"/>
+      <tstamp>5BA91BB7</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF0182/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF0BF3/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF1036/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF103E/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF3801/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF3809/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF3811/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BAF3819/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BAE3D50/5BB0E1EF/"/>
+      <tstamp>5BC03ED7</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BAE3D50/5BB0E1EF/"/>
+      <tstamp>5BC082E5</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BAE3D50/5BB0E1EF/"/>
+      <tstamp>5BC082EC</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BAE3D50/5BB0E1EF/"/>
+      <tstamp>5BC0A4D2</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23532/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB2353A/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23542/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U17">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB2354A/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U18">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23552/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U19">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB2355A/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U21">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23562/"/>
+      <tstamp>5BB9C070</tstamp>
+    </comp>
+    <comp ref="U20">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23562/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U22">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23562/"/>
+      <tstamp>5BB9C3A9</tstamp>
+    </comp>
+    <comp ref="U23">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB23562/"/>
+      <tstamp>5BB9C52F</tstamp>
+    </comp>
+    <comp ref="U24">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BAE3D50/5BB2356A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U25">
+      <value>74LS04</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS04</datasheet>
+      <libsource lib="74xx" part="74LS04" description="Hex Inverter"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/" tstamps="/5BA53B3F/5BC8C0A9/"/>
+      <tstamp>5BA91BB7</tstamp>
+    </comp>
+    <comp ref="U26">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF0182/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U27">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF0BF3/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U28">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF1036/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U29">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF103E/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U30">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF3801/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U31">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF3809/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U32">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF3811/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U33">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BAF3819/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U34">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8C0A9/5BB0E1EF/"/>
+      <tstamp>5BC03F4F</tstamp>
+    </comp>
+    <comp ref="U35">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8C0A9/5BB0E1EF/"/>
+      <tstamp>5BC082E5</tstamp>
+    </comp>
+    <comp ref="U37">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8C0A9/5BB0E1EF/"/>
+      <tstamp>5BC082EC</tstamp>
+    </comp>
+    <comp ref="U36">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8C0A9/5BB0E1EF/"/>
+      <tstamp>5BC0A4E0</tstamp>
+    </comp>
+    <comp ref="U38">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB23532/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U39">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB2353A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U40">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB23542/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U41">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB2354A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U42">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB23552/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U43">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB2355A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U44">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB23562/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U45">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8C0A9/5BB2356A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U46">
+      <value>74LS04</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS04</datasheet>
+      <libsource lib="74xx" part="74LS04" description="Hex Inverter"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/" tstamps="/5BA53B3F/5BC8F4EC/"/>
+      <tstamp>5BA91BB7</tstamp>
+    </comp>
+    <comp ref="U47">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF0182/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U48">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF0BF3/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U49">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF1036/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U50">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF103E/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U51">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF3801/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U52">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF3809/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U53">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF3811/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U54">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BAF3819/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U55">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8F4EC/5BB0E1EF/"/>
+      <tstamp>5BC03F4F</tstamp>
+    </comp>
+    <comp ref="U58">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8F4EC/5BB0E1EF/"/>
+      <tstamp>5BC082EC</tstamp>
+    </comp>
+    <comp ref="U56">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8F4EC/5BB0E1EF/"/>
+      <tstamp>5BC0A4D9</tstamp>
+    </comp>
+    <comp ref="U57">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8F4EC/5BB0E1EF/"/>
+      <tstamp>5BC0A4E0</tstamp>
+    </comp>
+    <comp ref="U59">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB23532/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U60">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB2353A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U61">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB23542/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U62">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB2354A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U63">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB23552/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U64">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB2355A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U65">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB23562/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U66">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F4EC/5BB2356A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U67">
+      <value>74LS04</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS04</datasheet>
+      <libsource lib="74xx" part="74LS04" description="Hex Inverter"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/" tstamps="/5BA53B3F/5BC8F503/"/>
+      <tstamp>5BA91BB7</tstamp>
+    </comp>
+    <comp ref="U68">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF0182/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U69">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF0BF3/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U70">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF1036/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U71">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF103E/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U72">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF3801/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U73">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF3809/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U74">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF3811/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U75">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BAF3819/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U76">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8F503/5BB0E1EF/"/>
+      <tstamp>5BC03F4F</tstamp>
+    </comp>
+    <comp ref="U79">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8F503/5BB0E1EF/"/>
+      <tstamp>5BC082EC</tstamp>
+    </comp>
+    <comp ref="U77">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8F503/5BB0E1EF/"/>
+      <tstamp>5BC0A4D9</tstamp>
+    </comp>
+    <comp ref="U78">
+      <value>74LS32</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/" tstamps="/5BA53B3F/5BC8F503/5BB0E1EF/"/>
+      <tstamp>5BC0A4E0</tstamp>
+    </comp>
+    <comp ref="U80">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB23532/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U81">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB2353A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U82">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB23542/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U83">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB2354A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U84">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB23552/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U85">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB2355A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U86">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB23562/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+    <comp ref="U87">
+      <value>74LS08</value>
+      <footprint>Daniel_Kopp:DIP-14_300_ELL</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <sheetpath names="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/" tstamps="/5BA53B3F/5BC8F503/5BB2356A/"/>
+      <tstamp>5BB9C230</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74LS04">
+      <description>Hex Inverter</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS04</docs>
+      <footprints>
+        <fp>DIP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="output"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="output"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="output"/>
+        <pin num="11" name="~" type="input"/>
+        <pin num="12" name="~" type="output"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS08">
+      <aliases>
+        <alias>74LS09</alias>
+      </aliases>
+      <description>Quad And2</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS08</docs>
+      <footprints>
+        <fp>DIP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="output"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="input"/>
+        <pin num="11" name="~" type="output"/>
+        <pin num="12" name="~" type="input"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS32">
+      <description>Quad 2-input OR</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS32</docs>
+      <footprints>
+        <fp>DIP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="output"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="input"/>
+        <pin num="11" name="~" type="output"/>
+        <pin num="12" name="~" type="input"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Female">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x08_Female">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x40_Female">
+      <description>Generic connector, single row, 01x40, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x40_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+        <pin num="29" name="Pin_29" type="passive"/>
+        <pin num="30" name="Pin_30" type="passive"/>
+        <pin num="31" name="Pin_31" type="passive"/>
+        <pin num="32" name="Pin_32" type="passive"/>
+        <pin num="33" name="Pin_33" type="passive"/>
+        <pin num="34" name="Pin_34" type="passive"/>
+        <pin num="35" name="Pin_35" type="passive"/>
+        <pin num="36" name="Pin_36" type="passive"/>
+        <pin num="37" name="Pin_37" type="passive"/>
+        <pin num="38" name="Pin_38" type="passive"/>
+        <pin num="39" name="Pin_39" type="passive"/>
+        <pin num="40" name="Pin_40" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>E:\KiCad\share\kicad\library/74xx.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>E:\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/64:4 Multiplexer/Db2">
+      <node ref="J2" pin="2"/>
+      <node ref="U59" pin="1"/>
+    </net>
+    <net code="2" name="/64:4 Multiplexer/D02">
+      <node ref="U50" pin="1"/>
+      <node ref="J1" pin="38"/>
+    </net>
+    <net code="3" name="/64:4 Multiplexer/D01">
+      <node ref="J1" pin="39"/>
+      <node ref="U29" pin="1"/>
+    </net>
+    <net code="4" name="/64:4 Multiplexer/D90">
+      <node ref="J1" pin="4"/>
+      <node ref="U16" pin="1"/>
+    </net>
+    <net code="5" name="/64:4 Multiplexer/D00">
+      <node ref="J1" pin="40"/>
+      <node ref="U5" pin="1"/>
+    </net>
+    <net code="6" name="/64:4 Multiplexer/D83">
+      <node ref="U83" pin="1"/>
+      <node ref="J1" pin="5"/>
+    </net>
+    <net code="7" name="/64:4 Multiplexer/D82">
+      <node ref="J1" pin="6"/>
+      <node ref="U62" pin="1"/>
+    </net>
+    <net code="8" name="/64:4 Multiplexer/D80">
+      <node ref="J1" pin="8"/>
+      <node ref="U17" pin="1"/>
+    </net>
+    <net code="9" name="/64:4 Multiplexer/D73">
+      <node ref="U72" pin="1"/>
+      <node ref="J1" pin="9"/>
+    </net>
+    <net code="10" name="/64:4 Multiplexer/Db3">
+      <node ref="U80" pin="1"/>
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="11" name="/64:4 Multiplexer/D03">
+      <node ref="J1" pin="37"/>
+      <node ref="U71" pin="1"/>
+    </net>
+    <net code="12" name="/64:4 Multiplexer/Db1">
+      <node ref="U38" pin="1"/>
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="13" name="/64:4 Multiplexer/Db0">
+      <node ref="U14" pin="1"/>
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="14" name="/64:4 Multiplexer/Da3">
+      <node ref="J2" pin="5"/>
+      <node ref="U81" pin="1"/>
+    </net>
+    <net code="15" name="/64:4 Multiplexer/Da2">
+      <node ref="J2" pin="6"/>
+      <node ref="U60" pin="1"/>
+    </net>
+    <net code="16" name="/64:4 Multiplexer/Da1">
+      <node ref="J2" pin="7"/>
+      <node ref="U39" pin="1"/>
+    </net>
+    <net code="17" name="/64:4 Multiplexer/Da0">
+      <node ref="J2" pin="8"/>
+      <node ref="U15" pin="1"/>
+    </net>
+    <net code="18" name="/64:4 Multiplexer/Dd3">
+      <node ref="J3" pin="1"/>
+      <node ref="U86" pin="1"/>
+    </net>
+    <net code="19" name="/64:4 Multiplexer/Dd2">
+      <node ref="J3" pin="2"/>
+      <node ref="U65" pin="1"/>
+    </net>
+    <net code="20" name="/64:4 Multiplexer/Dd1">
+      <node ref="U44" pin="1"/>
+      <node ref="J3" pin="3"/>
+    </net>
+    <net code="21" name="/64:4 Multiplexer/D30">
+      <node ref="U2" pin="1"/>
+      <node ref="J1" pin="28"/>
+    </net>
+    <net code="22" name="/64:4 Multiplexer/D92">
+      <node ref="J1" pin="2"/>
+      <node ref="U61" pin="1"/>
+    </net>
+    <net code="23" name="/64:4 Multiplexer/D50">
+      <node ref="J1" pin="20"/>
+      <node ref="U8" pin="1"/>
+    </net>
+    <net code="24" name="/64:4 Multiplexer/D43">
+      <node ref="U75" pin="1"/>
+      <node ref="J1" pin="21"/>
+    </net>
+    <net code="25" name="/64:4 Multiplexer/D42">
+      <node ref="J1" pin="22"/>
+      <node ref="U54" pin="1"/>
+    </net>
+    <net code="26" name="/64:4 Multiplexer/D41">
+      <node ref="J1" pin="23"/>
+      <node ref="U33" pin="1"/>
+    </net>
+    <net code="27" name="/64:4 Multiplexer/D40">
+      <node ref="J1" pin="24"/>
+      <node ref="U9" pin="1"/>
+    </net>
+    <net code="28" name="/64:4 Multiplexer/D33">
+      <node ref="J1" pin="25"/>
+      <node ref="U68" pin="1"/>
+    </net>
+    <net code="29" name="/64:4 Multiplexer/D32">
+      <node ref="U47" pin="1"/>
+      <node ref="J1" pin="26"/>
+    </net>
+    <net code="30" name="/64:4 Multiplexer/D31">
+      <node ref="J1" pin="27"/>
+      <node ref="U26" pin="1"/>
+    </net>
+    <net code="31" name="/64:4 Multiplexer/Dd0">
+      <node ref="U20" pin="1"/>
+      <node ref="J3" pin="4"/>
+    </net>
+    <net code="32" name="/64:4 Multiplexer/D23">
+      <node ref="U69" pin="1"/>
+      <node ref="J1" pin="29"/>
+    </net>
+    <net code="33" name="/64:4 Multiplexer/D91">
+      <node ref="U40" pin="1"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="34" name="/64:4 Multiplexer/D22">
+      <node ref="J1" pin="30"/>
+      <node ref="U48" pin="1"/>
+    </net>
+    <net code="35" name="/64:4 Multiplexer/D21">
+      <node ref="U27" pin="1"/>
+      <node ref="J1" pin="31"/>
+    </net>
+    <net code="36" name="/64:4 Multiplexer/D20">
+      <node ref="U3" pin="1"/>
+      <node ref="J1" pin="32"/>
+    </net>
+    <net code="37" name="/64:4 Multiplexer/D13">
+      <node ref="U70" pin="1"/>
+      <node ref="J1" pin="33"/>
+    </net>
+    <net code="38" name="/64:4 Multiplexer/D12">
+      <node ref="J1" pin="34"/>
+      <node ref="U49" pin="1"/>
+    </net>
+    <net code="39" name="/64:4 Multiplexer/D11">
+      <node ref="J1" pin="35"/>
+      <node ref="U28" pin="1"/>
+    </net>
+    <net code="40" name="/64:4 Multiplexer/D10">
+      <node ref="J1" pin="36"/>
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="41" name="Net-(J6-Pad4)">
+      <node ref="J6" pin="4"/>
+    </net>
+    <net code="42" name="VCC">
+      <node ref="U70" pin="14"/>
+      <node ref="U64" pin="14"/>
+      <node ref="U59" pin="14"/>
+      <node ref="U85" pin="14"/>
+      <node ref="U81" pin="14"/>
+      <node ref="U60" pin="14"/>
+      <node ref="U26" pin="14"/>
+      <node ref="U74" pin="14"/>
+      <node ref="U51" pin="14"/>
+      <node ref="U45" pin="14"/>
+      <node ref="U40" pin="14"/>
+      <node ref="U31" pin="14"/>
+      <node ref="U20" pin="14"/>
+      <node ref="U73" pin="14"/>
+      <node ref="U69" pin="14"/>
+      <node ref="U63" pin="14"/>
+      <node ref="U54" pin="14"/>
+      <node ref="U84" pin="14"/>
+      <node ref="U2" pin="14"/>
+      <node ref="U7" pin="14"/>
+      <node ref="U16" pin="14"/>
+      <node ref="U21" pin="14"/>
+      <node ref="U65" pin="14"/>
+      <node ref="U71" pin="14"/>
+      <node ref="U66" pin="14"/>
+      <node ref="U61" pin="14"/>
+      <node ref="U52" pin="14"/>
+      <node ref="U80" pin="14"/>
+      <node ref="U83" pin="14"/>
+      <node ref="U72" pin="14"/>
+      <node ref="U62" pin="14"/>
+      <node ref="U75" pin="14"/>
+      <node ref="U46" pin="14"/>
+      <node ref="U67" pin="14"/>
+      <node ref="U25" pin="14"/>
+      <node ref="U1" pin="14"/>
+      <node ref="J6" pin="1"/>
+      <node ref="U86" pin="14"/>
+      <node ref="U6" pin="14"/>
+      <node ref="U15" pin="14"/>
+      <node ref="U30" pin="14"/>
+      <node ref="U39" pin="14"/>
+      <node ref="U44" pin="14"/>
+      <node ref="U82" pin="14"/>
+      <node ref="U50" pin="14"/>
+      <node ref="U5" pin="14"/>
+      <node ref="U14" pin="14"/>
+      <node ref="U19" pin="14"/>
+      <node ref="U24" pin="14"/>
+      <node ref="U68" pin="14"/>
+      <node ref="U53" pin="14"/>
+      <node ref="U12" pin="14"/>
+      <node ref="U10" pin="14"/>
+      <node ref="U42" pin="14"/>
+      <node ref="U78" pin="14"/>
+      <node ref="U76" pin="14"/>
+      <node ref="U33" pin="14"/>
+      <node ref="U57" pin="14"/>
+      <node ref="U9" pin="14"/>
+      <node ref="U77" pin="14"/>
+      <node ref="U4" pin="14"/>
+      <node ref="U58" pin="14"/>
+      <node ref="U56" pin="14"/>
+      <node ref="U48" pin="14"/>
+      <node ref="U36" pin="14"/>
+      <node ref="U34" pin="14"/>
+      <node ref="U23" pin="14"/>
+      <node ref="U28" pin="14"/>
+      <node ref="U41" pin="14"/>
+      <node ref="U27" pin="14"/>
+      <node ref="U18" pin="14"/>
+      <node ref="U29" pin="14"/>
+      <node ref="U32" pin="14"/>
+      <node ref="U47" pin="14"/>
+      <node ref="U43" pin="14"/>
+      <node ref="U55" pin="14"/>
+      <node ref="U49" pin="14"/>
+      <node ref="U8" pin="14"/>
+      <node ref="U17" pin="14"/>
+      <node ref="U38" pin="14"/>
+      <node ref="U3" pin="14"/>
+      <node ref="U22" pin="14"/>
+      <node ref="U35" pin="14"/>
+      <node ref="U87" pin="14"/>
+      <node ref="U11" pin="14"/>
+      <node ref="U37" pin="14"/>
+      <node ref="U79" pin="14"/>
+      <node ref="U13" pin="14"/>
+    </net>
+    <net code="43" name="Net-(J6-Pad3)">
+      <node ref="J6" pin="3"/>
+    </net>
+    <net code="44" name="GND">
+      <node ref="U22" pin="7"/>
+      <node ref="U28" pin="7"/>
+      <node ref="U1" pin="7"/>
+      <node ref="U25" pin="7"/>
+      <node ref="U83" pin="7"/>
+      <node ref="U61" pin="7"/>
+      <node ref="U66" pin="7"/>
+      <node ref="U71" pin="7"/>
+      <node ref="U32" pin="7"/>
+      <node ref="U75" pin="7"/>
+      <node ref="U46" pin="7"/>
+      <node ref="U27" pin="7"/>
+      <node ref="U35" pin="7"/>
+      <node ref="U67" pin="7"/>
+      <node ref="U12" pin="7"/>
+      <node ref="U10" pin="7"/>
+      <node ref="U36" pin="7"/>
+      <node ref="U34" pin="7"/>
+      <node ref="U56" pin="7"/>
+      <node ref="U79" pin="7"/>
+      <node ref="U58" pin="7"/>
+      <node ref="U77" pin="7"/>
+      <node ref="U37" pin="7"/>
+      <node ref="U13" pin="7"/>
+      <node ref="U8" pin="7"/>
+      <node ref="U3" pin="7"/>
+      <node ref="J6" pin="2"/>
+      <node ref="U17" pin="7"/>
+      <node ref="U55" pin="7"/>
+      <node ref="U78" pin="7"/>
+      <node ref="U76" pin="7"/>
+      <node ref="U57" pin="7"/>
+      <node ref="U11" pin="7"/>
+      <node ref="U26" pin="7"/>
+      <node ref="U42" pin="7"/>
+      <node ref="U31" pin="7"/>
+      <node ref="U2" pin="7"/>
+      <node ref="U7" pin="7"/>
+      <node ref="U40" pin="7"/>
+      <node ref="U20" pin="7"/>
+      <node ref="U16" pin="7"/>
+      <node ref="U6" pin="7"/>
+      <node ref="U86" pin="7"/>
+      <node ref="U82" pin="7"/>
+      <node ref="U33" pin="7"/>
+      <node ref="U74" pin="7"/>
+      <node ref="U21" pin="7"/>
+      <node ref="U51" pin="7"/>
+      <node ref="U45" pin="7"/>
+      <node ref="U80" pin="7"/>
+      <node ref="U54" pin="7"/>
+      <node ref="U84" pin="7"/>
+      <node ref="U85" pin="7"/>
+      <node ref="U4" pin="7"/>
+      <node ref="U70" pin="7"/>
+      <node ref="U59" pin="7"/>
+      <node ref="U64" pin="7"/>
+      <node ref="U73" pin="7"/>
+      <node ref="U87" pin="7"/>
+      <node ref="U65" pin="7"/>
+      <node ref="U60" pin="7"/>
+      <node ref="U81" pin="7"/>
+      <node ref="U69" pin="7"/>
+      <node ref="U63" pin="7"/>
+      <node ref="U48" pin="7"/>
+      <node ref="U18" pin="7"/>
+      <node ref="U19" pin="7"/>
+      <node ref="U14" pin="7"/>
+      <node ref="U23" pin="7"/>
+      <node ref="U5" pin="7"/>
+      <node ref="U29" pin="7"/>
+      <node ref="U50" pin="7"/>
+      <node ref="U9" pin="7"/>
+      <node ref="U41" pin="7"/>
+      <node ref="U72" pin="7"/>
+      <node ref="U68" pin="7"/>
+      <node ref="U52" pin="7"/>
+      <node ref="U47" pin="7"/>
+      <node ref="U62" pin="7"/>
+      <node ref="U53" pin="7"/>
+      <node ref="U24" pin="7"/>
+      <node ref="U49" pin="7"/>
+      <node ref="U43" pin="7"/>
+      <node ref="U30" pin="7"/>
+      <node ref="U39" pin="7"/>
+      <node ref="U44" pin="7"/>
+      <node ref="U38" pin="7"/>
+      <node ref="U15" pin="7"/>
+    </net>
+    <net code="45" name="/64:4 Multiplexer/Q0">
+      <node ref="U12" pin="3"/>
+      <node ref="J5" pin="8"/>
+    </net>
+    <net code="46" name="/64:4 Multiplexer/S1">
+      <node ref="U60" pin="5"/>
+      <node ref="U46" pin="3"/>
+      <node ref="U81" pin="5"/>
+      <node ref="U42" pin="5"/>
+      <node ref="U43" pin="5"/>
+      <node ref="U51" pin="5"/>
+      <node ref="U30" pin="5"/>
+      <node ref="U52" pin="5"/>
+      <node ref="U47" pin="5"/>
+      <node ref="U31" pin="5"/>
+      <node ref="U48" pin="5"/>
+      <node ref="U59" pin="5"/>
+      <node ref="U68" pin="5"/>
+      <node ref="U25" pin="3"/>
+      <node ref="U69" pin="5"/>
+      <node ref="J5" pin="3"/>
+      <node ref="U64" pin="5"/>
+      <node ref="U63" pin="5"/>
+      <node ref="U80" pin="5"/>
+      <node ref="U67" pin="3"/>
+      <node ref="U39" pin="5"/>
+      <node ref="U72" pin="5"/>
+      <node ref="U38" pin="5"/>
+      <node ref="U73" pin="5"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U22" pin="5"/>
+      <node ref="U21" pin="5"/>
+      <node ref="U2" pin="5"/>
+      <node ref="U3" pin="5"/>
+      <node ref="U27" pin="5"/>
+      <node ref="U26" pin="5"/>
+      <node ref="U7" pin="5"/>
+      <node ref="U18" pin="5"/>
+      <node ref="U15" pin="5"/>
+      <node ref="U14" pin="5"/>
+      <node ref="U19" pin="5"/>
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="47" name="/64:4 Multiplexer/S0">
+      <node ref="U25" pin="1"/>
+      <node ref="U2" pin="13"/>
+      <node ref="U32" pin="13"/>
+      <node ref="U67" pin="1"/>
+      <node ref="U8" pin="13"/>
+      <node ref="U82" pin="13"/>
+      <node ref="U23" pin="13"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U70" pin="13"/>
+      <node ref="U4" pin="13"/>
+      <node ref="U63" pin="13"/>
+      <node ref="U6" pin="13"/>
+      <node ref="U65" pin="13"/>
+      <node ref="U21" pin="13"/>
+      <node ref="U68" pin="13"/>
+      <node ref="J5" pin="4"/>
+      <node ref="U23" pin="2"/>
+      <node ref="U40" pin="13"/>
+      <node ref="U38" pin="13"/>
+      <node ref="U16" pin="13"/>
+      <node ref="U14" pin="13"/>
+      <node ref="U74" pin="13"/>
+      <node ref="U26" pin="13"/>
+      <node ref="U18" pin="13"/>
+      <node ref="U28" pin="13"/>
+      <node ref="U72" pin="13"/>
+      <node ref="U80" pin="13"/>
+      <node ref="U30" pin="13"/>
+    </net>
+    <net code="48" name="/64:4 Multiplexer/Q3">
+      <node ref="J5" pin="5"/>
+      <node ref="U78" pin="3"/>
+    </net>
+    <net code="49" name="/64:4 Multiplexer/Q2">
+      <node ref="U57" pin="3"/>
+      <node ref="J5" pin="6"/>
+    </net>
+    <net code="50" name="/64:4 Multiplexer/Q1">
+      <node ref="J5" pin="7"/>
+      <node ref="U36" pin="3"/>
+    </net>
+    <net code="51" name="/64:4 Multiplexer/S3">
+      <node ref="U46" pin="9"/>
+      <node ref="U63" pin="2"/>
+      <node ref="U20" pin="2"/>
+      <node ref="U65" pin="2"/>
+      <node ref="U15" pin="2"/>
+      <node ref="U18" pin="2"/>
+      <node ref="U59" pin="2"/>
+      <node ref="U14" pin="2"/>
+      <node ref="J5" pin="1"/>
+      <node ref="U45" pin="2"/>
+      <node ref="U86" pin="2"/>
+      <node ref="U62" pin="2"/>
+      <node ref="U61" pin="2"/>
+      <node ref="U17" pin="2"/>
+      <node ref="U16" pin="2"/>
+      <node ref="U60" pin="2"/>
+      <node ref="U38" pin="2"/>
+      <node ref="U39" pin="2"/>
+      <node ref="U80" pin="2"/>
+      <node ref="U81" pin="2"/>
+      <node ref="U1" pin="9"/>
+      <node ref="U25" pin="9"/>
+      <node ref="U40" pin="2"/>
+      <node ref="U82" pin="2"/>
+      <node ref="U67" pin="9"/>
+      <node ref="U41" pin="2"/>
+      <node ref="U83" pin="2"/>
+      <node ref="U42" pin="2"/>
+      <node ref="U84" pin="2"/>
+      <node ref="U24" pin="2"/>
+      <node ref="U44" pin="2"/>
+      <node ref="U87" pin="2"/>
+      <node ref="U66" pin="2"/>
+    </net>
+    <net code="52" name="/64:4 Multiplexer/S2">
+      <node ref="U50" pin="4"/>
+      <node ref="U21" pin="1"/>
+      <node ref="U26" pin="4"/>
+      <node ref="U27" pin="4"/>
+      <node ref="U29" pin="4"/>
+      <node ref="U41" pin="4"/>
+      <node ref="U19" pin="2"/>
+      <node ref="U7" pin="4"/>
+      <node ref="U67" pin="5"/>
+      <node ref="U43" pin="2"/>
+      <node ref="U28" pin="4"/>
+      <node ref="U6" pin="4"/>
+      <node ref="U19" pin="4"/>
+      <node ref="U49" pin="4"/>
+      <node ref="U8" pin="4"/>
+      <node ref="U40" pin="4"/>
+      <node ref="U20" pin="4"/>
+      <node ref="U9" pin="4"/>
+      <node ref="U48" pin="4"/>
+      <node ref="U47" pin="4"/>
+      <node ref="U39" pin="4"/>
+      <node ref="U38" pin="4"/>
+      <node ref="U18" pin="4"/>
+      <node ref="U61" pin="4"/>
+      <node ref="J5" pin="2"/>
+      <node ref="U81" pin="4"/>
+      <node ref="U62" pin="4"/>
+      <node ref="U60" pin="4"/>
+      <node ref="U64" pin="2"/>
+      <node ref="U82" pin="4"/>
+      <node ref="U69" pin="4"/>
+      <node ref="U80" pin="4"/>
+      <node ref="U85" pin="2"/>
+      <node ref="U71" pin="4"/>
+      <node ref="U70" pin="4"/>
+      <node ref="U25" pin="5"/>
+      <node ref="U68" pin="4"/>
+      <node ref="U83" pin="4"/>
+      <node ref="U59" pin="4"/>
+      <node ref="U46" pin="5"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="53" name="/64:4 Multiplexer/De2">
+      <node ref="U64" pin="1"/>
+      <node ref="J4" pin="6"/>
+    </net>
+    <net code="54" name="/64:4 Multiplexer/Dc3">
+      <node ref="J3" pin="5"/>
+      <node ref="U87" pin="1"/>
+    </net>
+    <net code="55" name="/64:4 Multiplexer/Dc2">
+      <node ref="J3" pin="6"/>
+      <node ref="U66" pin="1"/>
+    </net>
+    <net code="56" name="/64:4 Multiplexer/Dc1">
+      <node ref="J3" pin="7"/>
+      <node ref="U45" pin="1"/>
+    </net>
+    <net code="57" name="/64:4 Multiplexer/Dc0">
+      <node ref="J3" pin="8"/>
+      <node ref="U24" pin="1"/>
+    </net>
+    <net code="58" name="/64:4 Multiplexer/Df3">
+      <node ref="U84" pin="1"/>
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="59" name="/64:4 Multiplexer/Df2">
+      <node ref="U63" pin="1"/>
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="60" name="/64:4 Multiplexer/Df1">
+      <node ref="U42" pin="1"/>
+      <node ref="J4" pin="3"/>
+    </net>
+    <net code="61" name="/64:4 Multiplexer/Df0">
+      <node ref="J4" pin="4"/>
+      <node ref="U18" pin="1"/>
+    </net>
+    <net code="62" name="/64:4 Multiplexer/De3">
+      <node ref="J4" pin="5"/>
+      <node ref="U85" pin="1"/>
+    </net>
+    <net code="63" name="/64:4 Multiplexer/D81">
+      <node ref="U46" pin="1"/>
+      <node ref="U47" pin="13"/>
+      <node ref="U59" pin="13"/>
+      <node ref="U44" pin="13"/>
+      <node ref="J4" pin="7"/>
+      <node ref="U42" pin="13"/>
+      <node ref="U49" pin="13"/>
+      <node ref="U41" pin="1"/>
+      <node ref="J1" pin="7"/>
+      <node ref="U51" pin="13"/>
+      <node ref="U43" pin="1"/>
+      <node ref="U61" pin="13"/>
+      <node ref="U53" pin="13"/>
+    </net>
+    <net code="64" name="/64:4 Multiplexer/De0">
+      <node ref="U19" pin="1"/>
+      <node ref="J4" pin="8"/>
+    </net>
+    <net code="65" name="/64:4 Multiplexer/D51">
+      <node ref="U32" pin="1"/>
+      <node ref="J1" pin="19"/>
+    </net>
+    <net code="66" name="/64:4 Multiplexer/D52">
+      <node ref="J1" pin="18"/>
+      <node ref="U53" pin="1"/>
+    </net>
+    <net code="67" name="/64:4 Multiplexer/D53">
+      <node ref="U74" pin="1"/>
+      <node ref="J1" pin="17"/>
+    </net>
+    <net code="68" name="/64:4 Multiplexer/D60">
+      <node ref="J1" pin="16"/>
+      <node ref="U7" pin="1"/>
+    </net>
+    <net code="69" name="/64:4 Multiplexer/D61">
+      <node ref="J1" pin="15"/>
+      <node ref="U31" pin="1"/>
+    </net>
+    <net code="70" name="/64:4 Multiplexer/D62">
+      <node ref="U52" pin="1"/>
+      <node ref="J1" pin="14"/>
+    </net>
+    <net code="71" name="/64:4 Multiplexer/D63">
+      <node ref="U73" pin="1"/>
+      <node ref="J1" pin="13"/>
+    </net>
+    <net code="72" name="/64:4 Multiplexer/D70">
+      <node ref="U6" pin="1"/>
+      <node ref="J1" pin="12"/>
+    </net>
+    <net code="73" name="/64:4 Multiplexer/D71">
+      <node ref="U30" pin="1"/>
+      <node ref="J1" pin="11"/>
+    </net>
+    <net code="74" name="/64:4 Multiplexer/D72">
+      <node ref="U51" pin="1"/>
+      <node ref="J1" pin="10"/>
+    </net>
+    <net code="75" name="/64:4 Multiplexer/D93">
+      <node ref="J1" pin="1"/>
+      <node ref="U82" pin="1"/>
+    </net>
+    <net code="76" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D4">
+      <node ref="U9" pin="11"/>
+      <node ref="U10" pin="5"/>
+    </net>
+    <net code="77" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Df">
+      <node ref="U13" pin="9"/>
+      <node ref="U18" pin="11"/>
+    </net>
+    <net code="78" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Dd">
+      <node ref="U23" pin="3"/>
+      <node ref="U13" pin="4"/>
+    </net>
+    <net code="79" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Dc">
+      <node ref="U13" pin="5"/>
+      <node ref="U20" pin="11"/>
+    </net>
+    <net code="80" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Da">
+      <node ref="U15" pin="11"/>
+      <node ref="U13" pin="2"/>
+    </net>
+    <net code="81" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D8">
+      <node ref="U17" pin="11"/>
+      <node ref="U12" pin="13"/>
+    </net>
+    <net code="82" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D7">
+      <node ref="U10" pin="9"/>
+      <node ref="U6" pin="11"/>
+    </net>
+    <net code="83" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D5">
+      <node ref="U10" pin="4"/>
+      <node ref="U8" pin="11"/>
+    </net>
+    <net code="84" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D2">
+      <node ref="U10" pin="2"/>
+      <node ref="U3" pin="11"/>
+    </net>
+    <net code="85" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D0">
+      <node ref="U5" pin="11"/>
+      <node ref="U10" pin="13"/>
+    </net>
+    <net code="86" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D9">
+      <node ref="U16" pin="11"/>
+      <node ref="U12" pin="12"/>
+    </net>
+    <net code="87" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Db">
+      <node ref="U13" pin="1"/>
+      <node ref="U14" pin="11"/>
+    </net>
+    <net code="88" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D3">
+      <node ref="U10" pin="1"/>
+      <node ref="U2" pin="11"/>
+    </net>
+    <net code="89" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D6">
+      <node ref="U10" pin="10"/>
+      <node ref="U7" pin="11"/>
+    </net>
+    <net code="90" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/d">
+      <node ref="U8" pin="5"/>
+      <node ref="U16" pin="5"/>
+      <node ref="U9" pin="5"/>
+      <node ref="U17" pin="5"/>
+      <node ref="U5" pin="5"/>
+      <node ref="U4" pin="5"/>
+      <node ref="U21" pin="2"/>
+      <node ref="U20" pin="5"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="91" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/c">
+      <node ref="U4" pin="4"/>
+      <node ref="U16" pin="4"/>
+      <node ref="U1" pin="6"/>
+      <node ref="U2" pin="4"/>
+      <node ref="U14" pin="4"/>
+      <node ref="U15" pin="4"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U5" pin="4"/>
+      <node ref="U17" pin="4"/>
+    </net>
+    <net code="92" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D1">
+      <node ref="U4" pin="11"/>
+      <node ref="U10" pin="12"/>
+    </net>
+    <net code="93" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/b">
+      <node ref="U7" pin="2"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U8" pin="2"/>
+      <node ref="U9" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U3" pin="2"/>
+      <node ref="U4" pin="2"/>
+      <node ref="U6" pin="2"/>
+      <node ref="U5" pin="2"/>
+    </net>
+    <net code="94" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/e">
+      <node ref="U17" pin="13"/>
+      <node ref="U19" pin="13"/>
+      <node ref="U15" pin="13"/>
+      <node ref="U20" pin="13"/>
+      <node ref="U5" pin="13"/>
+      <node ref="U3" pin="13"/>
+      <node ref="U1" pin="2"/>
+      <node ref="U9" pin="13"/>
+      <node ref="U7" pin="13"/>
+    </net>
+    <net code="95" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/De">
+      <node ref="U13" pin="10"/>
+      <node ref="U19" pin="11"/>
+    </net>
+    <net code="96" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/e">
+      <node ref="U29" pin="13"/>
+      <node ref="U39" pin="13"/>
+      <node ref="U41" pin="13"/>
+      <node ref="U27" pin="13"/>
+      <node ref="U24" pin="13"/>
+      <node ref="U31" pin="13"/>
+      <node ref="U33" pin="13"/>
+      <node ref="U22" pin="13"/>
+      <node ref="U25" pin="2"/>
+    </net>
+    <net code="97" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Dd">
+      <node ref="U40" pin="11"/>
+      <node ref="U37" pin="4"/>
+    </net>
+    <net code="98" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/De">
+      <node ref="U39" pin="11"/>
+      <node ref="U37" pin="10"/>
+    </net>
+    <net code="99" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Df">
+      <node ref="U38" pin="11"/>
+      <node ref="U37" pin="9"/>
+    </net>
+    <net code="100" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Dc">
+      <node ref="U37" pin="5"/>
+      <node ref="U41" pin="11"/>
+    </net>
+    <net code="101" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D0">
+      <node ref="U13" pin="13"/>
+      <node ref="U24" pin="11"/>
+    </net>
+    <net code="102" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D1">
+      <node ref="U23" pin="11"/>
+      <node ref="U13" pin="12"/>
+    </net>
+    <net code="103" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Da">
+      <node ref="U37" pin="2"/>
+      <node ref="U31" pin="11"/>
+    </net>
+    <net code="104" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D2">
+      <node ref="U22" pin="11"/>
+      <node ref="U34" pin="2"/>
+    </net>
+    <net code="105" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Db">
+      <node ref="U37" pin="1"/>
+      <node ref="U30" pin="11"/>
+    </net>
+    <net code="106" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D6">
+      <node ref="U27" pin="11"/>
+      <node ref="U34" pin="10"/>
+    </net>
+    <net code="107" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D3">
+      <node ref="U21" pin="11"/>
+      <node ref="U34" pin="1"/>
+    </net>
+    <net code="108" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D4">
+      <node ref="U34" pin="5"/>
+      <node ref="U29" pin="11"/>
+    </net>
+    <net code="109" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D5">
+      <node ref="U34" pin="4"/>
+      <node ref="U28" pin="11"/>
+    </net>
+    <net code="110" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D7">
+      <node ref="U34" pin="9"/>
+      <node ref="U26" pin="11"/>
+    </net>
+    <net code="111" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D8">
+      <node ref="U35" pin="13"/>
+      <node ref="U33" pin="11"/>
+    </net>
+    <net code="112" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D9">
+      <node ref="U32" pin="11"/>
+      <node ref="U35" pin="12"/>
+    </net>
+    <net code="113" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/d">
+      <node ref="U24" pin="5"/>
+      <node ref="U28" pin="5"/>
+      <node ref="U32" pin="5"/>
+      <node ref="U23" pin="5"/>
+      <node ref="U29" pin="5"/>
+      <node ref="U40" pin="5"/>
+      <node ref="U33" pin="5"/>
+      <node ref="U25" pin="4"/>
+      <node ref="U41" pin="5"/>
+    </net>
+    <net code="114" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/c">
+      <node ref="U30" pin="4"/>
+      <node ref="U24" pin="4"/>
+      <node ref="U21" pin="4"/>
+      <node ref="U32" pin="4"/>
+      <node ref="U25" pin="6"/>
+      <node ref="U33" pin="4"/>
+      <node ref="U31" pin="4"/>
+      <node ref="U22" pin="4"/>
+      <node ref="U23" pin="4"/>
+    </net>
+    <net code="115" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/b">
+      <node ref="U30" pin="2"/>
+      <node ref="U33" pin="2"/>
+      <node ref="U32" pin="2"/>
+      <node ref="U31" pin="2"/>
+      <node ref="U29" pin="2"/>
+      <node ref="U25" pin="8"/>
+      <node ref="U28" pin="2"/>
+      <node ref="U26" pin="2"/>
+      <node ref="U27" pin="2"/>
+    </net>
+    <net code="116" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Df">
+      <node ref="U59" pin="11"/>
+      <node ref="U58" pin="9"/>
+    </net>
+    <net code="117" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Dd">
+      <node ref="U61" pin="11"/>
+      <node ref="U58" pin="4"/>
+    </net>
+    <net code="118" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Dc">
+      <node ref="U62" pin="11"/>
+      <node ref="U58" pin="5"/>
+    </net>
+    <net code="119" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Da">
+      <node ref="U58" pin="2"/>
+      <node ref="U52" pin="11"/>
+    </net>
+    <net code="120" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D6">
+      <node ref="U55" pin="10"/>
+      <node ref="U48" pin="11"/>
+    </net>
+    <net code="121" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D2">
+      <node ref="U55" pin="2"/>
+      <node ref="U43" pin="11"/>
+    </net>
+    <net code="122" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D0">
+      <node ref="U36" pin="13"/>
+      <node ref="U45" pin="11"/>
+    </net>
+    <net code="123" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D4">
+      <node ref="U50" pin="11"/>
+      <node ref="U55" pin="5"/>
+    </net>
+    <net code="124" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D5">
+      <node ref="U55" pin="4"/>
+      <node ref="U49" pin="11"/>
+    </net>
+    <net code="125" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D8">
+      <node ref="U54" pin="11"/>
+      <node ref="U55" pin="13"/>
+    </net>
+    <net code="126" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D9">
+      <node ref="U55" pin="12"/>
+      <node ref="U53" pin="11"/>
+    </net>
+    <net code="127" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Db">
+      <node ref="U51" pin="11"/>
+      <node ref="U58" pin="1"/>
+    </net>
+    <net code="128" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D3">
+      <node ref="U42" pin="11"/>
+      <node ref="U55" pin="1"/>
+    </net>
+    <net code="129" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D7">
+      <node ref="U47" pin="11"/>
+      <node ref="U55" pin="9"/>
+    </net>
+    <net code="130" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/d">
+      <node ref="U61" pin="5"/>
+      <node ref="U50" pin="5"/>
+      <node ref="U44" pin="5"/>
+      <node ref="U49" pin="5"/>
+      <node ref="U54" pin="5"/>
+      <node ref="U46" pin="4"/>
+      <node ref="U45" pin="5"/>
+      <node ref="U53" pin="5"/>
+      <node ref="U62" pin="5"/>
+    </net>
+    <net code="131" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/c">
+      <node ref="U51" pin="4"/>
+      <node ref="U45" pin="4"/>
+      <node ref="U54" pin="4"/>
+      <node ref="U42" pin="4"/>
+      <node ref="U44" pin="4"/>
+      <node ref="U43" pin="4"/>
+      <node ref="U46" pin="6"/>
+      <node ref="U52" pin="4"/>
+      <node ref="U53" pin="4"/>
+    </net>
+    <net code="132" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D1">
+      <node ref="U44" pin="11"/>
+      <node ref="U36" pin="12"/>
+    </net>
+    <net code="133" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/b">
+      <node ref="U48" pin="2"/>
+      <node ref="U52" pin="2"/>
+      <node ref="U51" pin="2"/>
+      <node ref="U50" pin="2"/>
+      <node ref="U53" pin="2"/>
+      <node ref="U49" pin="2"/>
+      <node ref="U46" pin="8"/>
+      <node ref="U47" pin="2"/>
+      <node ref="U54" pin="2"/>
+    </net>
+    <net code="134" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/e">
+      <node ref="U60" pin="13"/>
+      <node ref="U46" pin="2"/>
+      <node ref="U45" pin="13"/>
+      <node ref="U54" pin="13"/>
+      <node ref="U43" pin="13"/>
+      <node ref="U52" pin="13"/>
+      <node ref="U50" pin="13"/>
+      <node ref="U62" pin="13"/>
+      <node ref="U48" pin="13"/>
+    </net>
+    <net code="135" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/De">
+      <node ref="U60" pin="11"/>
+      <node ref="U58" pin="10"/>
+    </net>
+    <net code="136" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Db">
+      <node ref="U72" pin="11"/>
+      <node ref="U79" pin="1"/>
+    </net>
+    <net code="137" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D9">
+      <node ref="U58" pin="12"/>
+      <node ref="U74" pin="11"/>
+    </net>
+    <net code="138" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D4">
+      <node ref="U71" pin="11"/>
+      <node ref="U76" pin="5"/>
+    </net>
+    <net code="139" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D6">
+      <node ref="U76" pin="10"/>
+      <node ref="U69" pin="11"/>
+    </net>
+    <net code="140" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Da">
+      <node ref="U73" pin="11"/>
+      <node ref="U79" pin="2"/>
+    </net>
+    <net code="141" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/De">
+      <node ref="U79" pin="10"/>
+      <node ref="U81" pin="11"/>
+    </net>
+    <net code="142" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D0">
+      <node ref="U66" pin="11"/>
+      <node ref="U56" pin="13"/>
+    </net>
+    <net code="143" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Dd">
+      <node ref="U79" pin="4"/>
+      <node ref="U82" pin="11"/>
+    </net>
+    <net code="144" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Dc">
+      <node ref="U83" pin="11"/>
+      <node ref="U79" pin="5"/>
+    </net>
+    <net code="145" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D1">
+      <node ref="U56" pin="12"/>
+      <node ref="U65" pin="11"/>
+    </net>
+    <net code="146" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D2">
+      <node ref="U76" pin="2"/>
+      <node ref="U64" pin="11"/>
+    </net>
+    <net code="147" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D3">
+      <node ref="U76" pin="1"/>
+      <node ref="U63" pin="11"/>
+    </net>
+    <net code="148" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D8">
+      <node ref="U75" pin="11"/>
+      <node ref="U58" pin="13"/>
+    </net>
+    <net code="149" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/Df">
+      <node ref="U80" pin="11"/>
+      <node ref="U79" pin="9"/>
+    </net>
+    <net code="150" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/e">
+      <node ref="U64" pin="13"/>
+      <node ref="U69" pin="13"/>
+      <node ref="U67" pin="2"/>
+      <node ref="U73" pin="13"/>
+      <node ref="U66" pin="13"/>
+      <node ref="U81" pin="13"/>
+      <node ref="U83" pin="13"/>
+      <node ref="U71" pin="13"/>
+      <node ref="U75" pin="13"/>
+    </net>
+    <net code="151" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/c">
+      <node ref="U73" pin="4"/>
+      <node ref="U64" pin="4"/>
+      <node ref="U74" pin="4"/>
+      <node ref="U66" pin="4"/>
+      <node ref="U75" pin="4"/>
+      <node ref="U67" pin="6"/>
+      <node ref="U65" pin="4"/>
+      <node ref="U72" pin="4"/>
+      <node ref="U63" pin="4"/>
+    </net>
+    <net code="152" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/b">
+      <node ref="U75" pin="2"/>
+      <node ref="U67" pin="8"/>
+      <node ref="U73" pin="2"/>
+      <node ref="U69" pin="2"/>
+      <node ref="U74" pin="2"/>
+      <node ref="U71" pin="2"/>
+      <node ref="U72" pin="2"/>
+      <node ref="U68" pin="2"/>
+      <node ref="U70" pin="2"/>
+    </net>
+    <net code="153" name="/64:4 Multiplexer/16;1_Multiplexer/5:1_AND/d">
+      <node ref="U82" pin="5"/>
+      <node ref="U65" pin="5"/>
+      <node ref="U75" pin="5"/>
+      <node ref="U66" pin="5"/>
+      <node ref="U74" pin="5"/>
+      <node ref="U83" pin="5"/>
+      <node ref="U70" pin="5"/>
+      <node ref="U71" pin="5"/>
+      <node ref="U67" pin="4"/>
+    </net>
+    <net code="154" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D5">
+      <node ref="U76" pin="4"/>
+      <node ref="U70" pin="11"/>
+    </net>
+    <net code="155" name="/64:4 Multiplexer/16;1_Multiplexer/Sheet5BB0E1EE/D7">
+      <node ref="U68" pin="11"/>
+      <node ref="U76" pin="9"/>
+    </net>
+    <net code="156" name="Net-(U2-Pad12)">
+      <node ref="U2" pin="12"/>
+      <node ref="U2" pin="8"/>
+    </net>
+    <net code="157" name="Net-(U2-Pad3)">
+      <node ref="U2" pin="3"/>
+      <node ref="U2" pin="9"/>
+    </net>
+    <net code="158" name="Net-(U2-Pad10)">
+      <node ref="U2" pin="10"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="159" name="Net-(U3-Pad10)">
+      <node ref="U3" pin="6"/>
+      <node ref="U3" pin="10"/>
+    </net>
+    <net code="160" name="Net-(U3-Pad12)">
+      <node ref="U3" pin="12"/>
+      <node ref="U3" pin="8"/>
+    </net>
+    <net code="161" name="Net-(U3-Pad3)">
+      <node ref="U3" pin="3"/>
+      <node ref="U3" pin="9"/>
+    </net>
+    <net code="162" name="Net-(U4-Pad10)">
+      <node ref="U4" pin="6"/>
+      <node ref="U4" pin="10"/>
+    </net>
+    <net code="163" name="Net-(U4-Pad3)">
+      <node ref="U4" pin="3"/>
+      <node ref="U4" pin="9"/>
+    </net>
+    <net code="164" name="Net-(U4-Pad12)">
+      <node ref="U4" pin="8"/>
+      <node ref="U4" pin="12"/>
+    </net>
+    <net code="165" name="Net-(U5-Pad10)">
+      <node ref="U5" pin="6"/>
+      <node ref="U5" pin="10"/>
+    </net>
+    <net code="166" name="Net-(U5-Pad3)">
+      <node ref="U5" pin="3"/>
+      <node ref="U5" pin="9"/>
+    </net>
+    <net code="167" name="Net-(U5-Pad12)">
+      <node ref="U5" pin="8"/>
+      <node ref="U5" pin="12"/>
+    </net>
+    <net code="168" name="Net-(U6-Pad10)">
+      <node ref="U6" pin="10"/>
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="169" name="Net-(U6-Pad3)">
+      <node ref="U6" pin="3"/>
+      <node ref="U6" pin="9"/>
+    </net>
+    <net code="170" name="Net-(U6-Pad12)">
+      <node ref="U6" pin="8"/>
+      <node ref="U6" pin="12"/>
+    </net>
+    <net code="171" name="Net-(U7-Pad12)">
+      <node ref="U7" pin="8"/>
+      <node ref="U7" pin="12"/>
+    </net>
+    <net code="172" name="Net-(U7-Pad3)">
+      <node ref="U7" pin="3"/>
+      <node ref="U7" pin="9"/>
+    </net>
+    <net code="173" name="Net-(U7-Pad10)">
+      <node ref="U7" pin="10"/>
+      <node ref="U7" pin="6"/>
+    </net>
+    <net code="174" name="Net-(U8-Pad10)">
+      <node ref="U8" pin="10"/>
+      <node ref="U8" pin="6"/>
+    </net>
+    <net code="175" name="Net-(U8-Pad3)">
+      <node ref="U8" pin="3"/>
+      <node ref="U8" pin="9"/>
+    </net>
+    <net code="176" name="Net-(U8-Pad12)">
+      <node ref="U8" pin="12"/>
+      <node ref="U8" pin="8"/>
+    </net>
+    <net code="177" name="Net-(U9-Pad10)">
+      <node ref="U9" pin="10"/>
+      <node ref="U9" pin="6"/>
+    </net>
+    <net code="178" name="Net-(U9-Pad12)">
+      <node ref="U9" pin="12"/>
+      <node ref="U9" pin="8"/>
+    </net>
+    <net code="179" name="Net-(U9-Pad3)">
+      <node ref="U9" pin="3"/>
+      <node ref="U9" pin="9"/>
+    </net>
+    <net code="180" name="Net-(U12-Pad9)">
+      <node ref="U13" pin="8"/>
+      <node ref="U12" pin="9"/>
+    </net>
+    <net code="181" name="Net-(U11-Pad11)">
+      <node ref="U11" pin="5"/>
+      <node ref="U11" pin="11"/>
+    </net>
+    <net code="182" name="Net-(U11-Pad10)">
+      <node ref="U12" pin="6"/>
+      <node ref="U11" pin="10"/>
+    </net>
+    <net code="183" name="Net-(U11-Pad9)">
+      <node ref="U12" pin="8"/>
+      <node ref="U11" pin="9"/>
+    </net>
+    <net code="184" name="Net-(U11-Pad3)">
+      <node ref="U11" pin="3"/>
+      <node ref="U11" pin="4"/>
+    </net>
+    <net code="185" name="Net-(U11-Pad8)">
+      <node ref="U11" pin="8"/>
+      <node ref="U12" pin="1"/>
+    </net>
+    <net code="186" name="Net-(U11-Pad6)">
+      <node ref="U11" pin="6"/>
+      <node ref="U12" pin="2"/>
+    </net>
+    <net code="187" name="Net-(U12-Pad10)">
+      <node ref="U12" pin="10"/>
+      <node ref="U13" pin="6"/>
+    </net>
+    <net code="188" name="Net-(U12-Pad4)">
+      <node ref="U13" pin="3"/>
+      <node ref="U12" pin="4"/>
+    </net>
+    <net code="189" name="Net-(U12-Pad11)">
+      <node ref="U12" pin="11"/>
+      <node ref="U12" pin="5"/>
+    </net>
+    <net code="190" name="Net-(U10-Pad8)">
+      <node ref="U10" pin="8"/>
+      <node ref="U11" pin="1"/>
+    </net>
+    <net code="191" name="Net-(U10-Pad6)">
+      <node ref="U11" pin="2"/>
+      <node ref="U10" pin="6"/>
+    </net>
+    <net code="192" name="Net-(U10-Pad3)">
+      <node ref="U10" pin="3"/>
+      <node ref="U11" pin="12"/>
+    </net>
+    <net code="193" name="Net-(U10-Pad11)">
+      <node ref="U10" pin="11"/>
+      <node ref="U11" pin="13"/>
+    </net>
+    <net code="194" name="Net-(U14-Pad12)">
+      <node ref="U14" pin="8"/>
+      <node ref="U14" pin="12"/>
+    </net>
+    <net code="195" name="Net-(U14-Pad3)">
+      <node ref="U14" pin="9"/>
+      <node ref="U14" pin="3"/>
+    </net>
+    <net code="196" name="Net-(U14-Pad10)">
+      <node ref="U14" pin="10"/>
+      <node ref="U14" pin="6"/>
+    </net>
+    <net code="197" name="Net-(U15-Pad10)">
+      <node ref="U15" pin="6"/>
+      <node ref="U15" pin="10"/>
+    </net>
+    <net code="198" name="Net-(U15-Pad3)">
+      <node ref="U15" pin="9"/>
+      <node ref="U15" pin="3"/>
+    </net>
+    <net code="199" name="Net-(U15-Pad12)">
+      <node ref="U15" pin="12"/>
+      <node ref="U15" pin="8"/>
+    </net>
+    <net code="200" name="Net-(U16-Pad10)">
+      <node ref="U16" pin="6"/>
+      <node ref="U16" pin="10"/>
+    </net>
+    <net code="201" name="Net-(U16-Pad3)">
+      <node ref="U16" pin="3"/>
+      <node ref="U16" pin="9"/>
+    </net>
+    <net code="202" name="Net-(U16-Pad12)">
+      <node ref="U16" pin="8"/>
+      <node ref="U16" pin="12"/>
+    </net>
+    <net code="203" name="Net-(U17-Pad12)">
+      <node ref="U17" pin="8"/>
+      <node ref="U17" pin="12"/>
+    </net>
+    <net code="204" name="Net-(U17-Pad3)">
+      <node ref="U17" pin="3"/>
+      <node ref="U17" pin="9"/>
+    </net>
+    <net code="205" name="Net-(U17-Pad10)">
+      <node ref="U17" pin="6"/>
+      <node ref="U17" pin="10"/>
+    </net>
+    <net code="206" name="Net-(U18-Pad10)">
+      <node ref="U18" pin="10"/>
+      <node ref="U18" pin="6"/>
+    </net>
+    <net code="207" name="Net-(U18-Pad3)">
+      <node ref="U18" pin="9"/>
+      <node ref="U18" pin="3"/>
+    </net>
+    <net code="208" name="Net-(U18-Pad12)">
+      <node ref="U18" pin="12"/>
+      <node ref="U18" pin="8"/>
+    </net>
+    <net code="209" name="Net-(U19-Pad10)">
+      <node ref="U19" pin="10"/>
+      <node ref="U19" pin="6"/>
+    </net>
+    <net code="210" name="Net-(U19-Pad3)">
+      <node ref="U19" pin="9"/>
+      <node ref="U19" pin="3"/>
+    </net>
+    <net code="211" name="Net-(U19-Pad12)">
+      <node ref="U19" pin="12"/>
+      <node ref="U19" pin="8"/>
+    </net>
+    <net code="212" name="Net-(U22-Pad3)">
+      <node ref="U23" pin="1"/>
+      <node ref="U22" pin="3"/>
+    </net>
+    <net code="213" name="Net-(U21-Pad3)">
+      <node ref="U22" pin="2"/>
+      <node ref="U21" pin="3"/>
+    </net>
+    <net code="214" name="Net-(U20-Pad3)">
+      <node ref="U22" pin="1"/>
+      <node ref="U20" pin="3"/>
+    </net>
+    <net code="215" name="Net-(U20-Pad10)">
+      <node ref="U20" pin="10"/>
+      <node ref="U20" pin="6"/>
+    </net>
+    <net code="216" name="Net-(U20-Pad9)">
+      <node ref="U24" pin="3"/>
+      <node ref="U20" pin="9"/>
+    </net>
+    <net code="217" name="Net-(U20-Pad12)">
+      <node ref="U20" pin="12"/>
+      <node ref="U20" pin="8"/>
+    </net>
+    <net code="218" name="Net-(U21-Pad10)">
+      <node ref="U21" pin="10"/>
+      <node ref="U21" pin="6"/>
+    </net>
+    <net code="219" name="Net-(U21-Pad12)">
+      <node ref="U21" pin="8"/>
+      <node ref="U21" pin="12"/>
+    </net>
+    <net code="220" name="Net-(U21-Pad9)">
+      <node ref="U26" pin="3"/>
+      <node ref="U21" pin="9"/>
+    </net>
+    <net code="221" name="Net-(U22-Pad10)">
+      <node ref="U22" pin="6"/>
+      <node ref="U22" pin="10"/>
+    </net>
+    <net code="222" name="Net-(U22-Pad9)">
+      <node ref="U27" pin="3"/>
+      <node ref="U22" pin="9"/>
+    </net>
+    <net code="223" name="Net-(U22-Pad12)">
+      <node ref="U22" pin="12"/>
+      <node ref="U22" pin="8"/>
+    </net>
+    <net code="224" name="Net-(U23-Pad9)">
+      <node ref="U23" pin="9"/>
+      <node ref="U28" pin="3"/>
+    </net>
+    <net code="225" name="Net-(U23-Pad12)">
+      <node ref="U23" pin="8"/>
+      <node ref="U23" pin="12"/>
+    </net>
+    <net code="226" name="Net-(U23-Pad10)">
+      <node ref="U23" pin="6"/>
+      <node ref="U23" pin="10"/>
+    </net>
+    <net code="227" name="Net-(U24-Pad12)">
+      <node ref="U24" pin="12"/>
+      <node ref="U24" pin="8"/>
+    </net>
+    <net code="228" name="Net-(U24-Pad9)">
+      <node ref="U24" pin="9"/>
+      <node ref="U29" pin="3"/>
+    </net>
+    <net code="229" name="Net-(U24-Pad10)">
+      <node ref="U24" pin="10"/>
+      <node ref="U24" pin="6"/>
+    </net>
+    <net code="230" name="Net-(U26-Pad12)">
+      <node ref="U26" pin="12"/>
+      <node ref="U26" pin="8"/>
+    </net>
+    <net code="231" name="Net-(U26-Pad10)">
+      <node ref="U26" pin="10"/>
+      <node ref="U26" pin="6"/>
+    </net>
+    <net code="232" name="Net-(U26-Pad9)">
+      <node ref="U26" pin="9"/>
+      <node ref="U30" pin="3"/>
+    </net>
+    <net code="233" name="Net-(U27-Pad12)">
+      <node ref="U27" pin="8"/>
+      <node ref="U27" pin="12"/>
+    </net>
+    <net code="234" name="Net-(U27-Pad10)">
+      <node ref="U27" pin="10"/>
+      <node ref="U27" pin="6"/>
+    </net>
+    <net code="235" name="Net-(U27-Pad9)">
+      <node ref="U27" pin="9"/>
+      <node ref="U31" pin="3"/>
+    </net>
+    <net code="236" name="Net-(U28-Pad10)">
+      <node ref="U28" pin="6"/>
+      <node ref="U28" pin="10"/>
+    </net>
+    <net code="237" name="Net-(U28-Pad9)">
+      <node ref="U28" pin="9"/>
+      <node ref="U32" pin="3"/>
+    </net>
+    <net code="238" name="Net-(U28-Pad12)">
+      <node ref="U28" pin="12"/>
+      <node ref="U28" pin="8"/>
+    </net>
+    <net code="239" name="Net-(U29-Pad10)">
+      <node ref="U29" pin="6"/>
+      <node ref="U29" pin="10"/>
+    </net>
+    <net code="240" name="Net-(U29-Pad9)">
+      <node ref="U29" pin="9"/>
+      <node ref="U33" pin="3"/>
+    </net>
+    <net code="241" name="Net-(U29-Pad12)">
+      <node ref="U29" pin="8"/>
+      <node ref="U29" pin="12"/>
+    </net>
+    <net code="242" name="Net-(U13-Pad11)">
+      <node ref="U13" pin="11"/>
+      <node ref="U34" pin="13"/>
+    </net>
+    <net code="243" name="Net-(U35-Pad9)">
+      <node ref="U36" pin="8"/>
+      <node ref="U35" pin="9"/>
+    </net>
+    <net code="244" name="Net-(U34-Pad8)">
+      <node ref="U34" pin="8"/>
+      <node ref="U35" pin="1"/>
+    </net>
+    <net code="245" name="Net-(U36-Pad4)">
+      <node ref="U37" pin="3"/>
+      <node ref="U36" pin="4"/>
+    </net>
+    <net code="246" name="Net-(U35-Pad11)">
+      <node ref="U35" pin="11"/>
+      <node ref="U36" pin="5"/>
+    </net>
+    <net code="247" name="Net-(U34-Pad6)">
+      <node ref="U34" pin="6"/>
+      <node ref="U35" pin="2"/>
+    </net>
+    <net code="248" name="Net-(U34-Pad12)">
+      <node ref="U34" pin="3"/>
+      <node ref="U34" pin="12"/>
+    </net>
+    <net code="249" name="Net-(U36-Pad9)">
+      <node ref="U36" pin="9"/>
+      <node ref="U37" pin="8"/>
+    </net>
+    <net code="250" name="Net-(U36-Pad10)">
+      <node ref="U36" pin="10"/>
+      <node ref="U37" pin="6"/>
+    </net>
+    <net code="251" name="Net-(U35-Pad8)">
+      <node ref="U36" pin="1"/>
+      <node ref="U35" pin="8"/>
+    </net>
+    <net code="252" name="Net-(U35-Pad6)">
+      <node ref="U35" pin="6"/>
+      <node ref="U36" pin="2"/>
+    </net>
+    <net code="253" name="Net-(U34-Pad11)">
+      <node ref="U34" pin="11"/>
+      <node ref="U35" pin="5"/>
+    </net>
+    <net code="254" name="Net-(U35-Pad3)">
+      <node ref="U35" pin="4"/>
+      <node ref="U35" pin="3"/>
+    </net>
+    <net code="255" name="Net-(U35-Pad10)">
+      <node ref="U36" pin="6"/>
+      <node ref="U35" pin="10"/>
+    </net>
+    <net code="256" name="Net-(U30-Pad10)">
+      <node ref="U30" pin="10"/>
+      <node ref="U30" pin="6"/>
+    </net>
+    <net code="257" name="Net-(U30-Pad9)">
+      <node ref="U30" pin="9"/>
+      <node ref="U38" pin="3"/>
+    </net>
+    <net code="258" name="Net-(U30-Pad12)">
+      <node ref="U30" pin="8"/>
+      <node ref="U30" pin="12"/>
+    </net>
+    <net code="259" name="Net-(U31-Pad12)">
+      <node ref="U31" pin="8"/>
+      <node ref="U31" pin="12"/>
+    </net>
+    <net code="260" name="Net-(U31-Pad9)">
+      <node ref="U39" pin="3"/>
+      <node ref="U31" pin="9"/>
+    </net>
+    <net code="261" name="Net-(U31-Pad10)">
+      <node ref="U31" pin="6"/>
+      <node ref="U31" pin="10"/>
+    </net>
+    <net code="262" name="Net-(U32-Pad12)">
+      <node ref="U32" pin="12"/>
+      <node ref="U32" pin="8"/>
+    </net>
+    <net code="263" name="Net-(U32-Pad9)">
+      <node ref="U40" pin="3"/>
+      <node ref="U32" pin="9"/>
+    </net>
+    <net code="264" name="Net-(U32-Pad10)">
+      <node ref="U32" pin="6"/>
+      <node ref="U32" pin="10"/>
+    </net>
+    <net code="265" name="Net-(U33-Pad12)">
+      <node ref="U33" pin="8"/>
+      <node ref="U33" pin="12"/>
+    </net>
+    <net code="266" name="Net-(U33-Pad9)">
+      <node ref="U41" pin="3"/>
+      <node ref="U33" pin="9"/>
+    </net>
+    <net code="267" name="Net-(U33-Pad10)">
+      <node ref="U33" pin="6"/>
+      <node ref="U33" pin="10"/>
+    </net>
+    <net code="268" name="Net-(U38-Pad10)">
+      <node ref="U38" pin="10"/>
+      <node ref="U38" pin="6"/>
+    </net>
+    <net code="269" name="Net-(U38-Pad9)">
+      <node ref="U38" pin="9"/>
+      <node ref="U42" pin="3"/>
+    </net>
+    <net code="270" name="Net-(U38-Pad12)">
+      <node ref="U38" pin="12"/>
+      <node ref="U38" pin="8"/>
+    </net>
+    <net code="271" name="Net-(U39-Pad12)">
+      <node ref="U39" pin="8"/>
+      <node ref="U39" pin="12"/>
+    </net>
+    <net code="272" name="Net-(U39-Pad9)">
+      <node ref="U43" pin="3"/>
+      <node ref="U39" pin="9"/>
+    </net>
+    <net code="273" name="Net-(U39-Pad10)">
+      <node ref="U39" pin="6"/>
+      <node ref="U39" pin="10"/>
+    </net>
+    <net code="274" name="Net-(U40-Pad12)">
+      <node ref="U40" pin="8"/>
+      <node ref="U40" pin="12"/>
+    </net>
+    <net code="275" name="Net-(U40-Pad9)">
+      <node ref="U40" pin="9"/>
+      <node ref="U44" pin="3"/>
+    </net>
+    <net code="276" name="Net-(U40-Pad10)">
+      <node ref="U40" pin="6"/>
+      <node ref="U40" pin="10"/>
+    </net>
+    <net code="277" name="Net-(U41-Pad10)">
+      <node ref="U41" pin="10"/>
+      <node ref="U41" pin="6"/>
+    </net>
+    <net code="278" name="Net-(U41-Pad9)">
+      <node ref="U41" pin="9"/>
+      <node ref="U45" pin="3"/>
+    </net>
+    <net code="279" name="Net-(U41-Pad12)">
+      <node ref="U41" pin="12"/>
+      <node ref="U41" pin="8"/>
+    </net>
+    <net code="280" name="Net-(U42-Pad12)">
+      <node ref="U42" pin="12"/>
+      <node ref="U42" pin="8"/>
+    </net>
+    <net code="281" name="Net-(U42-Pad9)">
+      <node ref="U42" pin="9"/>
+      <node ref="U47" pin="3"/>
+    </net>
+    <net code="282" name="Net-(U42-Pad10)">
+      <node ref="U42" pin="6"/>
+      <node ref="U42" pin="10"/>
+    </net>
+    <net code="283" name="Net-(U43-Pad10)">
+      <node ref="U43" pin="10"/>
+      <node ref="U43" pin="6"/>
+    </net>
+    <net code="284" name="Net-(U43-Pad9)">
+      <node ref="U43" pin="9"/>
+      <node ref="U48" pin="3"/>
+    </net>
+    <net code="285" name="Net-(U43-Pad12)">
+      <node ref="U43" pin="8"/>
+      <node ref="U43" pin="12"/>
+    </net>
+    <net code="286" name="Net-(U44-Pad10)">
+      <node ref="U44" pin="6"/>
+      <node ref="U44" pin="10"/>
+    </net>
+    <net code="287" name="Net-(U44-Pad9)">
+      <node ref="U44" pin="9"/>
+      <node ref="U49" pin="3"/>
+    </net>
+    <net code="288" name="Net-(U44-Pad12)">
+      <node ref="U44" pin="12"/>
+      <node ref="U44" pin="8"/>
+    </net>
+    <net code="289" name="Net-(U45-Pad10)">
+      <node ref="U45" pin="6"/>
+      <node ref="U45" pin="10"/>
+    </net>
+    <net code="290" name="Net-(U45-Pad12)">
+      <node ref="U45" pin="8"/>
+      <node ref="U45" pin="12"/>
+    </net>
+    <net code="291" name="Net-(U45-Pad9)">
+      <node ref="U50" pin="3"/>
+      <node ref="U45" pin="9"/>
+    </net>
+    <net code="292" name="Net-(U47-Pad10)">
+      <node ref="U47" pin="6"/>
+      <node ref="U47" pin="10"/>
+    </net>
+    <net code="293" name="Net-(U47-Pad9)">
+      <node ref="U47" pin="9"/>
+      <node ref="U51" pin="3"/>
+    </net>
+    <net code="294" name="Net-(U47-Pad12)">
+      <node ref="U47" pin="12"/>
+      <node ref="U47" pin="8"/>
+    </net>
+    <net code="295" name="Net-(U48-Pad12)">
+      <node ref="U48" pin="12"/>
+      <node ref="U48" pin="8"/>
+    </net>
+    <net code="296" name="Net-(U48-Pad10)">
+      <node ref="U48" pin="10"/>
+      <node ref="U48" pin="6"/>
+    </net>
+    <net code="297" name="Net-(U48-Pad9)">
+      <node ref="U52" pin="3"/>
+      <node ref="U48" pin="9"/>
+    </net>
+    <net code="298" name="Net-(U49-Pad10)">
+      <node ref="U49" pin="6"/>
+      <node ref="U49" pin="10"/>
+    </net>
+    <net code="299" name="Net-(U49-Pad12)">
+      <node ref="U49" pin="8"/>
+      <node ref="U49" pin="12"/>
+    </net>
+    <net code="300" name="Net-(U49-Pad9)">
+      <node ref="U49" pin="9"/>
+      <node ref="U53" pin="3"/>
+    </net>
+    <net code="301" name="Net-(U50-Pad10)">
+      <node ref="U50" pin="10"/>
+      <node ref="U50" pin="6"/>
+    </net>
+    <net code="302" name="Net-(U50-Pad9)">
+      <node ref="U50" pin="9"/>
+      <node ref="U54" pin="3"/>
+    </net>
+    <net code="303" name="Net-(U50-Pad12)">
+      <node ref="U50" pin="8"/>
+      <node ref="U50" pin="12"/>
+    </net>
+    <net code="304" name="Net-(U36-Pad11)">
+      <node ref="U36" pin="11"/>
+      <node ref="U37" pin="13"/>
+    </net>
+    <net code="305" name="Net-(U37-Pad12)">
+      <node ref="U55" pin="3"/>
+      <node ref="U37" pin="12"/>
+    </net>
+    <net code="306" name="Net-(U55-Pad6)">
+      <node ref="U56" pin="2"/>
+      <node ref="U55" pin="6"/>
+    </net>
+    <net code="307" name="Net-(U55-Pad8)">
+      <node ref="U56" pin="1"/>
+      <node ref="U55" pin="8"/>
+    </net>
+    <net code="308" name="Net-(U55-Pad11)">
+      <node ref="U55" pin="11"/>
+      <node ref="U57" pin="5"/>
+    </net>
+    <net code="309" name="Net-(U57-Pad4)">
+      <node ref="U58" pin="3"/>
+      <node ref="U57" pin="4"/>
+    </net>
+    <net code="310" name="Net-(U57-Pad10)">
+      <node ref="U57" pin="10"/>
+      <node ref="U58" pin="6"/>
+    </net>
+    <net code="311" name="Net-(U57-Pad9)">
+      <node ref="U58" pin="8"/>
+      <node ref="U57" pin="9"/>
+    </net>
+    <net code="312" name="Net-(U56-Pad3)">
+      <node ref="U56" pin="4"/>
+      <node ref="U56" pin="3"/>
+    </net>
+    <net code="313" name="Net-(U37-Pad11)">
+      <node ref="U37" pin="11"/>
+      <node ref="U56" pin="5"/>
+    </net>
+    <net code="314" name="Net-(U56-Pad6)">
+      <node ref="U57" pin="2"/>
+      <node ref="U56" pin="6"/>
+    </net>
+    <net code="315" name="Net-(U56-Pad8)">
+      <node ref="U57" pin="1"/>
+      <node ref="U56" pin="8"/>
+    </net>
+    <net code="316" name="Net-(U56-Pad9)">
+      <node ref="U57" pin="8"/>
+      <node ref="U56" pin="9"/>
+    </net>
+    <net code="317" name="Net-(U56-Pad10)">
+      <node ref="U57" pin="6"/>
+      <node ref="U56" pin="10"/>
+    </net>
+    <net code="318" name="Net-(U51-Pad12)">
+      <node ref="U51" pin="8"/>
+      <node ref="U51" pin="12"/>
+    </net>
+    <net code="319" name="Net-(U51-Pad9)">
+      <node ref="U59" pin="3"/>
+      <node ref="U51" pin="9"/>
+    </net>
+    <net code="320" name="Net-(U51-Pad10)">
+      <node ref="U51" pin="10"/>
+      <node ref="U51" pin="6"/>
+    </net>
+    <net code="321" name="Net-(U52-Pad10)">
+      <node ref="U52" pin="10"/>
+      <node ref="U52" pin="6"/>
+    </net>
+    <net code="322" name="Net-(U52-Pad9)">
+      <node ref="U52" pin="9"/>
+      <node ref="U60" pin="3"/>
+    </net>
+    <net code="323" name="Net-(U52-Pad12)">
+      <node ref="U52" pin="12"/>
+      <node ref="U52" pin="8"/>
+    </net>
+    <net code="324" name="Net-(U53-Pad10)">
+      <node ref="U53" pin="10"/>
+      <node ref="U53" pin="6"/>
+    </net>
+    <net code="325" name="Net-(U53-Pad9)">
+      <node ref="U53" pin="9"/>
+      <node ref="U61" pin="3"/>
+    </net>
+    <net code="326" name="Net-(U53-Pad12)">
+      <node ref="U53" pin="12"/>
+      <node ref="U53" pin="8"/>
+    </net>
+    <net code="327" name="Net-(U54-Pad10)">
+      <node ref="U54" pin="6"/>
+      <node ref="U54" pin="10"/>
+    </net>
+    <net code="328" name="Net-(U54-Pad9)">
+      <node ref="U54" pin="9"/>
+      <node ref="U62" pin="3"/>
+    </net>
+    <net code="329" name="Net-(U54-Pad12)">
+      <node ref="U54" pin="12"/>
+      <node ref="U54" pin="8"/>
+    </net>
+    <net code="330" name="Net-(U59-Pad12)">
+      <node ref="U59" pin="8"/>
+      <node ref="U59" pin="12"/>
+    </net>
+    <net code="331" name="Net-(U59-Pad10)">
+      <node ref="U59" pin="10"/>
+      <node ref="U59" pin="6"/>
+    </net>
+    <net code="332" name="Net-(U59-Pad9)">
+      <node ref="U59" pin="9"/>
+      <node ref="U63" pin="3"/>
+    </net>
+    <net code="333" name="Net-(U60-Pad10)">
+      <node ref="U60" pin="10"/>
+      <node ref="U60" pin="6"/>
+    </net>
+    <net code="334" name="Net-(U60-Pad9)">
+      <node ref="U64" pin="3"/>
+      <node ref="U60" pin="9"/>
+    </net>
+    <net code="335" name="Net-(U60-Pad12)">
+      <node ref="U60" pin="12"/>
+      <node ref="U60" pin="8"/>
+    </net>
+    <net code="336" name="Net-(U61-Pad12)">
+      <node ref="U61" pin="8"/>
+      <node ref="U61" pin="12"/>
+    </net>
+    <net code="337" name="Net-(U61-Pad10)">
+      <node ref="U61" pin="10"/>
+      <node ref="U61" pin="6"/>
+    </net>
+    <net code="338" name="Net-(U61-Pad9)">
+      <node ref="U65" pin="3"/>
+      <node ref="U61" pin="9"/>
+    </net>
+    <net code="339" name="Net-(U62-Pad12)">
+      <node ref="U62" pin="12"/>
+      <node ref="U62" pin="8"/>
+    </net>
+    <net code="340" name="Net-(U62-Pad9)">
+      <node ref="U66" pin="3"/>
+      <node ref="U62" pin="9"/>
+    </net>
+    <net code="341" name="Net-(U62-Pad10)">
+      <node ref="U62" pin="6"/>
+      <node ref="U62" pin="10"/>
+    </net>
+    <net code="342" name="Net-(U63-Pad12)">
+      <node ref="U63" pin="8"/>
+      <node ref="U63" pin="12"/>
+    </net>
+    <net code="343" name="Net-(U63-Pad9)">
+      <node ref="U63" pin="9"/>
+      <node ref="U68" pin="3"/>
+    </net>
+    <net code="344" name="Net-(U63-Pad10)">
+      <node ref="U63" pin="10"/>
+      <node ref="U63" pin="6"/>
+    </net>
+    <net code="345" name="Net-(U64-Pad12)">
+      <node ref="U64" pin="12"/>
+      <node ref="U64" pin="8"/>
+    </net>
+    <net code="346" name="Net-(U64-Pad9)">
+      <node ref="U64" pin="9"/>
+      <node ref="U69" pin="3"/>
+    </net>
+    <net code="347" name="Net-(U64-Pad10)">
+      <node ref="U64" pin="6"/>
+      <node ref="U64" pin="10"/>
+    </net>
+    <net code="348" name="Net-(U65-Pad10)">
+      <node ref="U65" pin="6"/>
+      <node ref="U65" pin="10"/>
+    </net>
+    <net code="349" name="Net-(U65-Pad9)">
+      <node ref="U70" pin="3"/>
+      <node ref="U65" pin="9"/>
+    </net>
+    <net code="350" name="Net-(U65-Pad12)">
+      <node ref="U65" pin="12"/>
+      <node ref="U65" pin="8"/>
+    </net>
+    <net code="351" name="Net-(U66-Pad10)">
+      <node ref="U66" pin="10"/>
+      <node ref="U66" pin="6"/>
+    </net>
+    <net code="352" name="Net-(U66-Pad9)">
+      <node ref="U66" pin="9"/>
+      <node ref="U71" pin="3"/>
+    </net>
+    <net code="353" name="Net-(U66-Pad12)">
+      <node ref="U66" pin="8"/>
+      <node ref="U66" pin="12"/>
+    </net>
+    <net code="354" name="Net-(U68-Pad12)">
+      <node ref="U68" pin="8"/>
+      <node ref="U68" pin="12"/>
+    </net>
+    <net code="355" name="Net-(U68-Pad9)">
+      <node ref="U68" pin="9"/>
+      <node ref="U72" pin="3"/>
+    </net>
+    <net code="356" name="Net-(U68-Pad10)">
+      <node ref="U68" pin="10"/>
+      <node ref="U68" pin="6"/>
+    </net>
+    <net code="357" name="Net-(U69-Pad10)">
+      <node ref="U69" pin="10"/>
+      <node ref="U69" pin="6"/>
+    </net>
+    <net code="358" name="Net-(U69-Pad9)">
+      <node ref="U73" pin="3"/>
+      <node ref="U69" pin="9"/>
+    </net>
+    <net code="359" name="Net-(U69-Pad12)">
+      <node ref="U69" pin="12"/>
+      <node ref="U69" pin="8"/>
+    </net>
+    <net code="360" name="Net-(U70-Pad10)">
+      <node ref="U70" pin="6"/>
+      <node ref="U70" pin="10"/>
+    </net>
+    <net code="361" name="Net-(U70-Pad9)">
+      <node ref="U74" pin="3"/>
+      <node ref="U70" pin="9"/>
+    </net>
+    <net code="362" name="Net-(U70-Pad12)">
+      <node ref="U70" pin="12"/>
+      <node ref="U70" pin="8"/>
+    </net>
+    <net code="363" name="Net-(U71-Pad12)">
+      <node ref="U71" pin="12"/>
+      <node ref="U71" pin="8"/>
+    </net>
+    <net code="364" name="Net-(U71-Pad9)">
+      <node ref="U75" pin="3"/>
+      <node ref="U71" pin="9"/>
+    </net>
+    <net code="365" name="Net-(U71-Pad10)">
+      <node ref="U71" pin="6"/>
+      <node ref="U71" pin="10"/>
+    </net>
+    <net code="366" name="Net-(U77-Pad6)">
+      <node ref="U77" pin="6"/>
+      <node ref="U78" pin="2"/>
+    </net>
+    <net code="367" name="Net-(U77-Pad8)">
+      <node ref="U78" pin="1"/>
+      <node ref="U77" pin="8"/>
+    </net>
+    <net code="368" name="Net-(U77-Pad3)">
+      <node ref="U77" pin="4"/>
+      <node ref="U77" pin="3"/>
+    </net>
+    <net code="369" name="Net-(U56-Pad11)">
+      <node ref="U57" pin="13"/>
+      <node ref="U56" pin="11"/>
+    </net>
+    <net code="370" name="Net-(U57-Pad11)">
+      <node ref="U77" pin="5"/>
+      <node ref="U57" pin="11"/>
+    </net>
+    <net code="371" name="Net-(U78-Pad4)">
+      <node ref="U78" pin="4"/>
+      <node ref="U79" pin="3"/>
+    </net>
+    <net code="372" name="Net-(U76-Pad8)">
+      <node ref="U77" pin="1"/>
+      <node ref="U76" pin="8"/>
+    </net>
+    <net code="373" name="Net-(U76-Pad6)">
+      <node ref="U77" pin="2"/>
+      <node ref="U76" pin="6"/>
+    </net>
+    <net code="374" name="Net-(U78-Pad9)">
+      <node ref="U79" pin="8"/>
+      <node ref="U78" pin="9"/>
+    </net>
+    <net code="375" name="Net-(U77-Pad9)">
+      <node ref="U78" pin="8"/>
+      <node ref="U77" pin="9"/>
+    </net>
+    <net code="376" name="Net-(U78-Pad10)">
+      <node ref="U79" pin="6"/>
+      <node ref="U78" pin="10"/>
+    </net>
+    <net code="377" name="Net-(U77-Pad10)">
+      <node ref="U77" pin="10"/>
+      <node ref="U78" pin="6"/>
+    </net>
+    <net code="378" name="Net-(U58-Pad11)">
+      <node ref="U78" pin="5"/>
+      <node ref="U58" pin="11"/>
+    </net>
+    <net code="379" name="Net-(U57-Pad12)">
+      <node ref="U57" pin="12"/>
+      <node ref="U76" pin="3"/>
+    </net>
+    <net code="380" name="Net-(U72-Pad10)">
+      <node ref="U72" pin="6"/>
+      <node ref="U72" pin="10"/>
+    </net>
+    <net code="381" name="Net-(U72-Pad9)">
+      <node ref="U80" pin="3"/>
+      <node ref="U72" pin="9"/>
+    </net>
+    <net code="382" name="Net-(U72-Pad12)">
+      <node ref="U72" pin="8"/>
+      <node ref="U72" pin="12"/>
+    </net>
+    <net code="383" name="Net-(U73-Pad12)">
+      <node ref="U73" pin="8"/>
+      <node ref="U73" pin="12"/>
+    </net>
+    <net code="384" name="Net-(U73-Pad10)">
+      <node ref="U73" pin="10"/>
+      <node ref="U73" pin="6"/>
+    </net>
+    <net code="385" name="Net-(U73-Pad9)">
+      <node ref="U73" pin="9"/>
+      <node ref="U81" pin="3"/>
+    </net>
+    <net code="386" name="Net-(U74-Pad10)">
+      <node ref="U74" pin="6"/>
+      <node ref="U74" pin="10"/>
+    </net>
+    <net code="387" name="Net-(U74-Pad9)">
+      <node ref="U82" pin="3"/>
+      <node ref="U74" pin="9"/>
+    </net>
+    <net code="388" name="Net-(U74-Pad12)">
+      <node ref="U74" pin="12"/>
+      <node ref="U74" pin="8"/>
+    </net>
+    <net code="389" name="Net-(U75-Pad10)">
+      <node ref="U75" pin="6"/>
+      <node ref="U75" pin="10"/>
+    </net>
+    <net code="390" name="Net-(U75-Pad9)">
+      <node ref="U83" pin="3"/>
+      <node ref="U75" pin="9"/>
+    </net>
+    <net code="391" name="Net-(U75-Pad12)">
+      <node ref="U75" pin="12"/>
+      <node ref="U75" pin="8"/>
+    </net>
+    <net code="392" name="Net-(U80-Pad10)">
+      <node ref="U80" pin="6"/>
+      <node ref="U80" pin="10"/>
+    </net>
+    <net code="393" name="Net-(U80-Pad9)">
+      <node ref="U80" pin="9"/>
+      <node ref="U84" pin="3"/>
+    </net>
+    <net code="394" name="Net-(U80-Pad12)">
+      <node ref="U80" pin="8"/>
+      <node ref="U80" pin="12"/>
+    </net>
+    <net code="395" name="Net-(U81-Pad12)">
+      <node ref="U81" pin="12"/>
+      <node ref="U81" pin="8"/>
+    </net>
+    <net code="396" name="Net-(U81-Pad9)">
+      <node ref="U81" pin="9"/>
+      <node ref="U85" pin="3"/>
+    </net>
+    <net code="397" name="Net-(U81-Pad10)">
+      <node ref="U81" pin="6"/>
+      <node ref="U81" pin="10"/>
+    </net>
+    <net code="398" name="Net-(U82-Pad10)">
+      <node ref="U82" pin="6"/>
+      <node ref="U82" pin="10"/>
+    </net>
+    <net code="399" name="Net-(U82-Pad9)">
+      <node ref="U82" pin="9"/>
+      <node ref="U86" pin="3"/>
+    </net>
+    <net code="400" name="Net-(U82-Pad12)">
+      <node ref="U82" pin="12"/>
+      <node ref="U82" pin="8"/>
+    </net>
+    <net code="401" name="Net-(U83-Pad9)">
+      <node ref="U87" pin="3"/>
+      <node ref="U83" pin="9"/>
+    </net>
+    <net code="402" name="Net-(U83-Pad12)">
+      <node ref="U83" pin="12"/>
+      <node ref="U83" pin="8"/>
+    </net>
+    <net code="403" name="Net-(U83-Pad10)">
+      <node ref="U83" pin="10"/>
+      <node ref="U83" pin="6"/>
+    </net>
+  </nets>
+</export>
