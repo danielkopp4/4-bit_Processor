@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 450 456
+Sheet 450 458
 Title ""
 Date ""
 Rev ""
@@ -68,26 +68,109 @@ Text HLabel 9250 4050 2    50   Output ~ 0
 Q2
 Text HLabel 9250 4150 2    50   Output ~ 0
 Q3
-$Sheet
-S 3900 700  550  1050
-U 5BA1B69F
-F0 "4-bit_Adder" 50
-F1 "4_Bit_Adder.sch" 50
-F2 "a0" I L 3900 750 50 
-F3 "a1" I L 3900 850 50 
-F4 "a2" I L 3900 950 50 
-F5 "a3" I L 3900 1050 50 
-F6 "b1" I L 3900 1450 50 
-F7 "b2" I L 3900 1550 50 
-F8 "b0" I L 3900 1350 50 
-F9 "b3" I L 3900 1650 50 
-F10 "Cin" I L 3900 1200 50 
-F11 "Cout" O R 4450 1350 50 
-F12 "Q3" O R 4450 1150 50 
-F13 "Q2" O R 4450 1050 50 
-F14 "Q1" O R 4450 950 50 
-F15 "Q0" O R 4450 850 50 
-$EndSheet
 Text HLabel 9250 1050 2    50   Output ~ 0
 OverFlow
+Wire Wire Line
+	1800 6800 1900 6800
+Wire Wire Line
+	2000 750  6350 750 
+Wire Wire Line
+	1950 6800 1950 3550
+$Sheet
+S 6300 2900 550  250 
+U 5BAAA10E
+F0 "Half_Adder" 50
+F1 "Half_Adder.sch" 50
+F2 "a" I L 6300 2950 50 
+F3 "b" I L 6300 3050 50 
+F4 "s" O R 6850 2950 50 
+F5 "Cout" O R 6850 3050 50 
+$EndSheet
+$Sheet
+S 6300 3350 550  350 
+U 5BAAD051
+F0 "sheet5BAAD04A" 60
+F1 "Full_adder.sch" 60
+F2 "a" I L 6300 3500 60 
+F3 "b" I L 6300 3600 60 
+F4 "Cin" I L 6300 3400 60 
+F5 "S" O R 6850 3400 60 
+F6 "Cout" O R 6850 3500 60 
+$EndSheet
+Wire Wire Line
+	6850 3050 7050 3050
+Wire Wire Line
+	7050 3050 7050 3250
+Wire Wire Line
+	7050 3250 6250 3250
+Wire Wire Line
+	6250 3250 6250 3400
+Wire Wire Line
+	6250 3400 6300 3400
+Wire Wire Line
+	6850 2950 8450 2950
+Wire Wire Line
+	8450 2950 8450 3450
+Wire Wire Line
+	8450 3450 8700 3450
+Wire Wire Line
+	6850 3400 8200 3400
+Wire Wire Line
+	8200 3400 8200 3550
+Wire Wire Line
+	8200 3550 8700 3550
+$Sheet
+S 6300 3900 550  450 
+U 5BAAD24A
+F0 "3_number adder" 50
+F1 "3_number_adder.sch" 50
+F2 "Cin" I L 6300 3950 50 
+F3 "a" I L 6300 4050 50 
+F4 "b" I L 6300 4150 50 
+F5 "c" I L 6300 4250 50 
+F6 "s" O R 6850 3950 50 
+F7 "Cout0" O R 6850 4050 50 
+F8 "Cout1" O R 6850 4150 50 
+$EndSheet
+$Sheet
+S 6300 4550 550  550 
+U 5BAAE2A8
+F0 "4_Number_adder" 50
+F1 "4_Number_Adder.sch" 50
+$EndSheet
+Text HLabel 9250 5550 2    50   Output ~ 0
+Overflow
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5BAAE2EE
+P 8650 5550
+F 0 "U?" H 8650 5916 50  0000 C CNN
+F 1 "74LS08" H 8650 5825 50  0000 C CNN
+F 2 "" H 8650 5550 50  0001 C CNN
+F 3 "" H 8650 5550 50  0001 C CNN
+	1    8650 5550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6850 4150 7950 4150
+Wire Wire Line
+	7950 4150 7950 5450
+Wire Wire Line
+	7950 5450 8050 5450
+Wire Wire Line
+	6850 3950 7800 3950
+Wire Wire Line
+	7800 3950 7800 3650
+Wire Wire Line
+	7800 3650 8700 3650
+Wire Wire Line
+	6850 3500 7250 3500
+Wire Wire Line
+	7250 3500 7250 3800
+Wire Wire Line
+	7250 3800 6200 3800
+Wire Wire Line
+	6200 3800 6200 3950
+Wire Wire Line
+	6200 3950 6300 3950
 $EndSCHEMATC

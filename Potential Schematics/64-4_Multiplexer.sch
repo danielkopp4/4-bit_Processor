@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 377 456
+Sheet 377 458
 Title "64:4 Multiplexer"
 Date "2018-09-14"
 Rev "1"
