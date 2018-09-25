@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 456
+Sheet 2 458
 Title "CPU"
 Date "2018-09-14"
 Rev "1"
