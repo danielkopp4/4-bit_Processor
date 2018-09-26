@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 458
+Sheet 2 467
 Title "CPU"
 Date "2018-09-14"
 Rev "1"
@@ -321,8 +321,8 @@ Wire Wire Line
 $Sheet
 S 2800 4600 1100 1150
 U 5BAA33A0
-F0 "Multiply_Devide_ALU" 50
-F1 "Mult_Devide.sch" 50
+F0 "Multiply_Divide_ALU" 50
+F1 "Mult_Divide.sch" 50
 $EndSheet
 $Comp
 L 4-bit_processor-rescue:74LS08 U1
@@ -339,4 +339,15 @@ Wire Wire Line
 	3350 650  7700 650 
 Wire Wire Line
 	3350 650  3350 700 
+$Sheet
+S 2800 6050 1100 400 
+U 5BB0D9CD
+F0 "Multiplicitive_Overflow" 60
+F1 "Integer_Overflow_Handler.sch" 60
+F2 "OP0" I L 2800 6100 60 
+F3 "OP1" I L 2800 6200 60 
+F4 "OP2" I L 2800 6300 60 
+F5 "OP3" I L 2800 6400 60 
+F6 "CoutALU" I R 3900 6100 60 
+$EndSheet
 $EndSCHEMATC
