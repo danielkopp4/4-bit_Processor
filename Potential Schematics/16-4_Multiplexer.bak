@@ -1,0 +1,321 @@
+EESchema Schematic File Version 4
+LIBS:4-bit_processor-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 468 902
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 1750 3000 0    50   Input ~ 0
+FLAU0
+Text HLabel 1750 3100 0    50   Input ~ 0
+FALU1
+Text HLabel 1750 3200 0    50   Input ~ 0
+FALU2
+Text HLabel 1750 3300 0    50   Input ~ 0
+FALU3
+Text HLabel 1750 3500 0    50   Input ~ 0
+MULTD0
+Text HLabel 1750 3600 0    50   Input ~ 0
+MULTD1
+Text HLabel 1750 3700 0    50   Input ~ 0
+MULTD2
+Text HLabel 1750 3800 0    50   Input ~ 0
+MULTD3
+Text HLabel 1750 4000 0    50   Input ~ 0
+WREG0
+Text HLabel 1750 4100 0    50   Input ~ 0
+WREG1
+Text HLabel 1750 4200 0    50   Input ~ 0
+WREG2
+Text HLabel 1750 4300 0    50   Input ~ 0
+WREG3
+Text HLabel 1750 4500 0    50   Input ~ 0
+LWD0
+Text HLabel 1750 4600 0    50   Input ~ 0
+LWD1
+Text HLabel 1750 4700 0    50   Input ~ 0
+LWD2
+Text HLabel 1750 4800 0    50   Input ~ 0
+LWD3
+Text HLabel 8700 3000 2    50   Output ~ 0
+Q0
+Text HLabel 8700 3100 2    50   Output ~ 0
+Q1
+Text HLabel 8700 3200 2    50   Output ~ 0
+Q2
+Text HLabel 8700 3300 2    50   Output ~ 0
+Q3
+Text HLabel 4800 1000 1    50   Input ~ 0
+S0
+Text HLabel 4700 1000 1    50   Input ~ 0
+S1
+Text HLabel 4600 1000 1    50   Input ~ 0
+S2
+Text HLabel 4500 1000 1    50   Input ~ 0
+S3
+$Sheet
+S 4950 3250 550  900 
+U 5BC250EC
+F0 "4-1_MUX" 50
+F1 "4-1_Mux.sch" 50
+F2 "FALU" I L 4950 3750 50 
+F3 "Out" O R 5500 3450 50 
+F4 "S2" I L 4950 3500 50 
+F5 "MULTD" I L 4950 3850 50 
+F6 "WREG" I L 4950 3950 50 
+F7 "S3" I L 4950 3600 50 
+F8 "SWD" I L 4950 4050 50 
+F9 "S0" I L 4950 3300 50 
+F10 "S1" I L 4950 3400 50 
+$EndSheet
+$Sheet
+S 4950 4350 550  900 
+U 5BC4F6FB
+F0 "sheet5BC4F6F0" 50
+F1 "4-1_Mux.sch" 50
+F2 "FALU" I L 4950 4850 50 
+F3 "Out" O R 5500 4550 50 
+F4 "S2" I L 4950 4600 50 
+F5 "MULTD" I L 4950 4950 50 
+F6 "WREG" I L 4950 5050 50 
+F7 "S3" I L 4950 4700 50 
+F8 "SWD" I L 4950 5150 50 
+F9 "S0" I L 4950 4400 50 
+F10 "S1" I L 4950 4500 50 
+$EndSheet
+$Sheet
+S 4950 1100 550  900 
+U 5BC4F71C
+F0 "sheet5BC4F710" 50
+F1 "4-1_Mux.sch" 50
+F2 "FALU" I L 4950 1600 50 
+F3 "Out" O R 5500 1300 50 
+F4 "S2" I L 4950 1350 50 
+F5 "MULTD" I L 4950 1700 50 
+F6 "WREG" I L 4950 1800 50 
+F7 "S3" I L 4950 1450 50 
+F8 "SWD" I L 4950 1900 50 
+F9 "S0" I L 4950 1150 50 
+F10 "S1" I L 4950 1250 50 
+$EndSheet
+$Sheet
+S 4950 2200 550  900 
+U 5BC4F727
+F0 "sheet5BC4F711" 50
+F1 "4-1_Mux.sch" 50
+F2 "FALU" I L 4950 2700 50 
+F3 "Out" O R 5500 2400 50 
+F4 "S2" I L 4950 2450 50 
+F5 "MULTD" I L 4950 2800 50 
+F6 "WREG" I L 4950 2900 50 
+F7 "S3" I L 4950 2550 50 
+F8 "SWD" I L 4950 3000 50 
+F9 "S0" I L 4950 2250 50 
+F10 "S1" I L 4950 2350 50 
+$EndSheet
+Wire Wire Line
+	1750 3000 3050 3000
+Wire Wire Line
+	3050 3000 3050 1600
+Wire Wire Line
+	3050 1600 4950 1600
+Wire Wire Line
+	1750 3100 3150 3100
+Wire Wire Line
+	3150 3100 3150 2700
+Wire Wire Line
+	3150 2700 4950 2700
+Wire Wire Line
+	3150 3200 3150 3750
+Wire Wire Line
+	3150 3750 4950 3750
+Wire Wire Line
+	1750 3200 3150 3200
+Wire Wire Line
+	1750 3300 3050 3300
+Wire Wire Line
+	3050 3300 3050 4850
+Wire Wire Line
+	3050 4850 4950 4850
+Wire Wire Line
+	1750 3500 3250 3500
+Wire Wire Line
+	3250 3500 3250 1700
+Wire Wire Line
+	3250 1700 4950 1700
+Wire Wire Line
+	1750 3600 3350 3600
+Wire Wire Line
+	3350 3600 3350 2800
+Wire Wire Line
+	3350 2800 4950 2800
+Wire Wire Line
+	1750 3700 3350 3700
+Wire Wire Line
+	3350 3700 3350 3850
+Wire Wire Line
+	3350 3850 4950 3850
+Wire Wire Line
+	1750 3800 3100 3800
+Wire Wire Line
+	3100 3800 3100 4950
+Wire Wire Line
+	3100 4950 4950 4950
+Wire Wire Line
+	1750 4000 3450 4000
+Wire Wire Line
+	3450 4000 3450 1800
+Wire Wire Line
+	3450 1800 4950 1800
+Wire Wire Line
+	1750 4100 3550 4100
+Wire Wire Line
+	3550 4100 3550 2900
+Wire Wire Line
+	3550 2900 4950 2900
+Wire Wire Line
+	1750 4200 3650 4200
+Wire Wire Line
+	3650 4200 3650 3950
+Wire Wire Line
+	3650 3950 4950 3950
+Wire Wire Line
+	1750 4300 3650 4300
+Wire Wire Line
+	3650 4300 3650 5050
+Wire Wire Line
+	3650 5050 4950 5050
+Wire Wire Line
+	1750 4500 3750 4500
+Wire Wire Line
+	3750 4500 3750 1900
+Wire Wire Line
+	3750 1900 4950 1900
+Wire Wire Line
+	1750 4600 3850 4600
+Wire Wire Line
+	3850 4600 3850 3000
+Wire Wire Line
+	3850 3000 4950 3000
+Wire Wire Line
+	1750 4700 4000 4700
+Wire Wire Line
+	4000 4700 4000 4050
+Wire Wire Line
+	4000 4050 4950 4050
+Wire Wire Line
+	1750 4800 4000 4800
+Wire Wire Line
+	4000 4800 4000 5150
+Wire Wire Line
+	4000 5150 4950 5150
+Wire Wire Line
+	4800 1000 4800 1150
+Wire Wire Line
+	4800 1150 4950 1150
+Wire Wire Line
+	4800 1150 4800 2250
+Wire Wire Line
+	4800 2250 4950 2250
+Connection ~ 4800 1150
+Wire Wire Line
+	4800 2250 4800 3300
+Wire Wire Line
+	4800 3300 4950 3300
+Connection ~ 4800 2250
+Wire Wire Line
+	4800 3300 4800 4400
+Wire Wire Line
+	4800 4400 4950 4400
+Connection ~ 4800 3300
+Wire Wire Line
+	4950 4500 4700 4500
+Wire Wire Line
+	4600 1000 4600 1350
+Wire Wire Line
+	4600 1350 4950 1350
+Wire Wire Line
+	4700 1000 4700 1250
+Connection ~ 4700 1250
+Wire Wire Line
+	4700 1250 4700 2350
+Wire Wire Line
+	4950 2350 4700 2350
+Connection ~ 4700 2350
+Wire Wire Line
+	4700 2350 4700 3400
+Wire Wire Line
+	4950 3400 4700 3400
+Connection ~ 4700 3400
+Wire Wire Line
+	4700 3400 4700 4500
+Wire Wire Line
+	4950 4600 4600 4600
+Wire Wire Line
+	4600 4600 4600 3500
+Connection ~ 4600 1350
+Wire Wire Line
+	4700 1250 4950 1250
+Wire Wire Line
+	4600 2450 4950 2450
+Connection ~ 4600 2450
+Wire Wire Line
+	4600 2450 4600 1350
+Wire Wire Line
+	4950 3500 4600 3500
+Connection ~ 4600 3500
+Wire Wire Line
+	4600 3500 4600 2450
+Wire Wire Line
+	4950 4700 4500 4700
+Wire Wire Line
+	4500 4700 4500 3600
+Wire Wire Line
+	4950 1450 4500 1450
+Connection ~ 4500 1450
+Wire Wire Line
+	4500 1450 4500 1000
+Wire Wire Line
+	4950 2550 4500 2550
+Connection ~ 4500 2550
+Wire Wire Line
+	4500 2550 4500 1450
+Wire Wire Line
+	4950 3600 4500 3600
+Connection ~ 4500 3600
+Wire Wire Line
+	4500 3600 4500 2550
+Wire Wire Line
+	5500 1300 7200 1300
+Wire Wire Line
+	7200 1300 7200 3000
+Wire Wire Line
+	7200 3000 8700 3000
+Wire Wire Line
+	8700 3100 7100 3100
+Wire Wire Line
+	7100 3100 7100 2400
+Wire Wire Line
+	7100 2400 5500 2400
+Wire Wire Line
+	5500 3450 7100 3450
+Wire Wire Line
+	7100 3450 7100 3200
+Wire Wire Line
+	7100 3200 8700 3200
+Wire Wire Line
+	8700 3300 7200 3300
+Wire Wire Line
+	7200 3300 7200 4550
+Wire Wire Line
+	7200 4550 5500 4550
+$EndSCHEMATC

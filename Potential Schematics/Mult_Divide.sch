@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 450 467
+Sheet 450 902
 Title ""
 Date ""
 Rev ""
@@ -158,18 +158,20 @@ Wire Wire Line
 Wire Wire Line
 	1800 1050 4200 1050
 $Comp
-L 4-bit_processor-rescue:74LS32 U?
-U 1 1 5BB645F8
+L 4-bit_processor-rescue:74LS32 U281
+U 3 1 5BB645F8
 P 7900 5550
-F 0 "U?" H 7900 5916 50  0000 C CNN
+F 0 "U281" H 7900 5916 50  0000 C CNN
 F 1 "74LS32" H 7900 5825 50  0000 C CNN
 F 2 "" H 7900 5550 50  0001 C CNN
 F 3 "" H 7900 5550 50  0001 C CNN
-	1    7900 5550
+	3    7900 5550
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	7300 5450 6600 5450
 Wire Wire Line
 	6600 5450 6600 1350
+Wire Wire Line
+	8500 5550 9250 5550
 $EndSCHEMATC

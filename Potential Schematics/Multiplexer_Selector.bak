@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 451 467
+Sheet 451 902
 Title ""
 Date ""
 Rev ""
@@ -111,14 +111,14 @@ F12 "Q2" O R 2950 1500 50
 F13 "Q3" O R 2950 1600 50 
 $EndSheet
 $Comp
-L 4-bit_processor-rescue:74LS04 U?
-U 1 1 5BB34644
+L 4-bit_processor-rescue:74LS04 U269
+U 2 1 5BB34644
 P 2800 6950
-F 0 "U?" V 2846 6772 50  0000 R CNN
+F 0 "U269" V 2846 6772 50  0000 R CNN
 F 1 "74LS04" V 2755 6772 50  0000 R CNN
 F 2 "" H 2800 6950 50  0001 C CNN
 F 3 "" H 2800 6950 50  0001 C CNN
-	1    2800 6950
+	2    2800 6950
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
@@ -180,25 +180,25 @@ Wire Wire Line
 Wire Wire Line
 	1850 7400 2350 7400
 $Comp
-L 4-bit_processor-rescue:74LS04 U?
-U 1 1 5BB37254
+L 4-bit_processor-rescue:74LS04 U269
+U 3 1 5BB37254
 P 3600 7450
-F 0 "U?" H 3600 7765 50  0000 C CNN
+F 0 "U269" H 3600 7765 50  0000 C CNN
 F 1 "74LS04" H 3600 7674 50  0000 C CNN
 F 2 "" H 3600 7450 50  0001 C CNN
 F 3 "" H 3600 7450 50  0001 C CNN
-	1    3600 7450
+	3    3600 7450
 	1    0    0    -1  
 $EndComp
 $Comp
-L 4-bit_processor-rescue:74LS04 U?
-U 1 1 5BB37D71
+L 4-bit_processor-rescue:74LS04 U269
+U 4 1 5BB37D71
 P 4550 7650
-F 0 "U?" H 4550 7965 50  0000 C CNN
+F 0 "U269" H 4550 7965 50  0000 C CNN
 F 1 "74LS04" H 4550 7874 50  0000 C CNN
 F 2 "" H 4550 7650 50  0001 C CNN
 F 3 "" H 4550 7650 50  0001 C CNN
-	1    4550 7650
+	4    4550 7650
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -234,25 +234,25 @@ Wire Wire Line
 Wire Wire Line
 	5000 1900 5000 7650
 $Comp
-L 4-bit_processor-rescue:74LS32 U?
-U 1 1 5BB3E441
+L 4-bit_processor-rescue:74LS32 U281
+U 4 1 5BB3E441
 P 6850 2000
-F 0 "U?" H 6850 2100 50  0000 C CNN
+F 0 "U281" H 6850 2100 50  0000 C CNN
 F 1 "74LS32" H 6850 1950 50  0000 C CNN
 F 2 "" H 6850 2000 50  0001 C CNN
 F 3 "" H 6850 2000 50  0001 C CNN
-	1    6850 2000
+	4    6850 2000
 	1    0    0    -1  
 $EndComp
 $Comp
-L 4-bit_processor-rescue:74LS32 U?
-U 1 1 5BB44214
+L 4-bit_processor-rescue:74LS32 U290
+U 4 1 5BB44214
 P 8050 2100
-F 0 "U?" H 8050 2200 50  0000 C CNN
+F 0 "U290" H 8050 2200 50  0000 C CNN
 F 1 "74LS32" H 8050 2050 50  0000 C CNN
 F 2 "" H 8050 2100 50  0001 C CNN
 F 3 "" H 8050 2100 50  0001 C CNN
-	1    8050 2100
+	4    8050 2100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -260,10 +260,10 @@ Wire Wire Line
 Wire Wire Line
 	7100 2200 7100 2250
 $Comp
-L 4-bit_processor-rescue:74LS32 U?
+L 4-bit_processor-rescue:74LS32 U290
 U 1 1 5BB45336
 P 6850 2550
-F 0 "U?" H 6850 2650 50  0000 C CNN
+F 0 "U290" H 6850 2650 50  0000 C CNN
 F 1 "74LS32" H 6850 2500 50  0000 C CNN
 F 2 "" H 6850 2550 50  0001 C CNN
 F 3 "" H 6850 2550 50  0001 C CNN
@@ -271,10 +271,10 @@ F 3 "" H 6850 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 4-bit_processor-rescue:74LS32 U?
+L 4-bit_processor-rescue:74LS32 U291
 U 1 1 5BB4533D
 P 8050 2650
-F 0 "U?" H 8050 2750 50  0000 C CNN
+F 0 "U291" H 8050 2750 50  0000 C CNN
 F 1 "74LS32" H 8050 2600 50  0000 C CNN
 F 2 "" H 8050 2650 50  0001 C CNN
 F 3 "" H 8050 2650 50  0001 C CNN
@@ -286,25 +286,25 @@ Wire Wire Line
 Wire Wire Line
 	7100 2750 7100 2800
 $Comp
-L 4-bit_processor-rescue:74LS32 U?
-U 1 1 5BB45D4A
+L 4-bit_processor-rescue:74LS32 U290
+U 2 1 5BB45D4A
 P 6850 3100
-F 0 "U?" H 6850 3200 50  0000 C CNN
+F 0 "U290" H 6850 3200 50  0000 C CNN
 F 1 "74LS32" H 6850 3050 50  0000 C CNN
 F 2 "" H 6850 3100 50  0001 C CNN
 F 3 "" H 6850 3100 50  0001 C CNN
-	1    6850 3100
+	2    6850 3100
 	1    0    0    -1  
 $EndComp
 $Comp
-L 4-bit_processor-rescue:74LS32 U?
-U 1 1 5BB45D51
+L 4-bit_processor-rescue:74LS32 U291
+U 2 1 5BB45D51
 P 8050 3200
-F 0 "U?" H 8050 3300 50  0000 C CNN
+F 0 "U291" H 8050 3300 50  0000 C CNN
 F 1 "74LS32" H 8050 3150 50  0000 C CNN
 F 2 "" H 8050 3200 50  0001 C CNN
 F 3 "" H 8050 3200 50  0001 C CNN
-	1    8050 3200
+	2    8050 3200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -312,25 +312,25 @@ Wire Wire Line
 Wire Wire Line
 	7100 3300 7100 3350
 $Comp
-L 4-bit_processor-rescue:74LS32 U?
-U 1 1 5BB46801
+L 4-bit_processor-rescue:74LS32 U290
+U 3 1 5BB46801
 P 6850 3700
-F 0 "U?" H 6850 3800 50  0000 C CNN
+F 0 "U290" H 6850 3800 50  0000 C CNN
 F 1 "74LS32" H 6850 3650 50  0000 C CNN
 F 2 "" H 6850 3700 50  0001 C CNN
 F 3 "" H 6850 3700 50  0001 C CNN
-	1    6850 3700
+	3    6850 3700
 	1    0    0    -1  
 $EndComp
 $Comp
-L 4-bit_processor-rescue:74LS32 U?
-U 1 1 5BB46808
+L 4-bit_processor-rescue:74LS32 U291
+U 3 1 5BB46808
 P 8050 3800
-F 0 "U?" H 8050 3900 50  0000 C CNN
+F 0 "U291" H 8050 3900 50  0000 C CNN
 F 1 "74LS32" H 8050 3750 50  0000 C CNN
 F 2 "" H 8050 3800 50  0001 C CNN
 F 3 "" H 8050 3800 50  0001 C CNN
-	1    8050 3800
+	3    8050 3800
 	1    0    0    -1  
 $EndComp
 Wire Wire Line

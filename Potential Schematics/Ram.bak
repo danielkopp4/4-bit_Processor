@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 23 902
+Sheet 475 902
 Title "Registers / Cache"
 Date "2018-09-14"
 Rev "1"
@@ -15,21 +15,13 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text HLabel 9950 2450 2    60   Input ~ 0
-RAddr00
+RAddr0
 Text HLabel 9950 2350 2    60   Input ~ 0
-RAddr01
+RAddr1
 Text HLabel 9950 2250 2    60   Input ~ 0
-RAddr02
+RAddr2
 Text HLabel 9950 2150 2    60   Input ~ 0
-RAddr03
-Text HLabel 10300 1050 2    60   Input ~ 0
-RAddr10
-Text HLabel 10300 950  2    60   Input ~ 0
-RAddr11
-Text HLabel 10300 850  2    60   Input ~ 0
-RAddr12
-Text HLabel 10300 750  2    60   Input ~ 0
-RAddr13
+RAddr3
 Text HLabel 2750 7400 3    60   Input ~ 0
 Clock
 Text HLabel 1050 4700 3    60   Input ~ 0
@@ -49,21 +41,13 @@ WAddr2
 Text HLabel 4550 7300 3    60   Input ~ 0
 WAddr3
 Text HLabel 5550 1100 1    60   Output ~ 0
-Q00
+Q0
 Text HLabel 5650 1100 1    60   Output ~ 0
-Q01
+Q1
 Text HLabel 5750 1100 1    60   Output ~ 0
-Q02
+Q2
 Text HLabel 5850 1100 1    60   Output ~ 0
-Q03
-Text HLabel 10200 1050 0    60   Output ~ 0
-Q10
-Text HLabel 10200 950  0    60   Output ~ 0
-Q11
-Text HLabel 10200 850  0    60   Output ~ 0
-Q12
-Text HLabel 10200 750  0    60   Output ~ 0
-Q13
+Q3
 $Sheet
 S 1700 3350 500  900 
 U 5B9C0F16
@@ -80,7 +64,7 @@ F9 "D3" I B 2050 4250 60
 F10 "C" I B 2150 4250 60 
 $EndSheet
 Text HLabel 2000 7400 3    60   Input ~ 0
-Off
+On
 $Comp
 L 4-bit_processor-rescue:74LS09 U30
 U 4 1 5B9C957B
@@ -90,17 +74,6 @@ F 1 "74LS09" H 3350 7250 50  0000 C CNN
 F 2 "Daniel_Kopp:DIP-14_300_ELL" H 3350 7300 50  0001 C CNN
 F 3 "" H 3350 7300 50  0001 C CNN
 	4    3350 7300
-	1    0    0    -1  
-$EndComp
-$Comp
-L 4-bit_processor-rescue:74LS04 U25
-U 5 1 5B9CA481
-P 2450 6900
-F 0 "U25" H 2645 7015 50  0000 C CNN
-F 1 "74LS04" H 2640 6775 50  0000 C CNN
-F 2 "Daniel_Kopp:DIP-14_300_ELL" H 2450 6900 50  0001 C CNN
-F 3 "" H 2450 6900 50  0001 C CNN
-	5    2450 6900
 	1    0    0    -1  
 $EndComp
 $Sheet
@@ -609,13 +582,7 @@ F72 "S1" I B 9350 1650 60
 F73 "S0" I B 9450 1650 60 
 $EndSheet
 Wire Wire Line
-	2000 7400 2000 6900
-Wire Wire Line
-	2900 6900 2900 7100
-Wire Wire Line
-	2900 7100 2750 7100
-Wire Wire Line
-	2750 7100 2750 7200
+	2000 7400 2000 7200
 Wire Wire Line
 	3950 7300 3950 7050
 Wire Wire Line
@@ -675,14 +642,6 @@ Connection ~ 8750 5950
 Wire Wire Line
 	9250 5900 9250 5950
 Connection ~ 9250 5950
-Wire Wire Line
-	4250 7000 4250 7300
-Wire Wire Line
-	4350 7000 4350 7300
-Wire Wire Line
-	4450 7000 4450 7300
-Wire Wire Line
-	4550 7000 4550 7300
 Wire Wire Line
 	2050 5900 2050 6400
 Wire Wire Line
@@ -1411,24 +1370,6 @@ Wire Wire Line
 	6800 3250 6700 3250
 Wire Wire Line
 	6700 3250 6700 1650
-NoConn ~ 10200 750 
-NoConn ~ 10200 850 
-NoConn ~ 10200 950 
-NoConn ~ 10200 1050
-NoConn ~ 10300 750 
-NoConn ~ 10300 850 
-NoConn ~ 10300 950 
-NoConn ~ 10300 1050
-Text Notes 10850 1600 2    60   ~ 0
-This would connect\nto a similar device\nas Raddr0 and Q0 \nbut there is not \nenough space\n
-Wire Notes Line
-	9850 650  10900 650 
-Wire Notes Line
-	10900 650  10900 1650
-Wire Notes Line
-	10900 1650 9850 1650
-Wire Notes Line
-	9850 1650 9850 650 
 Text Notes 2050 3850 2    60   ~ 0
 Reg 0\n
 Text Notes 2600 3850 2    60   ~ 0
@@ -1615,4 +1556,14 @@ Wire Wire Line
 	8550 4450 9050 4450
 Wire Wire Line
 	9050 4450 9550 4450
+Wire Wire Line
+	4550 7000 4550 7300
+Wire Wire Line
+	4450 7000 4450 7300
+Wire Wire Line
+	4350 7000 4350 7300
+Wire Wire Line
+	4250 7000 4250 7300
+Wire Wire Line
+	2000 7200 2750 7200
 $EndSCHEMATC

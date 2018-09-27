@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 360 467
+Sheet 360 902
 Title "4:16 Decoder"
 Date "2018-09-14"
 Rev "1"

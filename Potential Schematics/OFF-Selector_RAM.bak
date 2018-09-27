@@ -1,0 +1,72 @@
+EESchema Schematic File Version 4
+LIBS:4-bit_processor-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 475 902
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 2000 2600 0    50   Input ~ 0
+s0
+Text HLabel 2000 2800 0    50   Input ~ 0
+s1
+Text HLabel 2000 3300 0    50   Input ~ 0
+s2
+Text HLabel 2000 3500 0    50   Input ~ 0
+s3
+Text HLabel 7250 3150 2    50   Output ~ 0
+Q
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5BCCB7BE
+P 3000 1350
+F 0 "U?" H 3000 1716 50  0000 C CNN
+F 1 "74LS08" H 3000 1625 50  0000 C CNN
+F 2 "" H 3000 1350 50  0001 C CNN
+F 3 "" H 3000 1350 50  0001 C CNN
+	1    3000 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5BCCB8DB
+P 3000 2050
+F 0 "U?" H 3000 2416 50  0000 C CNN
+F 1 "74LS08" H 3000 2325 50  0000 C CNN
+F 2 "" H 3000 2050 50  0001 C CNN
+F 3 "" H 3000 2050 50  0001 C CNN
+	1    3000 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5BCCB933
+P 4400 1700
+F 0 "U?" H 4400 2066 50  0000 C CNN
+F 1 "74LS08" H 4400 1975 50  0000 C CNN
+F 2 "" H 4400 1700 50  0001 C CNN
+F 3 "" H 4400 1700 50  0001 C CNN
+	1    4400 1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 1350 3700 1350
+Wire Wire Line
+	3700 1350 3700 1600
+Wire Wire Line
+	3700 1600 3800 1600
+Wire Wire Line
+	3600 2050 3700 2050
+Wire Wire Line
+	3700 2050 3700 1800
+Wire Wire Line
+	3700 1800 3800 1800
+$EndSCHEMATC

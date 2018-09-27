@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 10 467
+Sheet 19 902
 Title "2:4_Multiplexer"
 Date "2018-09-14"
 Rev "1"
@@ -64,7 +64,7 @@ Wire Wire Line
 Wire Wire Line
 	3000 4250 4450 4250
 Wire Wire Line
-	4250 2900 4250 4400
+	4250 2900 4250 3200
 Wire Wire Line
 	4250 3200 4450 3200
 Wire Wire Line
@@ -79,18 +79,18 @@ Wire Wire Line
 Wire Wire Line
 	3300 1900 3300 2000
 Wire Wire Line
-	3300 2900 3300 3950
+	3300 2900 3300 3350
 Wire Wire Line
 	3300 3350 4450 3350
 Wire Wire Line
 	3300 3950 4450 3950
 Connection ~ 3300 3350
 Wire Wire Line
-	3550 1900 3550 5250
+	3550 1900 3550 4550
 Wire Wire Line
 	3550 4550 4450 4550
 Wire Wire Line
-	4000 1900 4000 5100
+	4000 1900 4000 3800
 Wire Wire Line
 	4000 3800 4450 3800
 Text HLabel 4000 1900 1    60   Input ~ 0
@@ -285,4 +285,12 @@ Wire Wire Line
 	7400 3500 7300 3500
 Wire Wire Line
 	8600 4100 9500 4100
+Wire Wire Line
+	4250 3200 4250 4400
+Wire Wire Line
+	3300 3350 3300 3950
+Wire Wire Line
+	3550 4550 3550 5250
+Wire Wire Line
+	4000 3800 4000 5100
 $EndSCHEMATC

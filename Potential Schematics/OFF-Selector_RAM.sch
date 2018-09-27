@@ -1,0 +1,242 @@
+EESchema Schematic File Version 4
+LIBS:4-bit_processor-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 475 902
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 2000 2600 0    50   Input ~ 0
+s0
+Text HLabel 2000 2800 0    50   Input ~ 0
+s1
+Text HLabel 2000 3300 0    50   Input ~ 0
+s2
+Text HLabel 2000 3500 0    50   Input ~ 0
+s3
+Text HLabel 10650 3100 2    50   Output ~ 0
+Q
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5BCCB7BE
+P 4400 1400
+F 0 "U?" H 4400 1766 50  0000 C CNN
+F 1 "74LS08" H 4400 1675 50  0000 C CNN
+F 2 "" H 4400 1400 50  0001 C CNN
+F 3 "" H 4400 1400 50  0001 C CNN
+	1    4400 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5BCCB8DB
+P 4400 2100
+F 0 "U?" H 4400 2466 50  0000 C CNN
+F 1 "74LS08" H 4400 2375 50  0000 C CNN
+F 2 "" H 4400 2100 50  0001 C CNN
+F 3 "" H 4400 2100 50  0001 C CNN
+	1    4400 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5BCCB933
+P 5800 1750
+F 0 "U?" H 5800 2116 50  0000 C CNN
+F 1 "74LS08" H 5800 2025 50  0000 C CNN
+F 2 "" H 5800 1750 50  0001 C CNN
+F 3 "" H 5800 1750 50  0001 C CNN
+	1    5800 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 1400 5100 1400
+Wire Wire Line
+	5100 1400 5100 1650
+Wire Wire Line
+	5100 1650 5200 1650
+Wire Wire Line
+	5000 2100 5100 2100
+Wire Wire Line
+	5100 2100 5100 1850
+Wire Wire Line
+	5100 1850 5200 1850
+$Comp
+L 4-bit_processor-rescue:74LS32 U?
+U 1 1 5C06587A
+P 10050 3100
+F 0 "U?" H 10050 3466 50  0000 C CNN
+F 1 "74LS32" H 10050 3375 50  0000 C CNN
+F 2 "" H 10050 3100 50  0001 C CNN
+F 3 "" H 10050 3100 50  0001 C CNN
+	1    10050 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 2600 2000 1300
+Wire Wire Line
+	2100 2800 2100 1500
+Wire Wire Line
+	2000 3300 2200 3300
+Wire Wire Line
+	2200 3300 2200 2000
+Wire Wire Line
+	2000 3500 2300 3500
+Wire Wire Line
+	2300 3500 2300 2200
+Wire Wire Line
+	2000 2800 2100 2800
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5C065EF7
+P 4350 2750
+F 0 "U?" H 4350 3116 50  0000 C CNN
+F 1 "74LS08" H 4350 3025 50  0000 C CNN
+F 2 "" H 4350 2750 50  0001 C CNN
+F 3 "" H 4350 2750 50  0001 C CNN
+	1    4350 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5C065EFE
+P 4350 3450
+F 0 "U?" H 4350 3816 50  0000 C CNN
+F 1 "74LS08" H 4350 3725 50  0000 C CNN
+F 2 "" H 4350 3450 50  0001 C CNN
+F 3 "" H 4350 3450 50  0001 C CNN
+	1    4350 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5C065F05
+P 5750 3100
+F 0 "U?" H 5750 3466 50  0000 C CNN
+F 1 "74LS08" H 5750 3375 50  0000 C CNN
+F 2 "" H 5750 3100 50  0001 C CNN
+F 3 "" H 5750 3100 50  0001 C CNN
+	1    5750 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 2750 5050 2750
+Wire Wire Line
+	5050 2750 5050 3000
+Wire Wire Line
+	5050 3000 5150 3000
+Wire Wire Line
+	4950 3450 5050 3450
+Wire Wire Line
+	5050 3450 5050 3200
+Wire Wire Line
+	5050 3200 5150 3200
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5C066266
+P 4300 4150
+F 0 "U?" H 4300 4516 50  0000 C CNN
+F 1 "74LS08" H 4300 4425 50  0000 C CNN
+F 2 "" H 4300 4150 50  0001 C CNN
+F 3 "" H 4300 4150 50  0001 C CNN
+	1    4300 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5C06626D
+P 4300 4850
+F 0 "U?" H 4300 5216 50  0000 C CNN
+F 1 "74LS08" H 4300 5125 50  0000 C CNN
+F 2 "" H 4300 4850 50  0001 C CNN
+F 3 "" H 4300 4850 50  0001 C CNN
+	1    4300 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5C066274
+P 5700 4500
+F 0 "U?" H 5700 4866 50  0000 C CNN
+F 1 "74LS08" H 5700 4775 50  0000 C CNN
+F 2 "" H 5700 4500 50  0001 C CNN
+F 3 "" H 5700 4500 50  0001 C CNN
+	1    5700 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 4150 5000 4400
+Wire Wire Line
+	5000 4400 5100 4400
+Wire Wire Line
+	4900 4850 5000 4850
+Wire Wire Line
+	5000 4850 5000 4600
+Wire Wire Line
+	5000 4600 5100 4600
+$Comp
+L 4-bit_processor-rescue:74LS32 U?
+U 1 1 5C066C3F
+P 8850 3200
+F 0 "U?" H 8850 3566 50  0000 C CNN
+F 1 "74LS32" H 8850 3475 50  0000 C CNN
+F 2 "" H 8850 3200 50  0001 C CNN
+F 3 "" H 8850 3200 50  0001 C CNN
+	1    8850 3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 4500 8150 4500
+Wire Wire Line
+	8150 4500 8150 3300
+Wire Wire Line
+	8150 3300 8250 3300
+Wire Wire Line
+	6350 3100 8250 3100
+Wire Wire Line
+	6400 1750 9350 1750
+Wire Wire Line
+	9350 1750 9350 3000
+Wire Wire Line
+	9350 3000 9450 3000
+Wire Wire Line
+	5000 4150 4900 4150
+Wire Wire Line
+	3800 1300 2000 1300
+Wire Wire Line
+	3800 1500 2100 1500
+Wire Wire Line
+	2200 2000 3800 2000
+Wire Wire Line
+	3800 2200 2300 2200
+Wire Wire Line
+	2300 3500 2300 4950
+Wire Wire Line
+	2300 4950 3700 4950
+Connection ~ 2300 3500
+Wire Wire Line
+	2350 3550 3750 3550
+Wire Wire Line
+	2350 3550 2350 3500
+Wire Wire Line
+	2350 3500 2300 3500
+Wire Wire Line
+	2100 2800 3550 2800
+Wire Wire Line
+	3550 2800 3550 2850
+Wire Wire Line
+	3550 2850 3750 2850
+Connection ~ 2100 2800
+Wire Wire Line
+	2100 2800 2100 4050
+Wire Wire Line
+	2100 4050 3700 4050
+$EndSCHEMATC
