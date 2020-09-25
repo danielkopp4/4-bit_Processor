@@ -1,0 +1,442 @@
+EESchema Schematic File Version 4
+LIBS:4-bit_processor-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 452 903
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 2300 950  0    50   Input ~ 0
+a0
+Text HLabel 2300 1050 0    50   Input ~ 0
+a1
+Text HLabel 2300 1150 0    50   Input ~ 0
+a2
+Text HLabel 2300 1250 0    50   Input ~ 0
+a3
+Text HLabel 2100 7000 0    50   Input ~ 0
+b0
+Text HLabel 2100 7200 0    50   Input ~ 0
+b2
+Text HLabel 2100 7100 0    50   Input ~ 0
+b1
+Text HLabel 2100 7300 0    50   Input ~ 0
+b3
+Wire Wire Line
+	7150 3150 8750 3150
+Wire Wire Line
+	8750 3150 8750 3650
+Wire Wire Line
+	8750 3650 9000 3650
+Wire Wire Line
+	7150 3600 8500 3600
+Wire Wire Line
+	8500 3600 8500 3750
+Wire Wire Line
+	8500 3750 9000 3750
+$Sheet
+S 6600 4100 550  450 
+U 5BAFDE3D
+F0 "sheet5BAFDE24" 50
+F1 "3_number_adder.sch" 50
+F2 "Cin" I L 6600 4150 50 
+F3 "a" I L 6600 4250 50 
+F4 "b" I L 6600 4350 50 
+F5 "c" I L 6600 4450 50 
+F6 "s" O R 7150 4150 50 
+F7 "Cout0" O R 7150 4250 50 
+F8 "Cout1" O R 7150 4350 50 
+$EndSheet
+$Sheet
+S 6600 4750 550  550 
+U 5BAFDE46
+F0 "sheet5BAFDE25" 50
+F1 "4_Number_Adder.sch" 50
+F2 "Cin" I L 6600 4800 50 
+F3 "a" I L 6600 4900 50 
+F4 "b" I L 6600 5000 50 
+F5 "c" I L 6600 5100 50 
+F6 "d" I L 6600 5200 50 
+F7 "s" O R 7150 4850 50 
+F8 "Cout" O R 7150 4950 50 
+$EndSheet
+Wire Wire Line
+	7150 4350 8250 4350
+Wire Wire Line
+	8250 5650 8350 5650
+Wire Wire Line
+	7150 4150 8100 4150
+Wire Wire Line
+	8100 4150 8100 3850
+Wire Wire Line
+	8100 3850 9000 3850
+Wire Wire Line
+	7150 3700 7550 3700
+Wire Wire Line
+	7550 3700 7550 4000
+Wire Wire Line
+	7550 4000 6500 4000
+Wire Wire Line
+	6500 4000 6500 4150
+Wire Wire Line
+	6500 4150 6600 4150
+$Comp
+L 4-bit_processor-rescue:74LS32 U?
+U 4 1 5BAFDE57
+P 8950 5750
+AR Path="/5B9D167A/5BAA33A0/5BAFDE57" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDE57" Ref="U291"  Part="4" 
+F 0 "U291" H 8950 6116 50  0000 C CNN
+F 1 "74LS32" H 8950 6025 50  0000 C CNN
+F 2 "" H 8950 5750 50  0001 C CNN
+F 3 "" H 8950 5750 50  0001 C CNN
+	4    8950 5750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 4800 6450 4800
+Wire Wire Line
+	6450 4800 6450 4650
+Wire Wire Line
+	6450 4650 7450 4650
+Wire Wire Line
+	7450 4650 7450 4250
+Wire Wire Line
+	7450 4250 7150 4250
+Wire Wire Line
+	7150 4850 8150 4850
+Wire Wire Line
+	8150 4850 8150 3950
+Wire Wire Line
+	8150 3950 9000 3950
+$Sheet
+S 6600 3550 550  250 
+U 5BAFDE66
+F0 "sheet5BAFDE26" 50
+F1 "Half_Adder.sch" 50
+F2 "a" I L 6600 3600 50 
+F3 "b" I L 6600 3700 50 
+F4 "s" O R 7150 3600 50 
+F5 "Cout" O R 7150 3700 50 
+$EndSheet
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5BAFDE6C
+P 6550 3150
+AR Path="/5B9D167A/5BAA33A0/5BAFDE6C" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDE6C" Ref="U299"  Part="1" 
+F 0 "U299" H 6550 3516 50  0000 C CNN
+F 1 "74LS08" H 6550 3425 50  0000 C CNN
+F 2 "" H 6550 3150 50  0001 C CNN
+F 3 "" H 6550 3150 50  0001 C CNN
+	1    6550 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 7000 2250 7000
+Wire Wire Line
+	2250 3250 5600 3250
+Wire Wire Line
+	2250 3250 2250 7000
+Wire Wire Line
+	2300 950  2350 950 
+Wire Wire Line
+	5850 3050 5950 3050
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 4 1 5BAFDE79
+P 5000 2700
+AR Path="/5B9D167A/5BAA33A0/5BAFDE79" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDE79" Ref="U298"  Part="4" 
+F 0 "U298" V 4950 2600 50  0000 L CNN
+F 1 "74LS08" V 5050 2550 50  0000 L CNN
+F 2 "" H 5000 2700 50  0001 C CNN
+F 3 "" H 5000 2700 50  0001 C CNN
+	4    5000 2700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7150 4950 8050 4950
+Wire Wire Line
+	8050 4950 8050 5850
+Wire Wire Line
+	8050 5850 8350 5850
+Wire Wire Line
+	2300 1050 2400 1050
+Wire Wire Line
+	5100 1050 5100 2100
+Wire Wire Line
+	5600 3250 5600 1950
+Wire Wire Line
+	5600 1950 4900 1950
+Wire Wire Line
+	4900 1950 4900 2100
+Connection ~ 5600 3250
+Wire Wire Line
+	5600 3250 5950 3250
+Wire Wire Line
+	5000 3300 5000 3600
+Wire Wire Line
+	5000 3600 6600 3600
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 3 1 5BAFDE8C
+P 4600 2700
+AR Path="/5B9D167A/5BAA33A0/5BAFDE8C" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDE8C" Ref="U298"  Part="3" 
+F 0 "U298" V 4550 2600 50  0000 L CNN
+F 1 "74LS08" V 4650 2550 50  0000 L CNN
+F 2 "" H 4600 2700 50  0001 C CNN
+F 3 "" H 4600 2700 50  0001 C CNN
+	3    4600 2700
+	0    1    1    0   
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 2 1 5BAFDE93
+P 4200 2700
+AR Path="/5B9D167A/5BAA33A0/5BAFDE93" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDE93" Ref="U298"  Part="2" 
+F 0 "U298" V 4150 2600 50  0000 L CNN
+F 1 "74LS08" V 4250 2550 50  0000 L CNN
+F 2 "" H 4200 2700 50  0001 C CNN
+F 3 "" H 4200 2700 50  0001 C CNN
+	2    4200 2700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4900 1950 4500 1950
+Wire Wire Line
+	4500 1950 4500 2100
+Connection ~ 4900 1950
+Wire Wire Line
+	4500 1950 4100 1950
+Wire Wire Line
+	4100 1950 4100 2100
+Connection ~ 4500 1950
+Wire Wire Line
+	4600 3300 4600 4250
+Wire Wire Line
+	4600 4250 6600 4250
+Wire Wire Line
+	4200 3300 4200 4900
+Wire Wire Line
+	4200 4900 6600 4900
+Wire Wire Line
+	4700 1150 4700 2100
+Wire Wire Line
+	2300 1150 3000 1150
+Wire Wire Line
+	2300 1250 4300 1250
+Wire Wire Line
+	4300 1250 4300 2100
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5BAFDEA8
+P 3700 2700
+AR Path="/5B9D167A/5BAA33A0/5BAFDEA8" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDEA8" Ref="U298"  Part="1" 
+F 0 "U298" V 3650 2600 50  0000 L CNN
+F 1 "74LS08" V 3750 2550 50  0000 L CNN
+F 2 "" H 3700 2700 50  0001 C CNN
+F 3 "" H 3700 2700 50  0001 C CNN
+	1    3700 2700
+	0    1    1    0   
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 4 1 5BAFDEAF
+P 3300 2700
+AR Path="/5B9D167A/5BAA33A0/5BAFDEAF" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDEAF" Ref="U297"  Part="4" 
+F 0 "U297" V 3250 2600 50  0000 L CNN
+F 1 "74LS08" V 3350 2550 50  0000 L CNN
+F 2 "" H 3300 2700 50  0001 C CNN
+F 3 "" H 3300 2700 50  0001 C CNN
+	4    3300 2700
+	0    1    1    0   
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 3 1 5BAFDEB6
+P 2900 2700
+AR Path="/5B9D167A/5BAA33A0/5BAFDEB6" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDEB6" Ref="U297"  Part="3" 
+F 0 "U297" V 2850 2600 50  0000 L CNN
+F 1 "74LS08" V 2950 2550 50  0000 L CNN
+F 2 "" H 2900 2700 50  0001 C CNN
+F 3 "" H 2900 2700 50  0001 C CNN
+	3    2900 2700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3800 950  3800 2100
+Connection ~ 3800 950 
+Wire Wire Line
+	3800 950  5850 950 
+Wire Wire Line
+	3400 1050 3400 2100
+Connection ~ 3400 1050
+Wire Wire Line
+	3400 1050 5100 1050
+Wire Wire Line
+	3000 2100 3000 1150
+Connection ~ 3000 1150
+Wire Wire Line
+	3000 1150 4700 1150
+Wire Wire Line
+	3700 3300 3700 3700
+Wire Wire Line
+	3700 3700 6600 3700
+Wire Wire Line
+	3300 3300 3300 4350
+Wire Wire Line
+	3300 4350 6600 4350
+Wire Wire Line
+	2900 3300 2900 5000
+Wire Wire Line
+	2900 5000 6600 5000
+Wire Wire Line
+	2100 7100 2200 7100
+Wire Wire Line
+	2200 7100 2200 1850
+Wire Wire Line
+	2200 1850 2800 1850
+Wire Wire Line
+	2800 1850 2800 2100
+Wire Wire Line
+	2800 1850 3200 1850
+Wire Wire Line
+	3200 1850 3200 2100
+Connection ~ 2800 1850
+Wire Wire Line
+	3200 1850 3600 1850
+Wire Wire Line
+	3600 1850 3600 2100
+Connection ~ 3200 1850
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 2 1 5BAFDED6
+P 1950 2700
+AR Path="/5B9D167A/5BAA33A0/5BAFDED6" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDED6" Ref="U297"  Part="2" 
+F 0 "U297" V 1900 2600 50  0000 L CNN
+F 1 "74LS08" V 2000 2550 50  0000 L CNN
+F 2 "" H 1950 2700 50  0001 C CNN
+F 3 "" H 1950 2700 50  0001 C CNN
+	2    1950 2700
+	0    1    1    0   
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 1 1 5BAFDEDD
+P 1550 2700
+AR Path="/5B9D167A/5BAA33A0/5BAFDEDD" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDEDD" Ref="U297"  Part="1" 
+F 0 "U297" V 1500 2600 50  0000 L CNN
+F 1 "74LS08" V 1600 2550 50  0000 L CNN
+F 2 "" H 1550 2700 50  0001 C CNN
+F 3 "" H 1550 2700 50  0001 C CNN
+	1    1550 2700
+	0    1    1    0   
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS08 U?
+U 4 1 5BAFDEE4
+P 1050 2750
+AR Path="/5B9D167A/5BAA33A0/5BAFDEE4" Ref="U?"  Part="1" 
+AR Path="/5B9D167A/5BAA33A0/5BAFDB78/5BAFDEE4" Ref="U296"  Part="4" 
+F 0 "U296" V 1000 2650 50  0000 L CNN
+F 1 "74LS08" V 1100 2600 50  0000 L CNN
+F 2 "" H 1050 2750 50  0001 C CNN
+F 3 "" H 1050 2750 50  0001 C CNN
+	4    1050 2750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2100 7200 2150 7200
+Wire Wire Line
+	2150 7200 2150 3150
+Wire Wire Line
+	2150 3150 2350 3150
+Wire Wire Line
+	2350 3150 2350 1950
+Wire Wire Line
+	2350 1950 1850 1950
+Wire Wire Line
+	1850 1950 1850 2100
+Wire Wire Line
+	1850 1950 1450 1950
+Wire Wire Line
+	1450 1950 1450 2100
+Connection ~ 1850 1950
+Wire Wire Line
+	2100 7300 2350 7300
+Wire Wire Line
+	2350 7300 2350 6600
+Wire Wire Line
+	2350 6600 1300 6600
+Wire Wire Line
+	1300 6600 1300 1950
+Wire Wire Line
+	1300 1950 950  1950
+Wire Wire Line
+	950  1950 950  2150
+Wire Wire Line
+	2350 950  2350 750 
+Wire Wire Line
+	2350 750  2050 750 
+Wire Wire Line
+	1150 750  1150 2150
+Connection ~ 2350 950 
+Wire Wire Line
+	2350 950  3800 950 
+Wire Wire Line
+	2050 750  2050 2100
+Connection ~ 2050 750 
+Wire Wire Line
+	2050 750  1150 750 
+Wire Wire Line
+	2400 1050 2400 800 
+Wire Wire Line
+	2400 800  1650 800 
+Wire Wire Line
+	1650 800  1650 2100
+Connection ~ 2400 1050
+Wire Wire Line
+	2400 1050 3400 1050
+Wire Wire Line
+	1950 3300 1950 4450
+Wire Wire Line
+	1950 4450 6600 4450
+Wire Wire Line
+	1550 3300 1550 5100
+Wire Wire Line
+	1550 5100 6600 5100
+Wire Wire Line
+	6600 5200 1050 5200
+Wire Wire Line
+	1050 5200 1050 3350
+Wire Wire Line
+	8250 4350 8250 5650
+Wire Wire Line
+	5850 950  5850 3050
+Text HLabel 9000 3650 2    50   Output ~ 0
+Q0
+Text HLabel 9000 3750 2    50   Output ~ 0
+Q1
+Text HLabel 9000 3850 2    50   Output ~ 0
+Q2
+Text HLabel 9000 3950 2    50   Output ~ 0
+Q3
+Text HLabel 9550 5750 2    50   Output ~ 0
+Overflow
+$EndSCHEMATC

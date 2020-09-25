@@ -1,0 +1,440 @@
+EESchema Schematic File Version 4
+LIBS:4-bit_processor-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 451 903
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 1850 7400 0    50   Input ~ 0
+S0
+Text HLabel 1850 7500 0    50   Input ~ 0
+S1
+Text HLabel 1850 7600 0    50   Input ~ 0
+S2
+Text HLabel 1850 7700 0    50   Input ~ 0
+S3
+Text HLabel 1850 1700 0    50   Input ~ 0
+M00
+Text HLabel 1850 1800 0    50   Input ~ 0
+M01
+Text HLabel 1850 1900 0    50   Input ~ 0
+M02
+Text HLabel 1850 2000 0    50   Input ~ 0
+M03
+Text HLabel 1850 3300 0    50   Input ~ 0
+D10
+Text HLabel 1850 3400 0    50   Input ~ 0
+D11
+Text HLabel 1850 3500 0    50   Input ~ 0
+D12
+Text HLabel 1850 3600 0    50   Input ~ 0
+D13
+Text HLabel 9450 2800 2    50   Output ~ 0
+Q0
+Text HLabel 9450 2900 2    50   Output ~ 0
+Q1
+Text HLabel 9450 3000 2    50   Output ~ 0
+Q2
+Text HLabel 9450 3100 2    50   Output ~ 0
+Q3
+Text HLabel 1850 5450 0    50   Input ~ 0
+MOD0
+Text HLabel 1850 5550 0    50   Input ~ 0
+MOD1
+Text HLabel 1850 5650 0    50   Input ~ 0
+MOD2
+Text HLabel 1850 5750 0    50   Input ~ 0
+MOD3
+Wire Wire Line
+	1850 7600 2550 7600
+$Sheet
+S 1850 5000 1100 950 
+U 5BB2D6F7
+F0 "On_Off" 50
+F1 "On_Off.sch" 50
+F2 "D0" I L 1850 5450 50 
+F3 "D1" I L 1850 5550 50 
+F4 "D2" I L 1850 5650 50 
+F5 "D3" I L 1850 5750 50 
+F6 "S0" I R 2950 5550 50 
+F7 "S1" I R 2950 5650 50 
+F8 "S2" I R 2950 5750 50 
+F9 "S3" I R 2950 5850 50 
+F10 "Q0" O R 2950 5050 50 
+F11 "Q1" O R 2950 5150 50 
+F12 "Q2" O R 2950 5250 50 
+F13 "Q3" O R 2950 5350 50 
+$EndSheet
+$Sheet
+S 1850 2850 1100 950 
+U 5BB302D5
+F0 "sheet5BB302C7" 50
+F1 "On_Off.sch" 50
+F2 "D0" I L 1850 3300 50 
+F3 "D1" I L 1850 3400 50 
+F4 "D2" I L 1850 3500 50 
+F5 "D3" I L 1850 3600 50 
+F6 "S0" I R 2950 3400 50 
+F7 "S1" I R 2950 3500 50 
+F8 "S2" I R 2950 3600 50 
+F9 "S3" I R 2950 3700 50 
+F10 "Q0" O R 2950 2900 50 
+F11 "Q1" O R 2950 3000 50 
+F12 "Q2" O R 2950 3100 50 
+F13 "Q3" O R 2950 3200 50 
+$EndSheet
+$Sheet
+S 1850 1250 1100 950 
+U 5BB303BB
+F0 "sheet5BB303AD" 50
+F1 "On_Off.sch" 50
+F2 "D0" I L 1850 1700 50 
+F3 "D1" I L 1850 1800 50 
+F4 "D2" I L 1850 1900 50 
+F5 "D3" I L 1850 2000 50 
+F6 "S0" I R 2950 1800 50 
+F7 "S1" I R 2950 1900 50 
+F8 "S2" I R 2950 2000 50 
+F9 "S3" I R 2950 2100 50 
+F10 "Q0" O R 2950 1300 50 
+F11 "Q1" O R 2950 1400 50 
+F12 "Q2" O R 2950 1500 50 
+F13 "Q3" O R 2950 1600 50 
+$EndSheet
+$Comp
+L 4-bit_processor-rescue:74LS04 U269
+U 2 1 5BB34644
+P 2800 6950
+F 0 "U269" V 2846 6772 50  0000 R CNN
+F 1 "74LS04" V 2755 6772 50  0000 R CNN
+F 2 "" H 2800 6950 50  0001 C CNN
+F 3 "" H 2800 6950 50  0001 C CNN
+	2    2800 6950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2800 7700 2800 7400
+Wire Wire Line
+	1850 7700 2800 7700
+Wire Wire Line
+	2800 6500 3300 6500
+Wire Wire Line
+	3300 6500 3300 5850
+Wire Wire Line
+	3300 5850 2950 5850
+Wire Wire Line
+	3300 5850 3300 3700
+Wire Wire Line
+	3300 3700 2950 3700
+Connection ~ 3300 5850
+Wire Wire Line
+	3300 3700 3300 2100
+Wire Wire Line
+	3300 2100 2950 2100
+Connection ~ 3300 3700
+Wire Wire Line
+	2550 7600 2550 6400
+Wire Wire Line
+	3250 6400 3250 5750
+Wire Wire Line
+	3250 5750 2950 5750
+Wire Wire Line
+	3250 5750 3250 3600
+Wire Wire Line
+	3250 3600 2950 3600
+Connection ~ 3250 5750
+Wire Wire Line
+	3250 3600 3250 2000
+Wire Wire Line
+	3250 2000 2950 2000
+Connection ~ 3250 3600
+Wire Wire Line
+	2550 6400 3250 6400
+Wire Wire Line
+	2450 7500 2450 6300
+Wire Wire Line
+	2450 6300 3200 6300
+Wire Wire Line
+	3200 6300 3200 5650
+Wire Wire Line
+	3200 5650 2950 5650
+Wire Wire Line
+	1850 7500 2450 7500
+Wire Wire Line
+	2350 7400 2350 6200
+Wire Wire Line
+	2350 6200 3100 6200
+Wire Wire Line
+	3100 6200 3100 5550
+Wire Wire Line
+	3100 5550 2950 5550
+Wire Wire Line
+	1850 7400 2350 7400
+$Comp
+L 4-bit_processor-rescue:74LS04 U269
+U 3 1 5BB37254
+P 3600 7450
+F 0 "U269" H 3600 7765 50  0000 C CNN
+F 1 "74LS04" H 3600 7674 50  0000 C CNN
+F 2 "" H 3600 7450 50  0001 C CNN
+F 3 "" H 3600 7450 50  0001 C CNN
+	3    3600 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS04 U269
+U 4 1 5BB37D71
+P 4550 7650
+F 0 "U269" H 4550 7965 50  0000 C CNN
+F 1 "74LS04" H 4550 7874 50  0000 C CNN
+F 2 "" H 4550 7650 50  0001 C CNN
+F 3 "" H 4550 7650 50  0001 C CNN
+	4    4550 7650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2350 7400 2350 7450
+Wire Wire Line
+	2350 7450 3150 7450
+Connection ~ 2350 7400
+Wire Wire Line
+	2450 7500 2450 7550
+Wire Wire Line
+	2450 7550 3100 7550
+Wire Wire Line
+	3100 7550 3100 7650
+Wire Wire Line
+	3100 7650 4100 7650
+Connection ~ 2450 7500
+Wire Wire Line
+	3100 5550 3100 1800
+Wire Wire Line
+	3100 1800 2950 1800
+Connection ~ 3100 5550
+Wire Wire Line
+	3200 5650 3200 3500
+Wire Wire Line
+	3200 3500 2950 3500
+Connection ~ 3200 5650
+Wire Wire Line
+	4050 7450 4050 3400
+Wire Wire Line
+	4050 3400 2950 3400
+Wire Wire Line
+	2950 1900 5000 1900
+Wire Wire Line
+	5000 1900 5000 7650
+$Comp
+L 4-bit_processor-rescue:74LS32 U281
+U 4 1 5BB3E441
+P 6850 2000
+F 0 "U281" H 6850 2100 50  0000 C CNN
+F 1 "74LS32" H 6850 1950 50  0000 C CNN
+F 2 "" H 6850 2000 50  0001 C CNN
+F 3 "" H 6850 2000 50  0001 C CNN
+	4    6850 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS32 U290
+U 4 1 5BB44214
+P 8050 2100
+F 0 "U290" H 8050 2200 50  0000 C CNN
+F 1 "74LS32" H 8050 2050 50  0000 C CNN
+F 2 "" H 8050 2100 50  0001 C CNN
+F 3 "" H 8050 2100 50  0001 C CNN
+	4    8050 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7450 2200 7100 2200
+Wire Wire Line
+	7100 2200 7100 2250
+$Comp
+L 4-bit_processor-rescue:74LS32 U290
+U 1 1 5BB45336
+P 6850 2550
+F 0 "U290" H 6850 2650 50  0000 C CNN
+F 1 "74LS32" H 6850 2500 50  0000 C CNN
+F 2 "" H 6850 2550 50  0001 C CNN
+F 3 "" H 6850 2550 50  0001 C CNN
+	1    6850 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS32 U291
+U 1 1 5BB4533D
+P 8050 2650
+F 0 "U291" H 8050 2750 50  0000 C CNN
+F 1 "74LS32" H 8050 2600 50  0000 C CNN
+F 2 "" H 8050 2650 50  0001 C CNN
+F 3 "" H 8050 2650 50  0001 C CNN
+	1    8050 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7450 2750 7100 2750
+Wire Wire Line
+	7100 2750 7100 2800
+$Comp
+L 4-bit_processor-rescue:74LS32 U290
+U 2 1 5BB45D4A
+P 6850 3100
+F 0 "U290" H 6850 3200 50  0000 C CNN
+F 1 "74LS32" H 6850 3050 50  0000 C CNN
+F 2 "" H 6850 3100 50  0001 C CNN
+F 3 "" H 6850 3100 50  0001 C CNN
+	2    6850 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS32 U291
+U 2 1 5BB45D51
+P 8050 3200
+F 0 "U291" H 8050 3300 50  0000 C CNN
+F 1 "74LS32" H 8050 3150 50  0000 C CNN
+F 2 "" H 8050 3200 50  0001 C CNN
+F 3 "" H 8050 3200 50  0001 C CNN
+	2    8050 3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7450 3300 7100 3300
+Wire Wire Line
+	7100 3300 7100 3350
+$Comp
+L 4-bit_processor-rescue:74LS32 U290
+U 3 1 5BB46801
+P 6850 3700
+F 0 "U290" H 6850 3800 50  0000 C CNN
+F 1 "74LS32" H 6850 3650 50  0000 C CNN
+F 2 "" H 6850 3700 50  0001 C CNN
+F 3 "" H 6850 3700 50  0001 C CNN
+	3    6850 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4-bit_processor-rescue:74LS32 U291
+U 3 1 5BB46808
+P 8050 3800
+F 0 "U291" H 8050 3900 50  0000 C CNN
+F 1 "74LS32" H 8050 3750 50  0000 C CNN
+F 2 "" H 8050 3800 50  0001 C CNN
+F 3 "" H 8050 3800 50  0001 C CNN
+	3    8050 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7450 3900 7100 3900
+Wire Wire Line
+	7100 3900 7100 3950
+Wire Wire Line
+	7100 3950 6250 3950
+Wire Wire Line
+	8650 3800 9350 3800
+Wire Wire Line
+	9350 3800 9350 3100
+Wire Wire Line
+	9350 3100 9450 3100
+Wire Wire Line
+	8650 3200 9200 3200
+Wire Wire Line
+	9200 3200 9200 3000
+Wire Wire Line
+	9200 3000 9450 3000
+Wire Wire Line
+	8650 2650 9000 2650
+Wire Wire Line
+	9000 2650 9000 2900
+Wire Wire Line
+	9000 2900 9450 2900
+Wire Wire Line
+	9450 2800 9100 2800
+Wire Wire Line
+	9100 2800 9100 2100
+Wire Wire Line
+	9100 2100 8650 2100
+Wire Wire Line
+	2950 5050 5100 5050
+Wire Wire Line
+	5100 5050 5100 1900
+Wire Wire Line
+	5100 1900 6250 1900
+Wire Wire Line
+	2950 2900 3500 2900
+Wire Wire Line
+	3500 2900 3500 2100
+Wire Wire Line
+	3500 2100 6250 2100
+Wire Wire Line
+	2950 1300 5850 1300
+Wire Wire Line
+	5850 1300 5850 2250
+Wire Wire Line
+	5850 2250 7100 2250
+Wire Wire Line
+	2950 1400 3550 1400
+Wire Wire Line
+	3550 1400 3550 2800
+Wire Wire Line
+	3550 2800 7100 2800
+Wire Wire Line
+	2950 1500 3650 1500
+Wire Wire Line
+	3650 1500 3650 3350
+Wire Wire Line
+	3650 3350 7100 3350
+Wire Wire Line
+	2950 1600 3700 1600
+Wire Wire Line
+	3700 1600 3700 4000
+Wire Wire Line
+	3700 4000 6250 4000
+Wire Wire Line
+	6250 4000 6250 3950
+Wire Wire Line
+	2950 5150 3800 5150
+Wire Wire Line
+	3800 5150 3800 2450
+Wire Wire Line
+	3800 2450 6250 2450
+Wire Wire Line
+	2950 5250 3900 5250
+Wire Wire Line
+	3900 5250 3900 3000
+Wire Wire Line
+	3900 3000 6250 3000
+Wire Wire Line
+	2950 5350 4000 5350
+Wire Wire Line
+	4000 5350 4000 3600
+Wire Wire Line
+	4000 3600 6250 3600
+Wire Wire Line
+	2950 3000 3850 3000
+Wire Wire Line
+	3850 3000 3850 2650
+Wire Wire Line
+	3850 2650 6250 2650
+Wire Wire Line
+	6250 3200 4200 3200
+Wire Wire Line
+	4200 3200 4200 3100
+Wire Wire Line
+	4200 3100 2950 3100
+Wire Wire Line
+	2950 3200 3500 3200
+Wire Wire Line
+	3500 3200 3500 3800
+Wire Wire Line
+	3500 3800 6250 3800
+$EndSCHEMATC

@@ -1,0 +1,25 @@
+EESchema Schematic File Version 4
+LIBS:4-bit_processor-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 452 1330
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 2400 3400 0    50   Input ~ 0
+a
+Text HLabel 2400 3900 0    50   Input ~ 0
+b
+Text HLabel 6750 3400 2    50   Output ~ 0
+s
+Text HLabel 6750 3900 2    50   Output ~ 0
+Cout
+$EndSCHEMATC
